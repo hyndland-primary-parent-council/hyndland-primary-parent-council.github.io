@@ -1,0 +1,31 @@
+---
+title: Good News – Update on School Janny Clusters and the Ongoing Industrial Action
+date: '2017-03-30'
+categories:
+- News
+source_path: news/good-news-update-on-school-janny-clusters-and-the-ongoing-industrial-action/index.html
+extracted_mode: article
+---
+[News](category/news/)
+
+# Good News – Update on School Janny Clusters and the Ongoing Industrial Action
+
+[March 30, 2017](news/good-news-update-on-school-janny-clusters-and-the-ongoing-industrial-action/) [admin](author/admin/)
+
+Some good news has emerged from the janitorial dispute over the past few days.
+
+GCC/Cordia have decided to shelve their plans to introduce janitorial clusters, whereby we would lose Janny John from being a dedicated janny at Hyndland Primary School.
+
+The letter from the Director of Cordia not only suggests that not introducing the clusters is to the detriment of schools, but that they will need to look at other means at achieving the half a million pounds cost savings that they are looking for. So, watch this space, as who knows what they may come up with.
+
+While the letter refers to the decision to withdraw the offer being down to lack of agreement with the three janitorial unions, I think without any doubt that the major public relations disaster that GCC/Cordia created for themselves by embarking on this daft idea was also instrumental in their decision. So, the parents’ letters, emails and protests, along with the recent media publicity without question caused GCC/Cordia major difficulties. Of course, they wouldn’t admit this.
+
+The letter from Andy Clark at Cordia also makes absolutely no commitment to future consultation with Parent Councils and parents, merely that we will be informed about any further developments in GCC/Cordia’s plans to reduce costs.
+
+However, while there’s good news on this front (however long it may last), the year-long dispute over the jannies’ Working Context and Demand payment is yet to be resolved. As such, it would still be very important in helping the jannies in their cause if as parents we all individually wrote to GCC/Cordia demonstrating our ongoing support for the jannies in their legitimate claim. It is not an expensive demand on GCC/Cordia and while they were apparently happy to pay £1,000 plus pay increases to the jannies if they accepted cluster working, they do not appear to have any interest in paying them a small (around £10 per week) additional sum that other GCC staff get.
+
+So, please do contact elected representatives and officials, some of whom are supportive of the jannies, but for whom knowledge of widespread public support is important, especially as we head towards the local authority elections on 4 May.
+
+On a related now, because GCC/Cordia have pulled the janny cluster proposals, we have decided not to go ahead with the planned protest at the school this Friday. However, if GCC/Cordia come back with more unwelcome proposals then it’s time to dust off the vuvuzelas!
+
+Thank you.

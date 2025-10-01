@@ -1,0 +1,119 @@
+---
+title: Hyndland Primary Parent Council
+date: '2025-10-01'
+source_path: feed/atom/index.html
+extracted_mode: full_body
+categories: []
+---
+Hyndland Primary Parent CouncilParent Noticeboard2019-01-17T18:10:48Zfeed/atom/admin?p=16602018-10-24T11:28:25Z2018-10-24T11:28:25ZNext meeting now Wednesday 7 November, 7pm – 8.30pm, School Staff Room ]]\>admin?p=16552018-10-14T09:06:26Z2018-10-14T09:06:26ZNB: The date of this event has been changed from 2 November to 26 October due to availability of Parent Council volunteers. There is no bar at the Hyndland Community Halls, so it is Bring Your Own Bottle (BYOB). There is a Sainsbury’s Local next door to the venue. Soft drinks will be provided for children and alcohol-free adults.
+
+[![](/assets/images/2018/10/Halloween2018-212x300.jpg)](/assets/images/2018/10/Halloween2018.jpg)
+
+]]\>admin?p=16432018-10-05T08:47:01Z2018-10-05T08:47:01ZApologies for the short notice, but unfortunately, due to availability of volunteers & several parents/carers & other groups of people indicating yesterday that they wouldn’t be able to make the Quiz Night tomorrow, we have taken the decision to postpone it. The last time we had such late notification we ran it at about one third capacity and made very little in terms of fund-raising and of course there were far fewer teams.
+
+We’ll re-advertise once we have a new date and will probably need to consider a new approach.
+]]\>admin?p=16192018-09-04T15:10:02Z2018-09-04T14:57:31Z[![](/assets/images/2018/09/Sept-social.jpg)](/assets/images/2018/09/Sept-social.jpg)
+
+NB: While there is&nbsp;no charge for this event, we have included a suggested donation to help cover the costs, though any donations will be gratefully received and will be used to contribute towards the work of the Parent Council in supporting the educational experience of all of the children at the school.
+
+]]\>admin?p=16162018-09-04T14:50:09Z2018-09-04T14:49:11Z **Next meeting: ANNUAL GENERAL MEETING, Wednesday 12 September 2018, 7pm-9pm, School Dinner Hall, Hyndland Primary School**
+
+Hyndland Primary School Parent Council is only as good as the support and involvement of those who contribute to it and the work of the wider Parent Forum.
+
+Please come along to the AGM and find out what we did during 2017-18 and what we plan to do during the 2018-19 school year.
+
+We are always looking for as wide a level of engagement and involvement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at:
+
+[**enquiries@hyndlandprimaryparentcouncil.org**](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+
+If you have anything you would like to raise at Parent Council please contact the Chair John Lewis at&nbsp;[**john.lewis-hpc@hotmail.co.uk**](mailto:john.lewis-hpc@hotmail.co.uk)
+
+Please come along and support us!
+
+_NB: Issues about individual children should be taken up with class teachers, the Head Teacher or the Depute Heads._
+
+Other Parent Council meetings (there are some changes from the published list in June):
+
+- Wednesday 24 October 2018
+- Wednesday 28 November 2018
+- Wednesday 23 January 2019
+- Wednesday 6 March 2019
+- Wednesday 24 April 2019
+- Wednesday 29 May 2019
+
+]]\>admin?p=16142018-09-04T14:31:09Z2018-09-04T14:31:09Z… for Kids and their Parents and Carers – and for Parents and Carers&nbsp; **without** the Kids!
+
+Please put the following dates in your diaries and we’ll let you know more about them closer to the times, including asking for volunteers, raffle donations, etc.
+
+- Friday 7 September (6-10pm) – Back 2 School Family Social, Cricket Ground
+- Friday 5 October (7.30pm-Late) – Quiz Night (adults only), venue TBC
+- Friday 2 November (7-10pm) – Halloween Disco, venue TBC
+- Friday 25 January&nbsp; **OR** Friday 1 February (7-10pm) – Ceilidh, TBC
+- Friday 1 March (7.30pm-Late) – Quiz Night (adults only), venue TBC
+- Friday 31 May (7-10pm\_ – Ceilidh/Disco, venue TBC
+
+All venues will be confirmed and re-publicised soon. Keep a look out for the newsletter, posters, flyers and Tweets.
+
+]]\>admin?p=16122018-09-04T14:25:34Z2018-09-04T14:25:34ZWelcome back to all of you whose kids are returning to Hyndland Primary for the new school year and welcome to all of you whose kids are new to the school, whether in P1 or across the school years.
+
+We hope that you and your children all had a great summer, enjoyed the unusual and extended period of actual real summer in Glasgow, but are happy and raring to engage with what lies ahead in the school year.
+
+Welcome back also to all of the hard-working staff at the school and we as a Parent Council look forward to helping to support you in your work with our children over the coming year.
+
+The new speedbumps are a welcome and long overdue addition to the road safety around the front of the school. Glasgow City Council in their wisdom may have decided to only place the parking meters at either end of the long bend on Fortrose Street, rather than in the critical area in between and right outside the school, but it’s important to consider that trying to avoid paying the meter fee for a brief stop is not an excuse to either disembark small children into the middle of the road, abandon them on the other side to navigate crossing oncoming traffic by themselves, nor to park on the yellow zigzags outside the school. Parking on the zigzags is unlawful, dangerous and, as the sign says, selfish. For the safety of the children, other parents and carers and staff, please be conscientious drivers and parkers.
+
+We have a number of social events planned for this school year, but would like to draw your attention to the first of these, a&nbsp; **Parent Council School Social for parents and carers, your children and staff at the West of Scotland Cricket Club on Friday 7 September from 6pm to 10pm**. Other events include ceilidhs and Halloween discos for everyone and quiz nights just for the parents, carers and staff. We will be looking for volunteers and raffle prize donations, etc., and will let you know in due course and hope that you and your children will come along and enjoy them.
+
+It is also really important that as many parents and carers as possible get involved with your children’s learning experiences at the school, whether that’s through the new Seesaw app, helping out at the school, fundraising, or engaging with and through the Parent Council. So, we would be delighted if as many parents and carers as possible came along to the&nbsp; **Parent Council** meetings, the first of which is the&nbsp; **Annual General Meeting on Wednesday 12 September from 7pm to 9pm** in the school dinner hall.
+
+On behalf of all the parents, carers and members on the Parent Council, we hope that you and your children have a great year ahead.
+
+]]\>admin?p=15742018-07-08T18:19:27Z2018-07-08T18:19:27ZNext Meeting: ANNUAL GENERAL MEETING, Wednesday 12 September 2018, 7pm-9pm, School Dinner Hall, Hyndland Primary School
+
+Hyndland Primary School Parent Council is only as good as the support and involvement of those who contribute to it and the work of the wider Parent Forum.
+
+Please come along to the AGM and find out what we did during 2017-18 and what we plan to do during the 2018-19 school year.
+
+We are always looking for as a wide a level of engagement and involvement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+
+If you have anything you would like to raise at Parent Council please contact the Chair, John Lewis, at [john.lewis-hpc@hotmail.co.uk](mailto:john.lewis-hpc@hotmail.co.uk)
+
+Please come along and support us!
+
+_NB: Issues about individual children should be taken up with class teachers, the Head Teacher or the Depute Heads._
+
+Other Parent Council meetings TBC:
+
+- Wednesday 24 October 2018
+- Wednesday 28 November 2018
+- Wednesday 16 January 2019
+- Wednesday 27 February 2019
+- Wednesday 27 March 2019
+- Wednesday 1 May 2019
+- Wednesday 29 May 2019
+
+]]\>admin?p=15722018-07-08T16:07:28Z2018-07-08T16:07:28ZOn Monday 14 May Glasgow City Council (GCC) issued a lengthy school consultation on secondary school Placing Requests and School Catchment Areas, which runs from 14 May until 24 September.
+
+The proposals that were approved by GCC’s City Administration Committee are available at: [https://www.glasgow.gov.uk/index.aspx?articleid=22550](https://www.glasgow.gov.uk/index.aspx?articleid=22550). They provide a glimpse on how GCC will propose changes to Secondary Schools’ placing requests criteria, as well as allocating catchment areas to 17 secondary schools in Glasgow.
+
+As it is a large scale consultation that will affect many families across Glasgow, it would be advisable for those of you who have children who will progress to secondary school over the next several years to read through the consultation thoroughly and respond.
+
+Hyndland Primary School Parent Council will contact parents and carers who have children at the school after the summer holidays (so that the new P1 parents and carers are included), in order to provide a collective response.
+
+This may be particularly of interest for parents and carers whose children entered Hyndland Primary School as placing requests.
+
+Additionally, GCC has now committed to start preparatory work for the consultation to review the admission policy of Notre Dame High School (currently girls only), just after the above is concluded in the Autumn.
+
+]]\>admin?p=15672018-07-03T09:21:10Z2018-07-03T09:21:10ZOver the past 5-6 weeks, the Parent Council has held both a Quiz Night and a Ceilidh and along with the parents, carers, teachers and children who attended, a lot of fun was had and we also managed to raise funds towards the P1 playground developments (from the Quiz Night) and start building some funds towards development work in the other playgrounds.
+
+The Quiz Night raise £215 and the Ceilidh raised £250, in both instances these were the profits after outgoings, such as hall hire (and the Burgh Halls is ridiculously expensive!), band hire, etc.
+
+A special thanks to the helpers and everyone who came along, contributed food, tombola and raffle prizes, helped sell raffle tickets, helped clear up, do ‘crowd control’ etc. Your contributions are greatly appreciated as always.
+
+Additionally, another special thanks goes to Innis at Basta Pizza, for contributing a bumper gift voucher for the raffle. This is a great example of local businesses supporting their local community and, as such, they deserve plenty of patronage from the local community.
+
+Additionally, the Mums on the Run had another very successful Bake Off and Book Sale, raising £307 towards the P7 leaver celebrations. I’m reliably informed that the kids seemed to have a good time, and the parents particularly enjoyed seeing them singing along to Rick Astley and finishing off the proceedings with an Icelandic thunderclap. A big thank you to Marco at Pizza Magic for his generosity in giving the organisers a great deal on the pizzas for the night. Another great example of community spirit and support from the West End pizza-making community!
+
+For putting in the hard work on the improvement to the P1 playground, a special thanks goes out to everyone, including the student volunteers from Glasgow Clyde College. It’s looking so much better and hopefully we can get some more parent and carer volunteers coming forward to help continue this work on the P1 playground and the other playgrounds.
+
+]]\>

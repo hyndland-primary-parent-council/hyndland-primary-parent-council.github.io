@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>
+    {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
+  </title>
+  {%- seo -%}
+  <style>
+    :root { --bg:#fff; --ink:#222; --muted:#666; --accent:#24890d; --border:#e6e6e6; --sidebar:#111; --sidebar-ink:#f1f1f1; }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    img{max-width:100%;height:auto}
+
+    /* Top bar */
+    .topbar{background:#111;color:#fff}
+    .topbar .wrap{max-width:1100px;margin:0 auto;padding:.75rem 1rem;display:flex;align-items:center;gap:1rem}
+    .brand{font-weight:700}
+    .nav{margin-left:auto;display:flex;gap:1.25rem}
+    .nav a{color:#fff;opacity:.9}
+    .nav a:hover{opacity:1}
+
+    /* Header image/title */
+    .hero{max-width:1100px;margin:1rem auto 0;padding:0 1rem}
+    .site-title{margin:.5rem 0 1rem;font-size:1.75rem}
+
+    /* Layout columns */
+    .wrap{max-width:1100px;margin:0 auto;padding:0 1rem}
+    .grid{display:grid;grid-template-columns: 220px 1fr 260px; gap:2rem; align-items:start}
+    @media (max-width: 1000px){ .grid{grid-template-columns: 1fr} .sidebar-left,.sidebar-right{order:2} }
+
+    .sidebar-left{background:#111;color:var(--sidebar-ink);padding:1rem;border-radius:6px;position:sticky;top:1rem}
+    .sidebar-left a{color:#fff}
+    .sidebar-left h3{margin:1rem 0 .5rem;font-size:0.9rem;text-transform:uppercase;letter-spacing:.02em}
+    .sidebar-left ul{list-style:none;padding:0;margin:.25rem 0}
+    .sidebar-left li{margin:.25rem 0}
+
+    .sidebar-right{padding:0}
+    .box{background:#f7f7f7;border:1px solid var(--border);border-radius:6px;padding:1rem;margin:0 0 1rem}
+    .box h3{margin:.25rem 0 1rem;font-size:0.95rem;text-transform:uppercase;letter-spacing:.02em}
+
+    .content{padding:0}
+
+    /* Post list */
+    .post{padding:1.25rem 0;border-bottom:1px solid var(--border)}
+    .post:last-child{border-bottom:0}
+    .post .meta{color:var(--muted);font-size:.9rem;margin:.25rem 0 .5rem}
+
+    /* Footer */
+    footer{border-top:1px solid var(--border);margin:2rem 0 0}
+    footer .wrap{padding:1rem;color:var(--muted);font-size:.9rem}
+  </style>
+</head>
+<body>
+
+  <!-- Top nav -->
+  <div class="topbar">
+    <div class="wrap">
+      <div class="brand">{{ site.title }}</div>
+      <nav class="nav" aria-label="Primary">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/school-uniform/' | relative_url }}">School Uniform</a>
+        <a href="{{ '/term-dates/'     | relative_url }}">Term Dates</a>
+        <a href="{{ '/parent-council/' | relative_url }}">Parent Council</a>
+        <a href="{{ '/contact-us/'     | relative_url }}">Contact Us</a>
+      </nav>
+    </div>
+  </div>
+
+  <!-- Banner + title (use existing banner if present) -->
+  <div class="hero">
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/2020/08/cropped-crop-1-scaled-1.jpg' | relative_url }}" alt="Hyndland Primary Parent Council banner">
+    </a>
+    <h1 class="site-title">{{ site.title }}</h1>
+  </div>
+
+  <!-- Main grid -->
+  <div class="wrap">
+    <div class="grid">
+
+      <!-- Left sidebar -->
+      <aside class="sidebar-left">
+        <h3>Search</h3>
+        <form role="search" method="get" action="{{ '/' | relative_url }}">
+          <input name="s" placeholder="Search…" style="width:100%;padding:.5rem;border-radius:4px;border:1px solid #444;background:#000;color:#fff">
+        </form>
+
+        <h3>Donate to Parent Council</h3>
+        <p style="margin:.5rem 0 1rem">Find out more about the Parent Council, what it does and how you can support it <a href="{{ '/parent-council/' | relative_url }}">here</a>.</p>
+        <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW7E8PDGXH45Y"><img src="https://www.paypalobjects.com/en_US/i/btn/x-click-butcc-donate.gif" alt="Donate"></a></p>
+
+        <h3>Pages</h3>
+        <ul>
+          {%- assign desired = "contact-us,cookies,fundraising,links,minutes-archive,mums-on-the-run,music-club,newsletter-subscription,online-resources,parent-council,parent-council-constitution,privacy,scholastic-book-club,school-uniform,summer-fayre,term-dates" | split: "," -%}
+          {%- for slug in desired -%}
+          {%- assign path = "/" | append: slug | append: "/" -%}
+          {%- assign p = site.pages | where: "url", path | first -%}
+          {%- if p -%}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title | default: slug | replace:"-"," " | capitalize }}</a></li>
+          {%- endif -%}
+          {%- endfor -%}
+        </ul>
+
+      </aside>
+
+      <!-- Main content -->
+      <main class="content" id="content" role="main">
+        {{ content }}
+      </main>
+
+      <!-- Right sidebar -->
+      <aside class="sidebar-right">
+        <div class="box">
+          <h3>About</h3>
+          <p>This website is for parents and carers of pupils at Hyndland Primary School and is run by its Parent Council.</p>
+          <p>For in-depth updates direct to your inbox, please <a href="{{ '/newsletter-subscription/' | relative_url }}">subscribe to our newsletter</a>.</p>
+          <p>
+            <a href="https://twitter.com/HyndlandC" target="_blank" rel="noopener">Twitter icon</a>
+            &nbsp;RSS icon&nbsp;Newsletter icon&nbsp;<a href="mailto:enquiries@hyndlandprimaryparentcouncil.org">Email icon</a>
+          </p>
+          <p>The school website is <a href="https://blogs.glowscotland.org.uk/gc/hyndlandps/" target="_blank" rel="noopener">here</a> and you can contact the school directly on 0141 339 7207.</p>
+        </div>
+
+        <div class="box">
+          <h3>School Twitter</h3>
+          <p><a href="https://twitter.com/HyndlandPS" target="_blank" rel="noopener">@HyndlandPS</a></p>
+        </div>
+      </aside>
+
+    </div>
+  </div>
+
+  <footer>
+    <div class="wrap">
+      <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
+    </div>
+  </footer>
+
+</body>
+</html>

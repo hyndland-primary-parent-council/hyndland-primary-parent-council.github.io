@@ -1,0 +1,26 @@
+---
+title: Mums on the Run Update
+date: '2013-10-23'
+categories:
+- Mums On The Run
+- News
+source_path: news/mums-on-the-run-update/index.html
+extracted_mode: article
+---
+[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+
+# Mums on the Run Update
+
+[October 23, 2013](news/mums-on-the-run-update/) [admin](author/admin/)
+
+![](https://s3.amazonaws.com/fundrazr-platform/campaigns/3945a554fd0743669c142e7efe4786d9.jpg)
+
+After another great training run this morning, there’s still one more before the big event! &nbsp;For those of you still worried about not being able to run 5k yet, or not being able to run fast enough, PLEASE DON’T! This is supposed to be fun, you’ve still got a couple of weeks left, and Lesley Ann said that she’s hoping to do it in 20 minutes (19 with a good tail wind), so there’s a few minutes you can get the benefit of right there.
+
+Over £300 has already been donated through the online giving page
+
+[https://fundrazr.com/campaigns/dcMX8](http://t.ymlp231.net/ehhadauubjeaaayeaoaewm/click.php)
+
+Please feel free to share the online giving page on social media and new runners (including Dads) are still VERY welcome!
+
+Contact&nbsp;[Louise](mailto:scottishchick72@hotmail.com)&nbsp;for more info.

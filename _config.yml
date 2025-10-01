@@ -1,0 +1,48 @@
+source: content
+layouts_dir: _layouts
+
+# Make sure layouts are visible here:
+# (only if your layouts are at content/_layouts — which they are now)
+# layouts_dir: _layouts
+
+title: "Hyndland Primary Parent Council"
+description: "Parent Noticeboard"
+
+permalink: pretty
+markdown: kramdown
+kramdown: { input: GFM }
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+defaults:
+  # your existing defaults can stay
+  - scope:
+      path: ""          # everything
+      type: "pages"
+    values:
+      layout: default
+
+  # NEW: mark everything under /news/ as "news"
+  - scope:
+      path: "news/"     # path is relative to `source:` (so this is content/news/)
+      type: "pages"
+    values:
+      is_news: true
+      categories: ["News"]       # helpful but optional
+
+
+# jekyll-paginate-v2 settings (paginate pages that live under /news/)
+pagination:
+  enabled: true
+
+# Exclude noisy WP system paths relative to source (content/)
+exclude:
+  - wp-json
+  - wp-admin
+  - wp-includes
+  - xmlrpc.php
+  - wp-content/plugins
+
