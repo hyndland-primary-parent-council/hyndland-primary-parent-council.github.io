@@ -7,12 +7,10 @@ categories: []
 ---
 # CONSTITUTION OF HYNDLAND PRIMARY SCHOOL PARENT COUNCIL
 
-1. 
 ## Introduction
 
 This is the constitution for Hyndland Primary School Parent Council.
 
-2. 
 ## Objectives
 
 The objectives of the Parent Council are:
@@ -22,7 +20,6 @@ The objectives of the Parent Council are:
   - To promote parental involvement in their child’s education and learning
   - To develop and engage in activities which support the education and welfare of the pupils.
 
-3. 
 ## Membership
 
 There will be 12 members of the Hyndland Primary School Parent Council which will comprise of:
@@ -34,7 +31,6 @@ There will be 12 members of the Hyndland Primary School Parent Council which wil
 
 The quorum shall be not less than one third of the membership and if the quorum is not present 15 minutes after the appointed time, the meeting shall be adjourned and no business conducted.
 
-4. 
 ## Selection of Members
 
 Any parent of a child at the school can volunteer to be a member of the Parent Council. Where there are more nominations than places available, a draw will be held, which should be attended by the nominees and no less than a quorum of the Parent Council. The draw should be conducted by the Chair of the Parent Council.
@@ -43,7 +39,6 @@ The Head Teacher has a right and duty to attend and one other member of staff an
 
 These places will be managed by an agreed rotation from volunteering staff.
 
-5. 
 ## Office Bearers
 
 The Parent Council will have a Chair, Vice-Chair, Treasurer and Secretary which will be agreed by the Parent Council. The Parent Council will appoint a Minutes Clerk for which there will be a paid position available.
@@ -52,7 +47,6 @@ Office bearers will be re-selected by the Parent Council on an annual basis at t
 
 The Parent Council will be chaired by a member of the Parent forum and in the event that the Chairperson’s child ceases to attend Hyndland Primary School that person’s term of office will be terminated and a new Chair will be appointed at the next scheduled meeting.
 
-6. 
 ## General Meetings/Annual General Meetings/Special General Meetings
 
 The Annual General Meeting will be held in late September of each year.
@@ -69,7 +63,6 @@ The meeting will include:
 
 If 25 or more parents of children request a special general meeting to discuss issues falling within the Council’s remit, the Parent Council shall arrange this within three weeks of receiving the request in writing to the Chair. The Parent Council shall give all members of the Parent Forum at least one week’s notice of the meeting and at the same time, circulate notice of the matter, or matters, to be discussed at the meeting.
 
-7. 
 ## Responsibilities/Duties
 
 The Parent Council will meet on a minimum of eight occasions throughout the school session with members of the Parent Forum advised of the meeting dates in advance.
@@ -80,7 +73,6 @@ Any member of the Parent Forum can request that a subject be discussed at a meet
 
 Discussions at Parent Council meetings should be open to the public, unless the matters to be discussed relate to issues which may impact upon the confidentiality of individual teachers and pupils in the school. All issues of a confidential nature should not be recorded in an open minute. In such cases, only members of the Parent Council and the Head Teacher and his of her representatives are entitled to be present.
 
-8. 
 ## Expectations of Parent Council Member
 
 It is expected that all Parent Council Representatives conduct themselves in an appropriate manner showing respect and due consideration towards all members of the school community.
@@ -89,22 +81,18 @@ If these expectations are not fulfilled, the appropriateness of membership of th
 
 Any Parent Council member who is absent on three consecutive occasions without apologies are deemed to have resigned.
 
-9. 
 ## Notes of Meetings
 
 Copies of minutes relating to all meetings will be available to all teachers and members of the Parent Forum. Copies will be displayed on the Parent Council Notice board and the Parent Council website.
 
-10. 
 ## Sub Groups
 
 The Parent Council will have the authority to establish sub-groups or working parties for specific purposes from anyone within the parent forum or co-opted members of the Parent Council. Any final decisions arising will be submitted for ratification by the Parent Council.
 
-11. 
 ## Changing the Constitution
 
 The Parent Council may change its constitution after obtaining approval from a majority of members of the Parent Council. Members of the Parent Forum will be sent a copy of any proposed amendments and given reasonable time to respond to the proposal.
 
-12. 
 ## Treasurer
 
 The Treasurer will open a bank or building society account in the name of the Parent Council for all Parent Council funds. Withdrawals will require the signature of the Treasurer and one other Parent Council member.
@@ -115,7 +103,6 @@ The Parent Council accounts will be audited by the auditor appointed at the prev
 
 The Parent Council shall be responsible for ensuring that all monies are used in accordance with the objectives of the Parent Council.
 
-13. 
 ## Ceasing to exist
 
 Should the Parent Council cease to exist, any remaining funds will be passed to the education authority to be used for the benefit of the school where this continues.
