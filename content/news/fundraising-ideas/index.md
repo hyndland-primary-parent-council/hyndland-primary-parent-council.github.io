@@ -6,11 +6,11 @@ categories:
 source_path: news/fundraising-ideas/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Fundraising Ideas
 
-[September 26, 2013](news/fundraising-ideas/) [admin](author/admin/)
+[September 26, 2013](/news/fundraising-ideas/) [admin](author/admin/)
 
 We’re taking a fresh look at the way we raise funds to help the school and are looking for more volunteers to join us. In the past we’ve met in the evening and whilst that has worked for the ceilidh and quiz planners we’re now looking for more folk to get involved (particularly those with younger children in the school as those of us with P7 children won’t be around for ever!).
 

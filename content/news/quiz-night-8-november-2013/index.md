@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-8-november-2013/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night 8 November 2013
 
-[October 21, 2013](news/quiz-night-8-november-2013/) [admin](author/admin/)
+[October 21, 2013](/news/quiz-night-8-november-2013/) [admin](author/admin/)
 
 **Friday 8th November**  
 7.30-11pm  

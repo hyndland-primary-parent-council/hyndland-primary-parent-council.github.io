@@ -6,11 +6,11 @@ categories:
 source_path: news/traffic-management-parking-plan/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Traffic Management / Parking Plan
 
-[February 23, 2016](news/traffic-management-parking-plan/) [admin](author/admin/)
+[February 23, 2016](/news/traffic-management-parking-plan/) [admin](author/admin/)
 
 Glasgow City Council have now published their traffic management/parking plan for around the school and the wider Partick-Partickhill-Dowanhill area. You may have seen the notices posted around the affected streets. We’re interested in this from a road safety around the school entrances point of view and we will formulate a response and share it with you prior to the&nbsp; **consultation deadline of 8 March**.
 

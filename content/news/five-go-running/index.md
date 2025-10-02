@@ -7,11 +7,11 @@ categories:
 source_path: news/five-go-running/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Five Go Running
 
-[October 6, 2014](news/five-go-running/) [admin](author/admin/)
+[October 6, 2014](/news/five-go-running/) [admin](author/admin/)
 
 Hyndland Mums on the Run are raising money this October to pay for buses to take the kids to Scotstoun Stadium. Each year group will get the chance to experience what it’s like to compete in a professional athletics stadium – running on a real track, doing long jump in a proper long jump sandpit and using the same facilities that Team Scotland’s athletes use on a regular basis. If you would like to be part of our fundraising activities – either by sponsoring a runner or taking part yourself – check out our leaflet below. Please get involved because your money and efforts can make a real difference to our kids. A bus costs £150 – we get the Stadium for free.
 

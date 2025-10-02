@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-agm-4/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council AGM
 
-[September 26, 2013](news/parent-council-agm-4/) [admin](author/admin/)
+[September 26, 2013](/news/parent-council-agm-4/) [admin](author/admin/)
 
 Parent Reps elected for this year were as follows:
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/summertime-and-the-livin-is-easy/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Summertime, and the livin’ is easy…
 
-[June 29, 2017](news/summertime-and-the-livin-is-easy/) [admin](author/admin/)
+[June 29, 2017](/news/summertime-and-the-livin-is-easy/) [admin](author/admin/)
 
 Another year in the educational development of our children at Hyndland Primary School has passed in almost the blink of an eye, much educational progress has been made, lots of fun has been had, but now it’s time for 7 weeks of well-earned R&R; well, for the staff and children at least!
 

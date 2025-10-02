@@ -6,11 +6,11 @@ categories:
 source_path: news/good-news-update-on-school-janny-clusters-and-the-ongoing-industrial-action/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Good News – Update on School Janny Clusters and the Ongoing Industrial Action
 
-[March 30, 2017](news/good-news-update-on-school-janny-clusters-and-the-ongoing-industrial-action/) [admin](author/admin/)
+[March 30, 2017](/news/good-news-update-on-school-janny-clusters-and-the-ongoing-industrial-action/) [admin](author/admin/)
 
 Some good news has emerged from the janitorial dispute over the past few days.
 

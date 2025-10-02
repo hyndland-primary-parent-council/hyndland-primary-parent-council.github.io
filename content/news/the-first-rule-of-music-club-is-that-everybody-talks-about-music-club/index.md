@@ -6,11 +6,11 @@ categories:
 source_path: news/the-first-rule-of-music-club-is-that-everybody-talks-about-music-club/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # ‘The first rule of Music Club is that everybody talks about Music Club!’
 
-[June 23, 2016](news/the-first-rule-of-music-club-is-that-everybody-talks-about-music-club/) [admin](author/admin/)
+[June 23, 2016](/news/the-first-rule-of-music-club-is-that-everybody-talks-about-music-club/) [admin](author/admin/)
 
 Naheed, Andrew and the rest of the Music Club staff continue to do a fantastic job supporting pupils at the school to engage with a range of musical instruments, from the penny whistle to the fiddle, the double bass to the djembes, the guitar to the human voice. As well as providing opportunities for the children in the after school Music Club and Minis, Naheed and her team support the School Ensemble of older kids, as well as provide music sessions to the whole of P1.
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-5th-october/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night, 5th October
 
-[September 28, 2012](news/quiz-night-5th-october/) [admin](author/admin/)
+[September 28, 2012](/news/quiz-night-5th-october/) [admin](author/admin/)
 
 Friday 5th October, Hyndland Bowling Club, Queensborough Gardens, 7.30pm  
 Tickets £5  

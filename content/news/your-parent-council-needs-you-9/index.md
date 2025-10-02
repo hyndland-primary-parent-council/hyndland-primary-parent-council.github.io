@@ -6,11 +6,11 @@ categories:
 source_path: news/your-parent-council-needs-you-9/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Your Parent Council needs you!
 
-[July 8, 2018](news/your-parent-council-needs-you-9/) [admin](author/admin/)
+[July 8, 2018](/news/your-parent-council-needs-you-9/) [admin](author/admin/)
 
 Next Meeting: ANNUAL GENERAL MEETING, Wednesday 12 September 2018, 7pm-9pm, School Dinner Hall, Hyndland Primary School
 

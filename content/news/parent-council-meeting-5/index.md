@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-5/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting
 
-[May 26, 2015](news/parent-council-meeting-5/) [admin](author/admin/)
+[May 26, 2015](/news/parent-council-meeting-5/) [admin](author/admin/)
 
 The next and last Parent Council meeting of the school year will take place in the school staff room from 7.00-8.30pm on Wednesday 27 May.
 

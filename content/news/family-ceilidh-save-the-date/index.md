@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-save-the-date/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh – Save the Date
 
-[April 26, 2016](news/family-ceilidh-save-the-date/) [admin](author/admin/)
+[April 26, 2016](/news/family-ceilidh-save-the-date/) [admin](author/admin/)
 
 Save the date! The next family ceilidh is on Friday 20 May, 7pm-10pm at Partick Burgh Halls.
 

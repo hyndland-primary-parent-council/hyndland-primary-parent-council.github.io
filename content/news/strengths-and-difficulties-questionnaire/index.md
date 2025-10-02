@@ -6,11 +6,11 @@ categories:
 source_path: news/strengths-and-difficulties-questionnaire/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Strengths and Difficulties Questionnaire
 
-[March 11, 2013](news/strengths-and-difficulties-questionnaire/) [admin](author/admin/)
+[March 11, 2013](/news/strengths-and-difficulties-questionnaire/) [admin](author/admin/)
 
 The Strengths and Difficulties Questionnaire (SDQ) is a tool used to assess social, emotional and behavioural difficulties of children.
 

@@ -7,11 +7,11 @@ categories:
 source_path: news/easter-gardening-and-playground-improvements/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Easter Gardening and Playground Improvements
 
-[May 29, 2017](news/easter-gardening-and-playground-improvements/) [admin](author/admin/)
+[May 29, 2017](/news/easter-gardening-and-playground-improvements/) [admin](author/admin/)
 
 A very special thanks to the few volunteers who gave their time to help improve the playgrounds and garden area during the Spring Break.
 

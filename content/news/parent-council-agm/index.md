@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-agm/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council AGM
 
-[August 23, 2012](news/parent-council-agm/) [admin](author/admin/)
+[August 23, 2012](/news/parent-council-agm/) [admin](author/admin/)
 
 Wednesday 12th September, 7.30-9pm, School dining room
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/reminder-of-remaining-school-holidays-this-term/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Reminder of remaining school holidays this term
 
-[October 6, 2014](news/reminder-of-remaining-school-holidays-this-term/) [admin](author/admin/)
+[October 6, 2014](/news/reminder-of-remaining-school-holidays-this-term/) [admin](author/admin/)
 
 The school will be closed on the following dates this term:
 

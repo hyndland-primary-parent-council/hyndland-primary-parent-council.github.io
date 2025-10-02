@@ -6,11 +6,11 @@ categories:
 source_path: news/support-your-local-parent-council-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Support your local Parent Council!
 
-[September 5, 2016](news/support-your-local-parent-council-2/) [admin](author/admin/)
+[September 5, 2016](/news/support-your-local-parent-council-2/) [admin](author/admin/)
 
 If you are interested in hearing about the activities of the Parent Council, come along to the&nbsp;**Annual General Meeting (AGM) on Wednesday 14th September, 7.00-8.30pm** in the school dining room. At the AGM you can hear reports about what happened last year, including ongoing playground improvements, garden, social events and music club as well as hear from the Head Teacher, Ms Brown, about school curriculum and activity developments, as well as the ongoing building works. If you are interested in getting involved there will be elections for new council members at the AGM. Everyone is welcome!
 

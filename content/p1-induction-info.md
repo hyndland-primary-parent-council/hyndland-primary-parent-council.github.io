@@ -29,12 +29,12 @@ In response to requests for the ability to make donations to the Parent Council 
 - 
 ## Latest News
 
-- [Your Parent Council Needs You!](news/your-parent-council-needs-you-4/)
-- [Easyfundraising](news/easyfundraising-2/)
-- [Garden News](news/garden-news-2/)
-- [Save the Date!](news/save-the-date/)
-- [September AGM & New Parent Council for 2016-17](news/september-agm-new-parent-council-for-2016-17/)
-- [Parent Council – Change of date for next meeting](news/parent-council-change-of-date-for-next-meeting/)
+- [Your Parent Council Needs You!](/news/your-parent-council-needs-you-4/)
+- [Easyfundraising](/news/easyfundraising-2/)
+- [Garden News](/news/garden-news-2/)
+- [Save the Date!](/news/save-the-date/)
+- [September AGM & New Parent Council for 2016-17](/news/september-agm-new-parent-council-for-2016-17/)
+- [Parent Council – Change of date for next meeting](/news/parent-council-change-of-date-for-next-meeting/)
 
 - 
 ## Upcoming Events

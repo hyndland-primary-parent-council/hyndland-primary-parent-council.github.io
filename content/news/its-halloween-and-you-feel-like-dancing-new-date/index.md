@@ -6,11 +6,11 @@ categories:
 source_path: news/its-halloween-and-you-feel-like-dancing-new-date/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # It’s Halloween and you feel like dancing…? (new date)
 
-[October 14, 2018](news/its-halloween-and-you-feel-like-dancing-new-date/) [admin](author/admin/)
+[October 14, 2018](/news/its-halloween-and-you-feel-like-dancing-new-date/) [admin](author/admin/)
 
 NB: The date of this event has been changed from 2 November to 26 October due to availability of Parent Council volunteers. There is no bar at the Hyndland Community Halls, so it is Bring Your Own Bottle (BYOB). There is a Sainsbury’s Local next door to the venue. Soft drinks will be provided for children and alcohol-free adults.
 

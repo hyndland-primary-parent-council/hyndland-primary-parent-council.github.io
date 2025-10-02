@@ -6,11 +6,11 @@ categories:
 source_path: news/end-of-term-service-help-wanted/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # End of Term Service – help wanted
 
-[June 12, 2013](news/end-of-term-service-help-wanted/) [admin](author/admin/)
+[June 12, 2013](/news/end-of-term-service-help-wanted/) [admin](author/admin/)
 
 Tuesday 25th June, Hyndland Parish Church, Hyndland Road (opposite Top Tier)  
 9.45-10.45

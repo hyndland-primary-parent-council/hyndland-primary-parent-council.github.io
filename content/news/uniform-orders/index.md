@@ -6,11 +6,11 @@ categories:
 source_path: news/uniform-orders/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Uniform Orders
 
-[June 12, 2014](news/uniform-orders/) [admin](author/admin/)
+[June 12, 2014](/news/uniform-orders/) [admin](author/admin/)
 
 Border Embroideries (our uniform supplier) are working 24/7 to complete new uniform orders placed before 9 June, which will be ready for collection by the end of term. If you haven’t yet ordered any uniform you require, you can still do so via our [School Uniform](http://www.hyndlandprimaryparentcouncil.org/school-uniform/) page.
 

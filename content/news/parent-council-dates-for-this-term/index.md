@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-dates-for-this-term/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Dates for this Term
 
-[October 6, 2014](news/parent-council-dates-for-this-term/) [admin](author/admin/)
+[October 6, 2014](/news/parent-council-dates-for-this-term/) [admin](author/admin/)
 
 Please come along to the Parent Council meetings, hear about what’s happening in your school and share your own views on what you think would improve the experience for our children. The Parent Council are either in the school dinner hall or the staff room and the dates this term are:
 

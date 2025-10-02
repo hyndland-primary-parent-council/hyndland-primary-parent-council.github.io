@@ -6,11 +6,11 @@ categories:
 source_path: news/st-andrews-ceilidh/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # St Andrew’s Ceilidh
 
-[November 29, 2012](news/st-andrews-ceilidh/) [admin](author/admin/)
+[November 29, 2012](/news/st-andrews-ceilidh/) [admin](author/admin/)
 
 Friday 30th November, 7-10pm, Partick Burgh Halls
 

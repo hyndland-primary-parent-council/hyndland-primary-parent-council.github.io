@@ -6,11 +6,11 @@ categories:
 source_path: news/network-news/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Network News
 
-[March 1, 2013](news/network-news/) [admin](author/admin/)
+[March 1, 2013](/news/network-news/) [admin](author/admin/)
 
 Glasgow City Council have set up an ASL Parent Forum who meet regularly in order to:
 

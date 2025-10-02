@@ -7,11 +7,11 @@ categories:
 source_path: news/greenfingers/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Greenfingers!
 
-[June 23, 2016](news/greenfingers/) [admin](author/admin/)
+[June 23, 2016](/news/greenfingers/) [admin](author/admin/)
 
 As the holidays approach we usually put together a watering rota for the school garden. If you are free to take your children down to the garden on a particular week over the summer to water the plants, please contact Helen at [hjrolph@gmail.com](mailto:hjrolph@gmail.com) as this will be a great help.
 

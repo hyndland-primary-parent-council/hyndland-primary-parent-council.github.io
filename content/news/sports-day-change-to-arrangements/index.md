@@ -6,11 +6,11 @@ categories:
 source_path: news/sports-day-change-to-arrangements/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Sports Day – Change to arrangements
 
-[June 12, 2013](news/sports-day-change-to-arrangements/) [admin](author/admin/)
+[June 12, 2013](/news/sports-day-change-to-arrangements/) [admin](author/admin/)
 
 Friday 14th June  
 Cricket Pitch, Peel Street

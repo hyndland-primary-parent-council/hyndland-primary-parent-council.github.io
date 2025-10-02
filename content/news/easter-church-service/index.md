@@ -6,11 +6,11 @@ categories:
 source_path: news/easter-church-service/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Easter Church Service
 
-[April 3, 2014](news/easter-church-service/) [admin](author/admin/)
+[April 3, 2014](/news/easter-church-service/) [admin](author/admin/)
 
 Easter Service Friday 4th April&nbsp;at Hyndland Parish Church at 9.45 – all welcome. &nbsp;For those of you who have not been before, you will be directed to the back three or four pews so as to allow room for the children to sit with their class in the front rows.
 

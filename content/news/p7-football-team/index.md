@@ -6,10 +6,10 @@ categories:
 source_path: news/p7-football-team/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # P7 Football Team
 
-[September 25, 2013](news/p7-football-team/) [admin](author/admin/)
+[September 25, 2013](/news/p7-football-team/) [admin](author/admin/)
 
 Well done to the team for taking second place in the Rotary Club Tournament and being awarded the Winners of the Fair Play Trophy.

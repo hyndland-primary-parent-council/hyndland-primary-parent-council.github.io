@@ -6,11 +6,11 @@ categories:
 source_path: news/janny-joes-retirement-update/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Janny Joe’s Retirement update
 
-[August 22, 2016](news/janny-joes-retirement-update/) [admin](author/admin/)
+[August 22, 2016](/news/janny-joes-retirement-update/) [admin](author/admin/)
 
 Janny Joe retired from the school on Friday 12 August after 21 years at Hyndland Primary.
 

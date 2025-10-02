@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-thank-you/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre – Thank you!
 
-[December 13, 2012](news/christmas-fayre-thank-you/) [admin](author/admin/)
+[December 13, 2012](/news/christmas-fayre-thank-you/) [admin](author/admin/)
 
 We raised £2818.66 at the Xmas Fayre last Friday. The money will go towards ongoing playground improvements.
 

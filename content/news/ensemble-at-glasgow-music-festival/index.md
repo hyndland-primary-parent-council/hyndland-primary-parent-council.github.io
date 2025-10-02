@@ -6,11 +6,11 @@ categories:
 source_path: news/ensemble-at-glasgow-music-festival/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Ensemble at Glasgow Music Festival
 
-[March 2, 2014](news/ensemble-at-glasgow-music-festival/) [admin](author/admin/)
+[March 2, 2014](/news/ensemble-at-glasgow-music-festival/) [admin](author/admin/)
 
 Our musical maestros are off to the Glasgow Music Festival in March, our talented Ensemble play at the City Halls – the musicians will play a couple of rehearsal performances for our own children in the next two weeks so that they are pitch perfect!
 

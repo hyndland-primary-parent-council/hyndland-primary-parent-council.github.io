@@ -6,11 +6,11 @@ categories:
 source_path: news/scholastic-books-orders/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Scholastic Books Orders
 
-[February 4, 2014](news/scholastic-books-orders/) [admin](author/admin/)
+[February 4, 2014](/news/scholastic-books-orders/) [admin](author/admin/)
 
 Scholastic brochures have been distributed (extra copies available from the table outside the office). The&nbsp; **deadline for the latest Scholastic Book orders is Friday 7th February**. This will be the last Scholastic order for this school year. Allison Mussett has taken over the running of our Scholastic orders from Yvonne Blair and reminds you:
 

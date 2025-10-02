@@ -6,11 +6,11 @@ categories:
 source_path: news/sports-day/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Sports Day
 
-[June 12, 2014](news/sports-day/) [admin](author/admin/)
+[June 12, 2014](/news/sports-day/) [admin](author/admin/)
 
 **Tuesday 17 June** (or Wed 18 as back up if weather is inclement)
 

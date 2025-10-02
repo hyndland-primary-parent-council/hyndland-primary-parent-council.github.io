@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run
 
-[October 9, 2013](news/mums-on-the-run/) [admin](author/admin/)
+[October 9, 2013](/news/mums-on-the-run/) [admin](author/admin/)
 
 Main event:&nbsp; **Wednesday 6th November**
 

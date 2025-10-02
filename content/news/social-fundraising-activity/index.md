@@ -6,11 +6,11 @@ categories:
 source_path: news/social-fundraising-activity/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Social & Fundraising Activity
 
-[August 20, 2015](news/social-fundraising-activity/) [admin](author/admin/)
+[August 20, 2015](/news/social-fundraising-activity/) [admin](author/admin/)
 
 There are a dwindling number of parents who do all the planning of most Parent Council fundraising events and much of the work that goes into organising and running the ceilidhs, quizzes and band nights that raise the money which benefits the education of all of our children. We really do need more volunteers!
 

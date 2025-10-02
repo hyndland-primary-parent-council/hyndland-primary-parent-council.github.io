@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-this-friday-24-october/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night – This Friday, 24 October
 
-[October 21, 2014](news/quiz-night-this-friday-24-october/) [admin](author/admin/)
+[October 21, 2014](/news/quiz-night-this-friday-24-october/) [admin](author/admin/)
 
 Hyndland Primary School social events are a way of meeting up with other parents and raising money for the school.
 

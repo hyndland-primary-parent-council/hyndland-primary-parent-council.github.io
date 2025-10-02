@@ -7,11 +7,11 @@ categories:
 source_path: news/garden-volunteers-wanted/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Garden Volunteers Wanted
 
-[March 2, 2014](news/garden-volunteers-wanted/) [admin](author/admin/)
+[March 2, 2014](/news/garden-volunteers-wanted/) [admin](author/admin/)
 
 We would like to make an excellent outdoor learning experience for the children at Hyndland Primary and at the Afty.
 

@@ -6,10 +6,10 @@ categories:
 source_path: news/p7-information-presentation/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # P7 Information Presentation
 
-[September 24, 2013](news/p7-information-presentation/) [admin](author/admin/)
+[September 24, 2013](/news/p7-information-presentation/) [admin](author/admin/)
 
 If any parents missed the lovely introduction to Hyndland Secondary School or were so busy listening that you missed some of the info on the screen, you have another chance to catch it on our [P7 Information](http://www.hyndlandprimaryparentcouncil.org/p7-information/ "P7 Information") page. Thanks to Mrs Edgerton from Hyndland Secondary for sending it on to us.

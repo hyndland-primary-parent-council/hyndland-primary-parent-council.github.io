@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-friday-4-march/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night – Friday 4 March
 
-[February 23, 2016](news/quiz-night-friday-4-march/) [admin](author/admin/)
+[February 23, 2016](/news/quiz-night-friday-4-march/) [admin](author/admin/)
 
 Hyndland Mums on the Run presents the Hyndland Primary School Parent Council Quiz Night
 

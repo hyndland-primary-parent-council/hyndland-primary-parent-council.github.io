@@ -7,11 +7,11 @@ categories:
 source_path: news/city-wide-consultation-on-glasgow-secondary-schools-placing-requests-and-catchment-areas/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # City-wide Consultation on Glasgow Secondary Schools (Placing Requests and Catchment Areas)
 
-[July 8, 2018](news/city-wide-consultation-on-glasgow-secondary-schools-placing-requests-and-catchment-areas/) [admin](author/admin/)
+[July 8, 2018](/news/city-wide-consultation-on-glasgow-secondary-schools-placing-requests-and-catchment-areas/) [admin](author/admin/)
 
 On Monday 14 May Glasgow City Council (GCC) issued a lengthy school consultation on secondary school Placing Requests and School Catchment Areas, which runs from 14 May until 24 September.
 

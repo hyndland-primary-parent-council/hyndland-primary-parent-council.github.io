@@ -6,11 +6,11 @@ categories:
 source_path: news/ceilidh-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Ceilidh
 
-[December 12, 2013](news/ceilidh-2/) [admin](author/admin/)
+[December 12, 2013](/news/ceilidh-2/) [admin](author/admin/)
 
 Thanks to all who came along… danced the night away and had such fun. In the end (once the last few bits of ticket money and some donations came in) we raised over £700!
 

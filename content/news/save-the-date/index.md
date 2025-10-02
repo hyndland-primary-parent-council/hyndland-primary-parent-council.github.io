@@ -6,11 +6,11 @@ categories:
 source_path: news/save-the-date/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Save the Date!
 
-[October 24, 2016](news/save-the-date/) [admin](author/admin/)
+[October 24, 2016](/news/save-the-date/) [admin](author/admin/)
 
 **The next family ceilidh is on Friday 9 December**
 

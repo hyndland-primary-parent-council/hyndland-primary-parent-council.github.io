@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-womens-10k-11-may/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run – Womens 10k – 11 May
 
-[May 19, 2014](news/mums-on-the-run-womens-10k-11-may/) [admin](author/admin/)
+[May 19, 2014](/news/mums-on-the-run-womens-10k-11-may/) [admin](author/admin/)
 
 [![mumsontherun-10k](/assets/images/2014/05/mumsontherun-10k.jpg)](/assets/images/2014/05/mumsontherun-10k.jpg)
 

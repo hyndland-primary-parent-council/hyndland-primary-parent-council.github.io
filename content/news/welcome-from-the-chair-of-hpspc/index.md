@@ -6,11 +6,11 @@ categories:
 source_path: news/welcome-from-the-chair-of-hpspc/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Welcome from the Chair of HPSPC
 
-[September 2, 2016](news/welcome-from-the-chair-of-hpspc/) [admin](author/admin/)
+[September 2, 2016](/news/welcome-from-the-chair-of-hpspc/) [admin](author/admin/)
 
 Welcome back to the start of a new school year, and for those of you who are new to the school, welcome to Hyndland Primary School.
 

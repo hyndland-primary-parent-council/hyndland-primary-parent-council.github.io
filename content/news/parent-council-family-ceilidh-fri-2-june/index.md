@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-family-ceilidh-fri-2-june/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Family Ceilidh, Fri 2 June
 
-[May 31, 2017](news/parent-council-family-ceilidh-fri-2-june/) [admin](author/admin/)
+[May 31, 2017](/news/parent-council-family-ceilidh-fri-2-june/) [admin](author/admin/)
 
 **Come along to the Ceilidh this Friday at Hyndland Community Hall!**
 

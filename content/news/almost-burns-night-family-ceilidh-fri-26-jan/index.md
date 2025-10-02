@@ -6,11 +6,11 @@ categories:
 source_path: news/almost-burns-night-family-ceilidh-fri-26-jan/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # (Almost) Burns’ Night Family Ceilidh – Fri 26 Jan
 
-[January 10, 2018](news/almost-burns-night-family-ceilidh-fri-26-jan/) [admin](author/admin/)
+[January 10, 2018](/news/almost-burns-night-family-ceilidh-fri-26-jan/) [admin](author/admin/)
 
 [![](/assets/images/2018/01/jan-ceilidh-2018.png)](/assets/images/2018/01/jan-ceilidh-2018.png)
 

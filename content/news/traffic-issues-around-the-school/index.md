@@ -6,11 +6,11 @@ categories:
 source_path: news/traffic-issues-around-the-school/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Traffic Issues around the School
 
-[September 5, 2016](news/traffic-issues-around-the-school/) [admin](author/admin/)
+[September 5, 2016](/news/traffic-issues-around-the-school/) [admin](author/admin/)
 
 It has been brought to the attention of the Parent Council, both through contact by understandably concerned parents and through our own direct observation, that the traffic problems around the school continue almost unabated.
 

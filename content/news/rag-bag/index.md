@@ -6,11 +6,11 @@ categories:
 source_path: news/rag-bag/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Rag Bag
 
-[February 4, 2014](news/rag-bag/) [admin](author/admin/)
+[February 4, 2014](/news/rag-bag/) [admin](author/admin/)
 
 If you’ve already started your Spring clear out… please bear in mind we collect unwanted clothing, linen etc. for Rag Bag and proceeds go to support the school. The next collection will be on Monday 10th March and we’ll remind you again nearer the time for those of you who may have huge bundles to bring on in the day.
 

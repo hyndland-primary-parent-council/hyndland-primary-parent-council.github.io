@@ -7,11 +7,11 @@ categories:
 source_path: news/five-go-running-2/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Five Go Running
 
-[November 7, 2014](news/five-go-running-2/) [admin](author/admin/)
+[November 7, 2014](/news/five-go-running-2/) [admin](author/admin/)
 
 A big thanks to those mums, dads, grannies, aunties, uncles and pals who took part in Five Go Running. A&nbsp; **HUGE** thanks to those children from school who took part in fundraising runs. Brilliant effort all round!
 

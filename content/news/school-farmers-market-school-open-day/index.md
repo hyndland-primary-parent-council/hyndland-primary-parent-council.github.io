@@ -6,11 +6,11 @@ categories:
 source_path: news/school-farmers-market-school-open-day/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # School Farmer’s Market @ School Open Day
 
-[September 11, 2014](news/school-farmers-market-school-open-day/) [admin](author/admin/)
+[September 11, 2014](/news/school-farmers-market-school-open-day/) [admin](author/admin/)
 
 At the School Open Day on Wednesday 17 September, in collaboration with the Parent Council, the school will also be hosting a mini ‘Farmer’s Market’ in the school dinner hall, where the children will be selling locally grown fruit, vegetables and flowers from local allotments, as well as cakes and other home baked goods.
 

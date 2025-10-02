@@ -7,11 +7,11 @@ categories:
 source_path: news/school-garden-market-sale/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # School Garden Market Sale
 
-[September 6, 2017](news/school-garden-market-sale/) [admin](author/admin/)
+[September 6, 2017](/news/school-garden-market-sale/) [admin](author/admin/)
 
 We will be holding the school garden market sale this&nbsp; **Friday 8 September in the school playground at pick up time** to raise some funds for the school.
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/halloween-arrangements/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Halloween Arrangements
 
-[October 30, 2013](news/halloween-arrangements/) [admin](author/admin/)
+[October 30, 2013](/news/halloween-arrangements/) [admin](author/admin/)
 
 A flyer was in bags yesterday with info about Friday and the Baton next week.
 

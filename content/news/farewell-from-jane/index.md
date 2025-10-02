@@ -6,11 +6,11 @@ categories:
 source_path: news/farewell-from-jane/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Farewell from Jane
 
-[June 25, 2014](news/farewell-from-jane/) [admin](author/admin/)
+[June 25, 2014](/news/farewell-from-jane/) [admin](author/admin/)
 
 Thank you all very much for the lovely flowers and gifts I received this week both from school and from the P7 families. P7 are finally off (including my boy) and my job is done…
 

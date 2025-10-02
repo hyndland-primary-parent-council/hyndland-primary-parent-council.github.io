@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-friday-28th-march/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night – Friday 28th March
 
-[March 21, 2014](news/quiz-night-friday-28th-march/) [admin](author/admin/)
+[March 21, 2014](/news/quiz-night-friday-28th-march/) [admin](author/admin/)
 
 7.30-11pm, Hyndland Bowling Club, Queensborough Gardens
 

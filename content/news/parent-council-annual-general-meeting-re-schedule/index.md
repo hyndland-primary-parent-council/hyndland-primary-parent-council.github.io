@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-annual-general-meeting-re-schedule/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Annual General Meeting Re-Schedule
 
-[September 20, 2017](news/parent-council-annual-general-meeting-re-schedule/) [admin](author/admin/)
+[September 20, 2017](/news/parent-council-annual-general-meeting-re-schedule/) [admin](author/admin/)
 
 Unfortunately, it was not possible to reschedule the cancelled Parent Council meeting last week, and as it’s the AGM and we usually get quite a few more parents along, it wasn’t possible to move to another venue at such short notice.
 

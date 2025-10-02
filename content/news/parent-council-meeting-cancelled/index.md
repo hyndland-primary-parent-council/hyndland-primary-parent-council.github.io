@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-cancelled/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting Cancelled
 
-[April 26, 2016](news/parent-council-meeting-cancelled/) [admin](author/admin/)
+[April 26, 2016](/news/parent-council-meeting-cancelled/) [admin](author/admin/)
 
 The Parent Council meeting scheduled for Wednesday 27 April has been cancelled as it was felt with the Easter break in between not much has happened since the last meeting. The next parent council meeting will be on 25 May 2016 – please feel free to come along and find out more about what your parent council does.
 

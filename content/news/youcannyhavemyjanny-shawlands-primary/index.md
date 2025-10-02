@@ -6,10 +6,10 @@ categories:
 source_path: news/youcannyhavemyjanny-shawlands-primary/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # #youcannyhavemyjanny (Shawlands Primary)
 
-[March 20, 2017](news/youcannyhavemyjanny-shawlands-primary/) [admin](author/admin/)
+[March 20, 2017](/news/youcannyhavemyjanny-shawlands-primary/) [admin](author/admin/)
 
 https://www.youtube.com/embed/eVkTMRiGq88?ecver=2

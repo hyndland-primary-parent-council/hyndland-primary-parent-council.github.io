@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh
 
-[November 7, 2014](news/family-ceilidh-2/) [admin](author/admin/)
+[November 7, 2014](/news/family-ceilidh-2/) [admin](author/admin/)
 
 Come along and have some fun at the St Andrews Night (nearly!) Family Ceilidh on **Friday 21st November**
 

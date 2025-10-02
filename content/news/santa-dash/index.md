@@ -6,11 +6,11 @@ categories:
 source_path: news/santa-dash/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Santa Dash
 
-[November 26, 2013](news/santa-dash/) [admin](author/admin/)
+[November 26, 2013](/news/santa-dash/) [admin](author/admin/)
 
 [![fgcu_santadashdog_1](/assets/images/2013/11/fgcu_santadashdog_1.jpg)](/assets/images/2013/11/fgcu_santadashdog_1.jpg)
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/merry-christmas-a-happy-new-year-to-all/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Merry Christmas & a Happy New Year to all!
 
-[December 20, 2017](news/merry-christmas-a-happy-new-year-to-all/) [admin](author/admin/)
+[December 20, 2017](/news/merry-christmas-a-happy-new-year-to-all/) [admin](author/admin/)
 
 It’s almost that time of year again, when our homes are bright and sparkly and invariably smell of fresh pine; stockings are hung out to be filled and children all over are eating way too many chocolates while awaiting the impending arrival of the red-suited fella himself.
 

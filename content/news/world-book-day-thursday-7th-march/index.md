@@ -6,11 +6,11 @@ categories:
 source_path: news/world-book-day-thursday-7th-march/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # World Book Day – Thursday 7th March
 
-[March 1, 2013](news/world-book-day-thursday-7th-march/) [admin](author/admin/)
+[March 1, 2013](/news/world-book-day-thursday-7th-march/) [admin](author/admin/)
 
 Continuing the fun of Book Week, children are invited to come dressed as their favourite character from a book on World Book Day. Parents will also be invited along in the afternoon to visit the book fair to look at (and possibly purchase) books with their child.
 

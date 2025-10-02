@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-quiz-night-p7-bake-book-sale-postponed/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Quiz Night & P7 Bake/Book Sale Postponed
 
-[March 2, 2018](news/parent-council-quiz-night-p7-bake-book-sale-postponed/) [admin](author/admin/)
+[March 2, 2018](/news/parent-council-quiz-night-p7-bake-book-sale-postponed/) [admin](author/admin/)
 
 Unfortunately, due to the weather, the school being closed, and an inability to get hold of the bowling club, we’ve decided to postpone the Quiz Night tonight.
 

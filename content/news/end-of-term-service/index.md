@@ -6,11 +6,11 @@ categories:
 source_path: news/end-of-term-service/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # End of term service
 
-[June 25, 2013](news/end-of-term-service/) [admin](author/admin/)
+[June 25, 2013](/news/end-of-term-service/) [admin](author/admin/)
 
 Tuesday 25th June  
 Hyndland Parish Church (near Top Tier and Pizza Magic)  

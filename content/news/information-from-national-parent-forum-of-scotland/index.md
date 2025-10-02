@@ -6,11 +6,11 @@ categories:
 source_path: news/information-from-national-parent-forum-of-scotland/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Information from National Parent Forum of Scotland
 
-[October 14, 2014](news/information-from-national-parent-forum-of-scotland/) [admin](author/admin/)
+[October 14, 2014](/news/information-from-national-parent-forum-of-scotland/) [admin](author/admin/)
 
 Scotland’s National Centre for Languages has produced a leaflet which all parents may find useful in answering questions about the Scottish Government’s 1+2 approach to language learning.
 

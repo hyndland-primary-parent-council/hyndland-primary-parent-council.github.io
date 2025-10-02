@@ -116,12 +116,12 @@ In response to requests for the ability to make donations to the Parent Council 
 - 
 ## Latest News
 
-- [School to close 3.15pm on Friday](news/school-to-close-3-15pm-on-friday/)
-- [Hyndland Primary School Lunch Survey Results](news/hyndland-primary-school-lunch-survey-results/)
-- [STOP PRESS – Parent Council Meeting](news/stop-press-parent-council-meeting/)
-- [School Lunch Survey](news/school-lunch-survey/)
-- [Burns night ceilidh and Parent Council meeting](news/burns-night-ceilidh-and-parent-council-meeting/)
-- [Parent Council Meeting](news/parent-council-meeting-8/)
+- [School to close 3.15pm on Friday](/news/school-to-close-3-15pm-on-friday/)
+- [Hyndland Primary School Lunch Survey Results](/news/hyndland-primary-school-lunch-survey-results/)
+- [STOP PRESS – Parent Council Meeting](/news/stop-press-parent-council-meeting/)
+- [School Lunch Survey](/news/school-lunch-survey/)
+- [Burns night ceilidh and Parent Council meeting](/news/burns-night-ceilidh-and-parent-council-meeting/)
+- [Parent Council Meeting](/news/parent-council-meeting-8/)
 
 - 
 ## Pages

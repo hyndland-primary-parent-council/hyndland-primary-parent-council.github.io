@@ -6,11 +6,11 @@ categories:
 source_path: news/another-years-end-is-drawing-near/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Another year’s end is drawing near…
 
-[June 22, 2015](news/another-years-end-is-drawing-near/) [admin](author/admin/)
+[June 22, 2015](/news/another-years-end-is-drawing-near/) [admin](author/admin/)
 
 It has been another great year of learning and teaching and productive activity and development for the children at Hyndland Primary School. They have experienced an engaging curriculum in line with the aims, principles and the four capacities of Curriculum for Excellence – to be successful learners, confident individuals, effective contributors and responsible citizens.
 

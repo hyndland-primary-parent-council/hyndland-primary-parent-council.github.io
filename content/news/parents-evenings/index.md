@@ -6,11 +6,11 @@ categories:
 source_path: news/parents-evenings/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parents Evenings
 
-[October 9, 2013](news/parents-evenings/) [admin](author/admin/)
+[October 9, 2013](/news/parents-evenings/) [admin](author/admin/)
 
 **Wednesday 9th October and Thursday 10th October 3.30-6.30pm**
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-friday-27-nov/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh, Friday 27 Nov
 
-[November 25, 2015](news/family-ceilidh-friday-27-nov/) [admin](author/admin/)
+[November 25, 2015](/news/family-ceilidh-friday-27-nov/) [admin](author/admin/)
 
 Come along and have some fun at the&nbsp; **Family Ceilidh** , Friday 27 Nov 2015
 

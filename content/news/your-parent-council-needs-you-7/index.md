@@ -6,11 +6,11 @@ categories:
 source_path: news/your-parent-council-needs-you-7/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Your Parent Council needs you!
 
-[December 20, 2017](news/your-parent-council-needs-you-7/) [admin](author/admin/)
+[December 20, 2017](/news/your-parent-council-needs-you-7/) [admin](author/admin/)
 
 Next meeting: Wednesday 17 January 2018, 7pm – 8.30pm, Staff room, Hyndland Primary School
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/community-support-for-janny-john-during-the-current-strike-action/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Community support for Janny John during the current strike action
 
-[February 23, 2017](news/community-support-for-janny-john-during-the-current-strike-action/) [admin](author/admin/)
+[February 23, 2017](/news/community-support-for-janny-john-during-the-current-strike-action/) [admin](author/admin/)
 
 As you may be aware, Glasgow schools’ jannies who are members of the UNISON trade union have been involved in an industrial action over unfair pay practices by their employer, Cordia (an offshoot company of Glasgow City Council) for almost a year. Cordia have persistently sought to undermine these jannies throughout the process and the jannies have introduced periodic periods of strike action in order to bring pressure on their employers.
 

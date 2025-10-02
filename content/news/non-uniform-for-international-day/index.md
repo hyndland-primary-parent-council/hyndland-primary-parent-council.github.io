@@ -6,11 +6,11 @@ categories:
 source_path: news/non-uniform-for-international-day/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Non-uniform for International Day
 
-[April 25, 2013](news/non-uniform-for-international-day/) [admin](author/admin/)
+[April 25, 2013](/news/non-uniform-for-international-day/) [admin](author/admin/)
 
 **Friday 26th April**
 

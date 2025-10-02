@@ -6,11 +6,11 @@ categories:
 source_path: news/end-of-term-service-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # End of term service
 
-[June 16, 2014](news/end-of-term-service-2/) [admin](author/admin/)
+[June 16, 2014](/news/end-of-term-service-2/) [admin](author/admin/)
 
 **Thursday 19 June**
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/school-christmas-fayre-thu-17-dec/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # School Christmas Fayre – Thu 17 Dec
 
-[December 16, 2015](news/school-christmas-fayre-thu-17-dec/) [admin](author/admin/)
+[December 16, 2015](/news/school-christmas-fayre-thu-17-dec/) [admin](author/admin/)
 
 Just a wee reminder that the school Christmas Fayre is on tomorrow – Thursday 17 December – in the morning for the children and also from 1.30pm to 3pm for parents, carers and family.
 

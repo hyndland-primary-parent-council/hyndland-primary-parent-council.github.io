@@ -6,11 +6,11 @@ categories:
 source_path: news/active-french/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Active French
 
-[June 16, 2016](news/active-french/) [admin](author/admin/)
+[June 16, 2016](/news/active-french/) [admin](author/admin/)
 
 Active French is growing! With just a few spaces left in after-school classes on Mondays,&nbsp;Tuesdays, and Wednesdays for children in P2-P7, I am now able to offer places for an&nbsp;additional Thursday class which is particularly suitable for children in P1. Classes take place&nbsp;at Hyndland Primary but are also open to children from other schools and arrangements can&nbsp;be made for children who attend Afty to come along and join us.
 

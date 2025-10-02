@@ -6,11 +6,11 @@ categories:
 source_path: news/staff-leavers/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Contributions for Staff Leavers + Memory Books
 
-[June 20, 2013](news/staff-leavers/) [admin](author/admin/)
+[June 20, 2013](/news/staff-leavers/) [admin](author/admin/)
 
 We’re saying goodbye to Ms Laville, Miss Miller and Mrs Francis as they begin their retirement and Mrs Kerr who has been promoted to Head Teacher at Sandwood Primary School. Presentations will be made from the children and families at the end of term service.
 

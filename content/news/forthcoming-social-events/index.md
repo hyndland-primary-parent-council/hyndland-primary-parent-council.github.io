@@ -6,11 +6,11 @@ categories:
 source_path: news/forthcoming-social-events/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Forthcoming Social Events…
 
-[September 4, 2018](news/forthcoming-social-events/) [admin](author/admin/)
+[September 4, 2018](/news/forthcoming-social-events/) [admin](author/admin/)
 
 … for Kids and their Parents and Carers – and for Parents and Carers&nbsp; **without** the Kids!
 

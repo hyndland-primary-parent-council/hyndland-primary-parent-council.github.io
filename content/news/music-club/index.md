@@ -6,11 +6,11 @@ categories:
 source_path: news/music-club/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Music Club
 
-[August 23, 2012](news/music-club/) [admin](author/admin/)
+[August 23, 2012](/news/music-club/) [admin](author/admin/)
 
 Music Club and Ensemble will start on Monday 3rd September.
 

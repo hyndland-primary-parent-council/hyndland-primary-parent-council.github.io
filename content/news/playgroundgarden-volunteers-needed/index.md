@@ -7,11 +7,11 @@ categories:
 source_path: news/playgroundgarden-volunteers-needed/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Playground/Garden Volunteers Needed
 
-[March 27, 2017](news/playgroundgarden-volunteers-needed/) [admin](author/admin/)
+[March 27, 2017](/news/playgroundgarden-volunteers-needed/) [admin](author/admin/)
 
 **VOLUNTEERS NEEDED TO HELP OUT WITH THE SCHOOL PLAYGROUND AND GARDEN IMPROVEMENTS DURING THE EASTER BREAK**
 

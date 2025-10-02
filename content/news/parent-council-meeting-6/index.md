@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-6/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting
 
-[November 30, 2016](news/parent-council-meeting-6/) [admin](author/admin/)
+[November 30, 2016](/news/parent-council-meeting-6/) [admin](author/admin/)
 
 **The next parent council meeting is tonight, Wednesday 30 November 7.00-8.30pm in the staff room.**
 

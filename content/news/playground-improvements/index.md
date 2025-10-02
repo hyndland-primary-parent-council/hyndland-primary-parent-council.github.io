@@ -6,11 +6,11 @@ categories:
 source_path: news/playground-improvements/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Playground improvements
 
-[May 31, 2013](news/playground-improvements/) [admin](author/admin/)
+[May 31, 2013](/news/playground-improvements/) [admin](author/admin/)
 
 You will have seen the great work achieved during the Spring Clean, the excitement brought about by the climbing wall, the willow structure and the gong(!) and the subsequent addition of the fantastic mural.
 

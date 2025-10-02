@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-2012-we-need-your-help/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre 2012 – we need your help!
 
-[October 12, 2012](news/christmas-fayre-2012-we-need-your-help/) [admin](author/admin/)
+[October 12, 2012](/news/christmas-fayre-2012-we-need-your-help/) [admin](author/admin/)
 
 This year’s Xmas Fayre will be on Fri 7 Dec and there are a few things you might be able to help us with.
 

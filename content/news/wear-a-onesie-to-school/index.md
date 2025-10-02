@@ -6,11 +6,11 @@ categories:
 source_path: news/wear-a-onesie-to-school/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Wear a Onesie to School
 
-[October 9, 2013](news/wear-a-onesie-to-school/) [admin](author/admin/)
+[October 9, 2013](/news/wear-a-onesie-to-school/) [admin](author/admin/)
 
 **Friday 11th October**
 

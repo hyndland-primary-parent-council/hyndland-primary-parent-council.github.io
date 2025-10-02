@@ -7,11 +7,11 @@ categories:
 source_path: news/ceilidh-night-success-2/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # Ceilidh Night Success
 
-[December 19, 2016](news/ceilidh-night-success-2/) [admin](author/admin/)
+[December 19, 2016](/news/ceilidh-night-success-2/) [admin](author/admin/)
 
 On Friday 2 December the Parent Council held our usual Autumn Ceilidh, which was a couple of weeks later than usual due to a combination of the new venue’s availability and also that of the ceilidh band.
 

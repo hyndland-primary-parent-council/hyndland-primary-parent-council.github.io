@@ -6,11 +6,11 @@ categories:
 source_path: news/janny-joes-retirement/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Janny Joe’s Retirement
 
-[June 23, 2016](news/janny-joes-retirement/) [admin](author/admin/)
+[June 23, 2016](/news/janny-joes-retirement/) [admin](author/admin/)
 
 Janny Joe retires from the school on Friday 12 August, just before the school starts back. Ms Brown will let parents and carers know of any farewell arrangements.
 

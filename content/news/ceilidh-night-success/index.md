@@ -7,11 +7,11 @@ categories:
 source_path: news/ceilidh-night-success/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # Ceilidh Night Success
 
-[December 21, 2015](news/ceilidh-night-success/) [admin](author/admin/)
+[December 21, 2015](/news/ceilidh-night-success/) [admin](author/admin/)
 
 On Friday 20 November, the Parent Council held our usual autumn Ceilidh, which was as ever a lot of fun for parents and children alike and is a great fundraiser for the school.
 

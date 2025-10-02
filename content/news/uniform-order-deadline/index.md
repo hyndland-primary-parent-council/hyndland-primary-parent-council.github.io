@@ -6,10 +6,10 @@ categories:
 source_path: news/uniform-order-deadline/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Uniform Order deadline
 
-[August 30, 2012](news/uniform-order-deadline/) [admin](author/admin/)
+[August 30, 2012](/news/uniform-order-deadline/) [admin](author/admin/)
 
 Just a reminder of the next deadline for uniform ordering tomorrow. After that the next deadline will be the end of October.

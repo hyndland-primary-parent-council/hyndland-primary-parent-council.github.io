@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-5/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run
 
-[November 20, 2013](news/mums-on-the-run-5/) [admin](author/admin/)
+[November 20, 2013](/news/mums-on-the-run-5/) [admin](author/admin/)
 
 [![Mums on the Run 031](/assets/images/2013/11/Mums-on-the-Run-031-300x200.jpg)](/assets/images/2013/11/Mums-on-the-Run-031.jpg)
 

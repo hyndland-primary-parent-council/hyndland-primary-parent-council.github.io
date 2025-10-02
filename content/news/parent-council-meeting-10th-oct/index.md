@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-10th-oct/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting 10th Oct
 
-[October 5, 2012](news/parent-council-meeting-10th-oct/) [admin](author/admin/)
+[October 5, 2012](/news/parent-council-meeting-10th-oct/) [admin](author/admin/)
 
 Wednesday 10th October, 7.30-9pm in the School Dining Hall
 

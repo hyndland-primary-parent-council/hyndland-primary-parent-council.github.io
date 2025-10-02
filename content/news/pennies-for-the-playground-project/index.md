@@ -7,11 +7,11 @@ categories:
 source_path: news/pennies-for-the-playground-project/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # ‘Pennies for the Playground’ Project
 
-[September 5, 2016](news/pennies-for-the-playground-project/) [admin](author/admin/)
+[September 5, 2016](/news/pennies-for-the-playground-project/) [admin](author/admin/)
 
 A huge thanks to the 15 or so parents and children who attended the summer working bee with great success; bringing tools, enthusiasm, ideas and food to keep us all going. A great achievement in one day and a testament to how working together can achieve great things and as one of the parents said on the day:
 

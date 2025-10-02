@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-9/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council meeting
 
-[January 17, 2021](news/parent-council-meeting-9/) [admin](author/admin/)
+[January 17, 2021](/news/parent-council-meeting-9/) [admin](author/admin/)
 
 The next meeting of the Parent Council will be on Zoom on Wednesday, 20 January at 7pm.
 

@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-update/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run Update
 
-[October 23, 2013](news/mums-on-the-run-update/) [admin](author/admin/)
+[October 23, 2013](/news/mums-on-the-run-update/) [admin](author/admin/)
 
 ![](https://s3.amazonaws.com/fundrazr-platform/campaigns/3945a554fd0743669c142e7efe4786d9.jpg)
 

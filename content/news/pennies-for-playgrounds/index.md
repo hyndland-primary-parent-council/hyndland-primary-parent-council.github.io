@@ -6,11 +6,11 @@ categories:
 source_path: news/pennies-for-playgrounds/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Pennies for Playgrounds
 
-[June 16, 2016](news/pennies-for-playgrounds/) [admin](author/admin/)
+[June 16, 2016](/news/pennies-for-playgrounds/) [admin](author/admin/)
 
 **There is still time to dig out your coppers and give them to the Pennies for Playgrounds project!**
 

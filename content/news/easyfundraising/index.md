@@ -6,11 +6,11 @@ categories:
 source_path: news/easyfundraising/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Easyfundraising
 
-[November 7, 2014](news/easyfundraising/) [admin](author/admin/)
+[November 7, 2014](/news/easyfundraising/) [admin](author/admin/)
 
 One of the ways you can help fundraise for the school without any extra expenditure is to shop online via [http://easyfundraising.org.uk/](http://easyfundraising.org.uk/ "EasyFundraising"). This is a really easy way to see that the school benefits from something you do anyway. We have already raised over £260 with easyfundraising in the last year from just a handful of parents. If more parents used this to shop online, we could raise much more for school resources that will benefit all of our children.
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council
 
-[August 22, 2014](news/parent-council/) [admin](author/admin/)
+[August 22, 2014](/news/parent-council/) [admin](author/admin/)
 
 If you are interested in hearing about the activities of the Parent Council, come along to the Annual General Meeting (AGM) on Wednesday 10 September 7.00-8.30pm in the School dining room. At the AGM you can hear reports about what happened last year, including ongoing playground improvements, garden, social events and music club, as well as hear from the Head Teacher, Ms Brown. If you are interested in getting involved, there are elections for new council members at the AGM. Everyone is welcome.
 

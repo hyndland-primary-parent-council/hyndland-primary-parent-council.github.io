@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-4/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the run
 
-[November 5, 2013](news/mums-on-the-run-4/) [admin](author/admin/)
+[November 5, 2013](/news/mums-on-the-run-4/) [admin](author/admin/)
 
 **Tomorrow (Wed 6th) is the BIG DAY!** The mums will be heading off for their run at 9am… do come along and cheer them on.
 

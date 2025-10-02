@@ -6,11 +6,11 @@ categories:
 source_path: news/santa-dash-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Santa Dash
 
-[December 12, 2013](news/santa-dash-2/) [admin](author/admin/)
+[December 12, 2013](/news/santa-dash-2/) [admin](author/admin/)
 
 Well done to our festive fundraisers! What a fantastic effort they made.
 

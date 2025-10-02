@@ -7,11 +7,11 @@ categories:
 source_path: news/playground-spring-clean/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Playground Spring Clean
 
-[May 16, 2013](news/playground-spring-clean/) [admin](author/admin/)
+[May 16, 2013](/news/playground-spring-clean/) [admin](author/admin/)
 
 Sunday 19th May, 10am to 4pm
 

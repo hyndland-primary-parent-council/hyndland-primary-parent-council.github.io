@@ -6,11 +6,11 @@ categories:
 source_path: news/welcome-back-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Welcome back…
 
-[September 4, 2018](news/welcome-back-2/) [admin](author/admin/)
+[September 4, 2018](/news/welcome-back-2/) [admin](author/admin/)
 
 Welcome back to all of you whose kids are returning to Hyndland Primary for the new school year and welcome to all of you whose kids are new to the school, whether in P1 or across the school years.
 

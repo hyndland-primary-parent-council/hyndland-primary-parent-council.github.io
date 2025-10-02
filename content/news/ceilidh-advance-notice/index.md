@@ -6,10 +6,10 @@ categories:
 source_path: news/ceilidh-advance-notice/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Ceilidh – advance notice
 
-[October 21, 2013](news/ceilidh-advance-notice/) [admin](author/admin/)
+[October 21, 2013](/news/ceilidh-advance-notice/) [admin](author/admin/)
 
 Date for your diary: Friday 29th November, Partick Burgh Halls. Look out for further info.

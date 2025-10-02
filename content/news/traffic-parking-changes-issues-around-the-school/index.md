@@ -6,11 +6,11 @@ categories:
 source_path: news/traffic-parking-changes-issues-around-the-school/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Traffic & Parking Changes & Issues around the School
 
-[August 23, 2017](news/traffic-parking-changes-issues-around-the-school/) [admin](author/admin/)
+[August 23, 2017](/news/traffic-parking-changes-issues-around-the-school/) [admin](author/admin/)
 
 As many parents and carers will know, the traffic and parking situation around the school has been both outrageous and dangerous for years. Thankfully, as the result of a lot of pressure from the Parent Council and parents/carers at the school, Glasgow City Council (GCC) agreed to put in traffic calming measures during their ongoing introduction of traffic management and parking controls across the West End. While the parking controls are not yet live (they are due to come into effect in the next few weeks), the traffic control measures are, so it is a wee bit disappointing to see that there have been a few examples of parents/carers ignoring or being oblivious to (equally worrying!) the no entry signs and large white road &nbsp;markings where Fortrose Street meets Burgh Hall Street.
 

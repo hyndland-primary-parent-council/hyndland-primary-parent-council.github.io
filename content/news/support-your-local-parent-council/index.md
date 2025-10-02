@@ -6,11 +6,11 @@ categories:
 source_path: news/support-your-local-parent-council/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Support your local Parent Council
 
-[August 20, 2015](news/support-your-local-parent-council/) [admin](author/admin/)
+[August 20, 2015](/news/support-your-local-parent-council/) [admin](author/admin/)
 
 You are also welcome and encouraged to attend any of the other Parent Council’s monthly meetings. The Parent Council is an important voice in the school community. It provides a forum for discussing developments in the school and ensuring that the perspective of the parents whose children attend the school is considered.
 

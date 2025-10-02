@@ -6,11 +6,11 @@ categories:
 source_path: news/online-shopping/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Online shopping
 
-[November 26, 2013](news/online-shopping/) [admin](author/admin/)
+[November 26, 2013](/news/online-shopping/) [admin](author/admin/)
 
 We have a new way to fundraise to help the school which doesn’t require any extra expenditure. As well as enjoying shopping locally, many of us will choose from time to time to order online. This is a really easy way to see that the school benefits from something you do anyway.
 

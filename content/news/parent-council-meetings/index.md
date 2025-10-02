@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meetings/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meetings
 
-[January 10, 2013](news/parent-council-meetings/) [admin](author/admin/)
+[January 10, 2013](/news/parent-council-meetings/) [admin](author/admin/)
 
 Parents and carers are always welcome to come along to Parent Council meetings. Along with parents representing your child’s class, meetings are attended by senior management of the school, a teacher rep, Afty management and any parent/carer who wants to find out what’s happening!
 

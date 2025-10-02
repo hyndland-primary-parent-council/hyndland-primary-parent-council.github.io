@@ -6,11 +6,11 @@ categories:
 source_path: news/your-parent-council-needs-you-3/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Your Parent Council needs you
 
-[June 23, 2016](news/your-parent-council-needs-you-3/) [admin](author/admin/)
+[June 23, 2016](/news/your-parent-council-needs-you-3/) [admin](author/admin/)
 
 Hyndland Primary School Parent Council is only as good as the support and involvement of those who contribute to it and the work of the wider Parent Forum. We are always looking for as wide a level of engagement between the Parent Council and wider Parent Forum as possible, whether that be funding ideas, ideas about improving the learning experience for the children at school, social activities, and no doubt the many things we haven’t yet thought of. So, please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings, or email us at: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
 

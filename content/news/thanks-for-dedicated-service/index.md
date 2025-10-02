@@ -6,11 +6,11 @@ categories:
 source_path: news/thanks-for-dedicated-service/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Thanks for dedicated service
 
-[May 31, 2013](news/thanks-for-dedicated-service/) [admin](author/admin/)
+[May 31, 2013](/news/thanks-for-dedicated-service/) [admin](author/admin/)
 
 At the end of term we will sadly be losing not only our Head Teacher, Ms Laville, as she retires&nbsp;but also three long-standing members of staff who have&nbsp;dedicated many years service to the children of Hyndland Primary.&nbsp; Mrs Linda Francis and Miss Fiona Miller (both with over 20 years service to the infant department) will retire and Mrs Fiona Kerr (who has been at Hyndland for 18 years) has been promoted to Head Teacher at Sandwood Primary School.
 

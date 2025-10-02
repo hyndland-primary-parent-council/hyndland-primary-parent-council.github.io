@@ -7,11 +7,11 @@ categories:
 source_path: news/school-ceilidh-3/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # School Ceilidh
 
-[June 29, 2017](news/school-ceilidh-3/) [admin](author/admin/)
+[June 29, 2017](/news/school-ceilidh-3/) [admin](author/admin/)
 
 On Friday 2 June the Parent Council held our usual Spring Ceilidh (for the second time at Hyndland Community Hall), which was as ever a lot of fun for parents and children alike, and is also a great fundraiser for the school.
 

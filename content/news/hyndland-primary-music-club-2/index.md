@@ -6,11 +6,11 @@ categories:
 source_path: news/hyndland-primary-music-club-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Hyndland Primary Music Club
 
-[September 5, 2016](news/hyndland-primary-music-club-2/) [admin](author/admin/)
+[September 5, 2016](/news/hyndland-primary-music-club-2/) [admin](author/admin/)
 
 Music Club, Mini’s and Ensemble will start on Monday 5th September. Thank you to everyone who has settled their fees. Any questions, please contact [naheedcruickshank@gmail.com](mailto:naheedcruickshank@gmail.com).
 

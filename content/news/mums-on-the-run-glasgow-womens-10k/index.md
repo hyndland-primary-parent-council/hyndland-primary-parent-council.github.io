@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-glasgow-womens-10k/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run – Glasgow Women’s 10K
 
-[May 7, 2014](news/mums-on-the-run-glasgow-womens-10k/) [admin](author/admin/)
+[May 7, 2014](/news/mums-on-the-run-glasgow-womens-10k/) [admin](author/admin/)
 
 Sunday 11th May
 

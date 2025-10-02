@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-7-dec-what-to-do-with-your-donations/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre (7 Dec) – What to do with your donations
 
-[November 30, 2012](news/christmas-fayre-7-dec-what-to-do-with-your-donations/) [admin](author/admin/)
+[November 30, 2012](/news/christmas-fayre-7-dec-what-to-do-with-your-donations/) [admin](author/admin/)
 
 **Auction & Raffle Prizes?**
 

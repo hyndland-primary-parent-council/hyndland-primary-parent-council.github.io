@@ -6,11 +6,11 @@ categories:
 source_path: news/agm/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # AGM
 
-[September 10, 2020](news/agm/) [admin](author/admin/)
+[September 10, 2020](/news/agm/) [admin](author/admin/)
 
 The Annual General Meeting of Hyndland Primary School Parent Council will take place on **Wednesday 23rd September** &nbsp;at&nbsp; **7pm** as a Zoom video conference. In order to take part attendees will have to pre-register by sending an email to&nbsp;[hpsparentcouncilagm@gmail.com](mailto:hpsparentcouncilagm@gmail.com).
 

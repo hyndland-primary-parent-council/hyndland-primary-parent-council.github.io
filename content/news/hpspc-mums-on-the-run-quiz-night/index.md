@@ -8,11 +8,11 @@ categories:
 source_path: news/hpspc-mums-on-the-run-quiz-night/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/), [Past Events](category/past-events/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/), [Past Events](category/past-events/)
 
 # HPSPC & Mums on the Run Quiz Night
 
-[April 26, 2016](news/hpspc-mums-on-the-run-quiz-night/) [admin](author/admin/)
+[April 26, 2016](/news/hpspc-mums-on-the-run-quiz-night/) [admin](author/admin/)
 
 [![quiz night may 2016](/assets/images/2016/04/unnamed.jpg)](/assets/images/2016/04/unnamed.jpg)
 

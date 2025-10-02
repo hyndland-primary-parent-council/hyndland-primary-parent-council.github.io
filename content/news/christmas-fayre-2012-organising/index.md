@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-2012-organising/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre 2012 Organising Committee, 3 Oct
 
-[September 28, 2012](news/christmas-fayre-2012-organising/) [admin](author/admin/)
+[September 28, 2012](/news/christmas-fayre-2012-organising/) [admin](author/admin/)
 
 Come along and find out about the biggest fundraising event of the calendar.
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-halloween-disco-friday-3rd-november/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Halloween Disco – Friday 3rd November
 
-[October 26, 2017](news/parent-council-halloween-disco-friday-3rd-november/) [admin](author/admin/)
+[October 26, 2017](/news/parent-council-halloween-disco-friday-3rd-november/) [admin](author/admin/)
 
 [![](/assets/images/2017/10/Halloween-Party-218x300.jpg)](/assets/images/2017/10/Halloween-Party.jpg)
 

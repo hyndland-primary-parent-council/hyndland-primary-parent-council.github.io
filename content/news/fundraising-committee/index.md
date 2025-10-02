@@ -6,11 +6,11 @@ categories:
 source_path: news/fundraising-committee/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Fundraising Committee
 
-[August 23, 2012](news/fundraising-committee/) [admin](author/admin/)
+[August 23, 2012](/news/fundraising-committee/) [admin](author/admin/)
 
 Tuesday 4th September from 9pm, Cottiers Bar, Hyndland Street
 

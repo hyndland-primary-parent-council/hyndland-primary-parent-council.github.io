@@ -6,11 +6,11 @@ categories:
 source_path: news/your-parent-council-needs-you-13/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Your Parent Council needs you!
 
-[March 12, 2019](news/your-parent-council-needs-you-13/) [admin](author/admin/)
+[March 12, 2019](/news/your-parent-council-needs-you-13/) [admin](author/admin/)
 
 **Next meeting: Wednesday 24 April 2019, 7pm – 8.30pm, School Staff Room**
 

@@ -7,11 +7,11 @@ categories:
 source_path: news/school-garden-and-grounds-update/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # School garden and grounds update
 
-[March 11, 2016](news/school-garden-and-grounds-update/) [admin](author/admin/)
+[March 11, 2016](/news/school-garden-and-grounds-update/) [admin](author/admin/)
 
 Now that the good weather is around (for a bit anyway), here are a few garden activities that are going on:
 

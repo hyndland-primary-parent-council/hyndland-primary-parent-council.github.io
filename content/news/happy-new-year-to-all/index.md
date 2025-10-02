@@ -6,11 +6,11 @@ categories:
 source_path: news/happy-new-year-to-all/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Happy New Year to all!
 
-[January 10, 2018](news/happy-new-year-to-all/) [admin](author/admin/)
+[January 10, 2018](/news/happy-new-year-to-all/) [admin](author/admin/)
 
 In the immortal words of the theme song to&nbsp;_Trumpton_, “Time flies by when you’re the driver of a train”. Well I dunno about that, as I’ve never actually driven a train, but those Christmas holidays sure did fly by pretty darn fast!
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-friday-7-december/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre, Friday 7 December
 
-[November 8, 2012](news/christmas-fayre-friday-7-december/) [admin](author/admin/)
+[November 8, 2012](/news/christmas-fayre-friday-7-december/) [admin](author/admin/)
 
 ### What happens at the Christmas Fayre?
 

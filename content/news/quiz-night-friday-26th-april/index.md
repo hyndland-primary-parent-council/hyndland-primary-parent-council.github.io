@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night-friday-26th-april/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night, Friday 26th April
 
-[April 17, 2013](news/quiz-night-friday-26th-april/) [admin](author/admin/)
+[April 17, 2013](/news/quiz-night-friday-26th-april/) [admin](author/admin/)
 
 Hyndland Bowling Club, Queensborough Gardens, 7.30pm
 

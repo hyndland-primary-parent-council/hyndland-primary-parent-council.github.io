@@ -6,11 +6,11 @@ categories:
 source_path: news/have-a-great-summer-adieu-or-so-long/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Have a great summer, adieu or so long…
 
-[July 1, 2018](news/have-a-great-summer-adieu-or-so-long/) [admin](author/admin/)
+[July 1, 2018](/news/have-a-great-summer-adieu-or-so-long/) [admin](author/admin/)
 
 It has been another great year of learning and teaching and productive activity and development for the children at Hyndland Primary School. They have experienced an engaging curriculum in line with the aims, principles and the four capacities of Curriculum for Excellence – to be successful learners, confident individuals, effective contributors and responsible citizens.
 

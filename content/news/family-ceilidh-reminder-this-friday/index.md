@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-reminder-this-friday/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh – reminder – this Friday
 
-[May 17, 2016](news/family-ceilidh-reminder-this-friday/) [admin](author/admin/)
+[May 17, 2016](/news/family-ceilidh-reminder-this-friday/) [admin](author/admin/)
 
 **A reminder that the Hyndland Primary Family Ceilidh is this Friday!**
 

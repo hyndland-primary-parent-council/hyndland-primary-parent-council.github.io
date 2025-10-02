@@ -6,11 +6,11 @@ categories:
 source_path: news/justice-4-jannies-getting-it-right-for-every-school/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Justice 4 Jannies – Getting it Right for Every School
 
-[March 20, 2017](news/justice-4-jannies-getting-it-right-for-every-school/) [admin](author/admin/)
+[March 20, 2017](/news/justice-4-jannies-getting-it-right-for-every-school/) [admin](author/admin/)
 
 Following up from the Parent Council newsletter of 2-3 weeks ago, I have sent out on behalf of the Parent Council an online petition which we hope you will sign and circulate as widely as possible by email, Facebook, Twitter and other social media sites, to your friends, family, colleagues, etc.
 

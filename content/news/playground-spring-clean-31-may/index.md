@@ -7,11 +7,11 @@ categories:
 source_path: news/playground-spring-clean-31-may/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Playground Spring Clean, 31 May
 
-[May 26, 2015](news/playground-spring-clean-31-may/) [admin](author/admin/)
+[May 26, 2015](/news/playground-spring-clean-31-may/) [admin](author/admin/)
 
 The annual playground spring clean will take place on **Sunday May 31st from 10am to 2pm**.
 

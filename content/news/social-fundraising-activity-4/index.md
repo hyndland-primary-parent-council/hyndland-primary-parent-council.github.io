@@ -6,11 +6,11 @@ categories:
 source_path: news/social-fundraising-activity-4/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Social & Fundraising Activity
 
-[August 23, 2017](news/social-fundraising-activity-4/) [admin](author/admin/)
+[August 23, 2017](/news/social-fundraising-activity-4/) [admin](author/admin/)
 
 We are constantly in need of more parents to volunteer their help with the planning and running of Parent Council fundraising events. Much of this work goes into organising and running the ceilidhs, parent quiz nights and other fundraising events that raise the money which benefits the education of all of our children.
 

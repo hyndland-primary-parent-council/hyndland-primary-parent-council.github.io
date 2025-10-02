@@ -6,11 +6,11 @@ categories:
 source_path: news/ceilidh-friday-16th-may/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Ceilidh – Friday 16th May
 
-[May 7, 2014](news/ceilidh-friday-16th-may/) [admin](author/admin/)
+[May 7, 2014](/news/ceilidh-friday-16th-may/) [admin](author/admin/)
 
 Partick Burgh Halls
 

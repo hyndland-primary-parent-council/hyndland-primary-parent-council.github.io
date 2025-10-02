@@ -6,11 +6,11 @@ categories:
 source_path: news/welcome-from-the-acting-chair/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Welcome from the Acting Chair
 
-[August 22, 2014](news/welcome-from-the-acting-chair/) [admin](author/admin/)
+[August 22, 2014](/news/welcome-from-the-acting-chair/) [admin](author/admin/)
 
 A new school year and a whole host of new faces in P1 can be seen around the school, along with some other new faces dotted around the other years. Another ‘new’ face, at least in the role of Acting Chair of the Parent Council is that of myself. I have replaced – if that’s at all possible – Jane Grove, who did a fantastic job as Chair of the Parent Council. I’d like to thank Jane wholeheartedly for all of the work that she did for the school and for the advice that she’s given me in my new acting role over the summer holidays.
 

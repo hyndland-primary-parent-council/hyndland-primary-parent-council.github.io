@@ -6,11 +6,11 @@ categories:
 source_path: news/schools-baton-relay/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Schools Baton Relay
 
-[September 26, 2013](news/schools-baton-relay/) [admin](author/admin/)
+[September 26, 2013](/news/schools-baton-relay/) [admin](author/admin/)
 
 Hyndland Primary School is one of 70 schools across the city to be chosen to participate in the Schools Baton Relay which will mirror the Queen’s Baton Relay celebrating the Opening of the Commonwealth Games.
 

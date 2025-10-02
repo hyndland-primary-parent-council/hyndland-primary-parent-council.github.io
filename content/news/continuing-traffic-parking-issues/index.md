@@ -6,11 +6,11 @@ categories:
 source_path: news/continuing-traffic-parking-issues/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Continuing Traffic & Parking Issues
 
-[September 6, 2017](news/continuing-traffic-parking-issues/) [admin](author/admin/)
+[September 6, 2017](/news/continuing-traffic-parking-issues/) [admin](author/admin/)
 
 Despite messages from both the school and the Parent Council, there continues to be dangerous parking and driving behaviour around the school, especially on Fortrose Street.
 

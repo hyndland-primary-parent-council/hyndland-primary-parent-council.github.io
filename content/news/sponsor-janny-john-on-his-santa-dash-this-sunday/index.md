@@ -6,11 +6,11 @@ categories:
 source_path: news/sponsor-janny-john-on-his-santa-dash-this-sunday/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Sponsor Janny John on his Santa Dash this Sunday
 
-[December 5, 2017](news/sponsor-janny-john-on-his-santa-dash-this-sunday/) [admin](author/admin/)
+[December 5, 2017](/news/sponsor-janny-john-on-his-santa-dash-this-sunday/) [admin](author/admin/)
 
 This Sunday, 10 December, Hyndland Primary’s very own super-janny, the mighty Janny John, is taking part in Glasgow’s annual Santa Dash in George Square.
 

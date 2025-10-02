@@ -6,11 +6,11 @@ categories:
 source_path: news/book-fair-and-bake-sale-friday-2-march/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Book Fair and Bake Sale, Friday 2 March
 
-[February 28, 2018](news/book-fair-and-bake-sale-friday-2-march/) [admin](author/admin/)
+[February 28, 2018](/news/book-fair-and-bake-sale-friday-2-march/) [admin](author/admin/)
 
 The Parent Council is hosting a coffee afternoon in the school dining hall on Friday 2 March, 2-3pm. As part of the fundraising efforts for their leaving party, the P7 children are running a book and bake sale at that event.
 

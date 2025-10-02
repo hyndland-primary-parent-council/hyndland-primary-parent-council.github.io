@@ -7,11 +7,11 @@ categories:
 source_path: news/information-on-parentscarers-event-for-children-with-communication-difficulties-andor-distressing-behaviour/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Information on Parents’/Carers’ Event for Children with Communication Difficulties and/or Distressing Behaviour
 
-[March 27, 2017](news/information-on-parentscarers-event-for-children-with-communication-difficulties-andor-distressing-behaviour/) [admin](author/admin/)
+[March 27, 2017](/news/information-on-parentscarers-event-for-children-with-communication-difficulties-andor-distressing-behaviour/) [admin](author/admin/)
 
 Title: Low tech resources and strategies for children with communication difficulties and/or distressing behaviour
 

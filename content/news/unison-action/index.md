@@ -6,11 +6,11 @@ categories:
 source_path: news/unison-action/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # UNISON ACTION
 
-[March 11, 2016](news/unison-action/) [admin](author/admin/)
+[March 11, 2016](/news/unison-action/) [admin](author/admin/)
 
 Please see below the text of the letter from school regarding the Strike Action by UNISON on Monday 14, Tuesday 15 and Wednesday 16 March. Breakfast Club will not run on Monday 14, nor will Music Club or Mini Music Club after school.
 

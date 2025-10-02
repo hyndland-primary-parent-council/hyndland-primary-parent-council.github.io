@@ -6,11 +6,11 @@ categories:
 source_path: news/burns-night-ceilidh-and-parent-council-meeting/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Burns night ceilidh and Parent Council meeting
 
-[January 8, 2020](news/burns-night-ceilidh-and-parent-council-meeting/) [admin](author/admin/)
+[January 8, 2020](/news/burns-night-ceilidh-and-parent-council-meeting/) [admin](author/admin/)
 
 [![](/assets/images/2020/01/Burns-night-2020-214x300.jpg)](/assets/images/2020/01/Burns-night-2020.jpg)But not on the same evening. The next **Parent Council meeting** will be at 7 pm on Wednesday 22 January in the School’s staff room. We will be discussing outdoor learning, playground improvements and school meal provision, among other things. Do please come along!!
 

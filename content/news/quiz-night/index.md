@@ -6,11 +6,11 @@ categories:
 source_path: news/quiz-night/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Quiz Night
 
-[October 12, 2012](news/quiz-night/) [admin](author/admin/)
+[October 12, 2012](/news/quiz-night/) [admin](author/admin/)
 
 Thanks to everyone who came along last Friday night and/or donated raffle prizes.
 

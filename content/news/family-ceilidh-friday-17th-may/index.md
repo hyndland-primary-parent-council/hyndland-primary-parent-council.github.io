@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-friday-17th-may/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh Friday 17th May
 
-[May 16, 2013](news/family-ceilidh-friday-17th-may/) [admin](author/admin/)
+[May 16, 2013](/news/family-ceilidh-friday-17th-may/) [admin](author/admin/)
 
 7-10pm, Partick Burgh Halls
 

@@ -6,10 +6,10 @@ categories:
 source_path: news/christmas-fayre/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre
 
-[January 10, 2013](news/christmas-fayre/) [admin](author/admin/)
+[January 10, 2013](/news/christmas-fayre/) [admin](author/admin/)
 
 If you left any bakeware behind, please collect it from the basement! Thanks

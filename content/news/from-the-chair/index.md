@@ -6,11 +6,11 @@ categories:
 source_path: news/from-the-chair/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # From the Chair
 
-[June 23, 2016](news/from-the-chair/) [admin](author/admin/)
+[June 23, 2016](/news/from-the-chair/) [admin](author/admin/)
 
 **The End is Nigh! Well, the summer holidays are almost upon us!**
 

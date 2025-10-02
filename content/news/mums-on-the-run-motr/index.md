@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-motr/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run (MOTR)
 
-[June 23, 2016](news/mums-on-the-run-motr/) [admin](author/admin/)
+[June 23, 2016](/news/mums-on-the-run-motr/) [admin](author/admin/)
 
 Since we started in 2013 our aim has been to provide a supportive network of running buddies to mum who want to start or improve their running, and we have a trained JogScotland leader who can provide help and advice. We’ve raised over £2,500 for school projects, including this year’s trips to the Emirates Stadium, and operate a breakfast running club for kids at the school (this term it was for P3-P5). If any mum wants to get in touch or find out more they should contact Louise at hyndlandmumsontherun@gmail.com
 

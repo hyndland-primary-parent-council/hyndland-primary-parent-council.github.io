@@ -6,11 +6,11 @@ categories:
 source_path: news/september-agm-new-parent-council-for-2016-17/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # September AGM & New Parent Council for 2016-17
 
-[October 24, 2016](news/september-agm-new-parent-council-for-2016-17/) [admin](author/admin/)
+[October 24, 2016](/news/september-agm-new-parent-council-for-2016-17/) [admin](author/admin/)
 
 The AGM on 14 September was well attended and included overviews of the previous year and also flagged up areas of work for the 2016-17 school year; the Parent Council, Head Teacher and Depute Head, Music Club, Afty and our parent gardeners all gave a good account of recent past, current and planned activity, including on the school refurb project, curriculum and environmental learning, music and the continued traffic problems around the school, including the loss of a crossing guard on Hyndland Street. The detailed minutes will be available once they are approved at the next meeting on 2 November.
 

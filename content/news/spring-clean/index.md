@@ -7,11 +7,11 @@ categories:
 source_path: news/spring-clean/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Spring Clean
 
-[May 7, 2014](news/spring-clean/) [admin](author/admin/)
+[May 7, 2014](/news/spring-clean/) [admin](author/admin/)
 
 Sunday 18th May
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-this-friday/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre – this Friday
 
-[December 3, 2012](news/christmas-fayre-this-friday/) [admin](author/admin/)
+[December 3, 2012](/news/christmas-fayre-this-friday/) [admin](author/admin/)
 
 Five days and counting. The excitement is building! See the post below for how you can help and where to take donations. We’re still looking for a few more volunteers to help on the day. If you could spare a few hours contact [Linda McCormick](mailto:lindamccormick1@googlemail.com).
 

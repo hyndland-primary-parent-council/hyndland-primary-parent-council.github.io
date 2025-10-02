@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-church-service-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Church Service
 
-[December 12, 2013](news/christmas-church-service-2/) [admin](author/admin/)
+[December 12, 2013](/news/christmas-church-service-2/) [admin](author/admin/)
 
 Christmas Service Monday 16th December at Hyndland Parish Church at 9.45 – all welcome.
 

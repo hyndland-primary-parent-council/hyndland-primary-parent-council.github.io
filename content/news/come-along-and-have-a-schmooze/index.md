@@ -6,11 +6,11 @@ categories:
 source_path: news/come-along-and-have-a-schmooze/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Come along and have a schmooze…
 
-[September 4, 2018](news/come-along-and-have-a-schmooze/) [admin](author/admin/)
+[September 4, 2018](/news/come-along-and-have-a-schmooze/) [admin](author/admin/)
 
 [![](/assets/images/2018/09/Sept-social.jpg)](/assets/images/2018/09/Sept-social.jpg)
 

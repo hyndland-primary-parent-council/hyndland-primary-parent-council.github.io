@@ -7,11 +7,11 @@ categories:
 source_path: news/greenfingers-2/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Greenfingers!
 
-[June 29, 2017](news/greenfingers-2/) [admin](author/admin/)
+[June 29, 2017](/news/greenfingers-2/) [admin](author/admin/)
 
 As the holidays approach, we usually put together a watering rota for the school garden. If you are free to take your children down to the garden on a particular day or week over the summer to water the plants, please let us know as this will be a great help. The same also applies if you’re able to come along and help out with playground improvements or gardening during the holidays.
 

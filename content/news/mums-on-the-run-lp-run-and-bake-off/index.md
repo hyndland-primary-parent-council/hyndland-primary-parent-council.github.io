@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-lp-run-and-bake-off/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run LP Run and Bake Off
 
-[December 21, 2015](news/mums-on-the-run-lp-run-and-bake-off/) [admin](author/admin/)
+[December 21, 2015](/news/mums-on-the-run-lp-run-and-bake-off/) [admin](author/admin/)
 
 On Friday 11 December our indefatigable MOTR undertook an LP run, which, in the style of an LP (for those of us old enough to know what they are!) ran around the cricket pitch for 33 1/3 minutes and then went into a bake-off.
 

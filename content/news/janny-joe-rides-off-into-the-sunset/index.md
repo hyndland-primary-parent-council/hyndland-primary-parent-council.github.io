@@ -7,11 +7,11 @@ categories:
 source_path: news/janny-joe-rides-off-into-the-sunset/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # Janny Joe rides off into the sunset…
 
-[September 5, 2016](news/janny-joe-rides-off-into-the-sunset/) [admin](author/admin/)
+[September 5, 2016](/news/janny-joe-rides-off-into-the-sunset/) [admin](author/admin/)
 
 It was with a tear in the eye and a lump in the throat that in Partick Bowling Club on Friday 26th August we said goodbye to one of Hyndland Primary School’s oldest relics, I mean much loved jannies, Janny Joe Cameron.
 

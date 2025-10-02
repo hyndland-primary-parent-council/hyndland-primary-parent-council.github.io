@@ -7,11 +7,11 @@ categories:
 source_path: news/school-ceilidh-2/index.html
 extracted_mode: article
 ---
-[News](category/news/), [Past Events](category/past-events/)
+[News](/news/), [Past Events](category/past-events/)
 
 # School Ceilidh
 
-[June 23, 2016](news/school-ceilidh-2/) [admin](author/admin/)
+[June 23, 2016](/news/school-ceilidh-2/) [admin](author/admin/)
 
 On Friday 20 May the Parent Council held our usual Spring Ceilidh, which – some obnoxious behaviour to parents and children from one of the Burgh Halls staff aside – was as ever a lot of fun for parents and children alike, and is also a great fundraiser for the school.
 

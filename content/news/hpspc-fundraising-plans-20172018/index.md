@@ -6,11 +6,11 @@ categories:
 source_path: news/hpspc-fundraising-plans-20172018/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # HPSPC Fundraising Plans 2017/2018
 
-[September 2, 2017](news/hpspc-fundraising-plans-20172018/) [admin](author/admin/)
+[September 2, 2017](/news/hpspc-fundraising-plans-20172018/) [admin](author/admin/)
 
 Firstly, a huge thank you to everyone who has helped out with fundraising in any way over the last year, we couldn’t have done it without everyone’s help: buying tickets, donating raffle prizes, giving your time to organise and help at events has been hugely beneficial to the learning experience of all our children. The parent council funds raised paid for:
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/playground-improvements-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Playground Improvements
 
-[June 12, 2013](news/playground-improvements-2/) [admin](author/admin/)
+[June 12, 2013](/news/playground-improvements-2/) [admin](author/admin/)
 
 We’ve fixed a date for Spring Clean #2  
 **Sunday 23rd June, 10am-2pm**

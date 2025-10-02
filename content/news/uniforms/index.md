@@ -6,11 +6,11 @@ categories:
 source_path: news/uniforms/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Uniforms
 
-[August 23, 2012](news/uniforms/) [admin](author/admin/)
+[August 23, 2012](/news/uniforms/) [admin](author/admin/)
 
 Sam Murray is our new parent volunteer Uniform Coordinator. Sam will be coordinating the next order for uniform which will be placed at the end of August. If you need to put in an order you can download the order form from the [School Uniform](http://www.hyndlandprimaryparentcouncil.org/school-uniform/ "School Uniform") page of the website or collect a form from the school office.
 

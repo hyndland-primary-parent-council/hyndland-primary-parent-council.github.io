@@ -7,11 +7,11 @@ categories:
 source_path: news/the-great-hyndland-bake-off/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # The ‘Great Hyndland Bake Off’
 
-[May 30, 2017](news/the-great-hyndland-bake-off/) [admin](author/admin/)
+[May 30, 2017](/news/the-great-hyndland-bake-off/) [admin](author/admin/)
 
 On Friday 12 May, Hyndland Primary School held its very own edition of the critically acclaimed (or at least widely watched) “Bake Off”, in the interim period during its transition from the BBC to C4. Unfortunately, neither Mary Berry nor Paul Hollywood were in attendance, nor the intrepid Mel and Sue, but we did have out very own Louise Love and Mums on the Run, who by all accounts arranged a veritable bakers’ banquet, with numerous entries coming in from across the pupil and parent body.
 

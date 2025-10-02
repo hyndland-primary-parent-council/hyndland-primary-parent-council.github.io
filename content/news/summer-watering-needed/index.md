@@ -7,11 +7,11 @@ categories:
 source_path: news/summer-watering-needed/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # Summer watering needed
 
-[June 12, 2013](news/summer-watering-needed/) [admin](author/admin/)
+[June 12, 2013](/news/summer-watering-needed/) [admin](author/admin/)
 
 Are you able to help out watering the school garden and tubs in the playground during the Summer Holidays?
 

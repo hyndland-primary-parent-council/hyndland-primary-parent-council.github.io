@@ -6,11 +6,11 @@ categories:
 source_path: news/easyfundraising-3/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # easyfundraising
 
-[December 5, 2017](news/easyfundraising-3/) [admin](author/admin/)
+[December 5, 2017](/news/easyfundraising-3/) [admin](author/admin/)
 
 One of the ways you can help fundraise for the school without any extra expenditure is to shop online via&nbsp;[https://www.easyfundraising.org.uk/causes/hyndlandprimary/](https://www.easyfundraising.org.uk/causes/hyndlandprimary/). This is a really easy way to see that the school benefits from something you do anyway.&nbsp; **We have already raised over £830.26 with easyfundraising in the 3 years from just 37 people**. There are over 400 individual parents and carers at the school (not to mention teachers and other staff), so if more people signed up and&nbsp;used this to shop online, we could raise much more for school resources that will benefit all of our children.
 

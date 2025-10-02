@@ -6,11 +6,11 @@ categories:
 source_path: news/hyndland-primary-family-ceilidh-needs-your-help/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Hyndland Primary Family Ceilidh needs your help!
 
-[October 22, 2015](news/hyndland-primary-family-ceilidh-needs-your-help/) [admin](author/admin/)
+[October 22, 2015](/news/hyndland-primary-family-ceilidh-needs-your-help/) [admin](author/admin/)
 
 Hyndland Primary Family Ceilidh is our most popular school social event.
 

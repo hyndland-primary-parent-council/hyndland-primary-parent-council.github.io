@@ -7,11 +7,11 @@ categories:
 source_path: news/mums-on-the-run-6/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Mums on the Run
 
-[March 2, 2014](news/mums-on-the-run-6/) [admin](author/admin/)
+[March 2, 2014](/news/mums-on-the-run-6/) [admin](author/admin/)
 
 HUGE thanks to our Mums On The Run; Mrs Anderson met with our Pupil Council to identify some portable outdoor resources to make playtimes more fun and all our classes now have access to waterproof clothing so that Rain does not equal the pain of staying inside at breaks and lunches!
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-may-2016/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting – MAY 2016
 
-[May 17, 2016](news/parent-council-meeting-may-2016/) [admin](author/admin/)
+[May 17, 2016](/news/parent-council-meeting-may-2016/) [admin](author/admin/)
 
 **The final Parent Council meeting of the year is on 25 May 2016 at 7pm in the staff room.**
 

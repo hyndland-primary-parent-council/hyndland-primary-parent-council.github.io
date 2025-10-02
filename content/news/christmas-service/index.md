@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-service/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Service
 
-[November 29, 2012](news/christmas-service/) [admin](author/admin/)
+[November 29, 2012](/news/christmas-service/) [admin](author/admin/)
 
 Thuesday 18th December, 9.45am, Hyndland Parish Church (opposite Top Tier on Hyndland Road)
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/traffic-problems-around-the-school-please-be-a-careful-considerate-driver/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Traffic problems around the school – please be a careful & considerate driver
 
-[December 21, 2015](news/traffic-problems-around-the-school-please-be-a-careful-considerate-driver/) [admin](author/admin/)
+[December 21, 2015](/news/traffic-problems-around-the-school-please-be-a-careful-considerate-driver/) [admin](author/admin/)
 
 As most parents will be well aware, traffic problems continue to occur around the school, with cars coming in both directions on Fortrose Street; gridlock; pavement mounting going forwards and backwards, and not always looking out for pedestrians – including small children – when they do; parking on the yellow zig zag no parking zone directly outside the school; double parking – sometimes while temporarily abandoning their car; letting children out of vehicles into the path of oncoming traffic; high tension and frustration among some drivers, occasionally resulting in aggressive behaviour; etc.
 

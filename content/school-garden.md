@@ -5,17 +5,12 @@ source_path: school-garden/index.html
 extracted_mode: full_body
 categories: []
 ---
-- [Home](http://www.hyndlandprimaryparentcouncil.org)
-- [School Uniform](school-uniform/)
-- [Term Dates](term-dates/)
-- [Parent Council](parent-council/)
-- [Contact Us](contact-us/)
 
 # Hyndland Primary Parent Council
 
 ### Parent Noticeboard
 
-# [School Garden](school-garden/)
+# [School Garden](/school-garden/)
 
 Hyndland Primary and Afty School Garden has its own website!
 
@@ -25,7 +20,7 @@ Visit&nbsp;[http://hpaschoolgarden.wordpress.com/](http://hpaschoolgarden.wordpr
 
 Recent News:
 
-## [Summer help for the school gardens and plants needed](news/summer-help-for-the-school-gardens-and-plants-needed/)
+## [Summer help for the school gardens and plants needed](/news/summer-help-for-the-school-gardens-and-plants-needed/)
 
 If there is anyone happy to water the garden and especially playground planters and pollination projects, trees etc., then could you please confirm by text to Susan Taylor on 07882 942 945 that you have done so, including what areas were done. If the plants and garden etc. aren't watered regularly then there's every chance that the forecast long, hot spell will start the process of desertification on Fortrose Street this summer.
 
@@ -33,7 +28,7 @@ On Sundays the school gate will be open from 11am - 1pm, but Janny John will be 
 
 * * *
 
-## [School Garden Market Sale](news/school-garden-market-sale/)
+## [School Garden Market Sale](/news/school-garden-market-sale/)
 
 We will be holding the school garden market sale this&nbsp; **Friday 8 September in the school playground at pick up time** to raise some funds for the school.
 
@@ -47,7 +42,7 @@ Thank you!
 
 * * *
 
-## [School Garden](news/school-garden-4/)
+## [School Garden](/news/school-garden-4/)
 
 At Hyndland Primary we are keen to promote outdoor learning. The school garden and parts of the playgrounds are currently maintained by green fingered parents Susan Taylor and Helen Rolph, but they need your help. Would you be able to volunteer some of your time? They are always looking for volunteers to help out not just in the school garden, but with the plants dotted around the playgrounds too. You could water the gardens and pots, help with planting, digging and preparing plants and seeds for classes.
 
@@ -55,7 +50,7 @@ Susan and Helen will be looking for parent volunteers to help them with the gard
 
 * * *
 
-## [Greenfingers!](news/greenfingers-2/)
+## [Greenfingers!](/news/greenfingers-2/)
 
 As the holidays approach, we usually put together a watering rota for the school garden. If you are free to take your children down to the garden on a particular day or week over the summer to water the plants, please let us know as this will be a great help. The same also applies if you're able to come along and help out with playground improvements or gardening during the holidays.
 
@@ -67,7 +62,7 @@ _Helen and Susan_
 
 * * *
 
-## [Easter Gardening and Playground Improvements](news/easter-gardening-and-playground-improvements/)
+## [Easter Gardening and Playground Improvements](/news/easter-gardening-and-playground-improvements/)
 
 A very special thanks to the few volunteers who gave their time to help improve the playgrounds and garden area during the Spring Break.
 
@@ -97,65 +92,3 @@ Please text Susan Taylor on 07882 942 945 and ask to be added to the HPS Clean U
 _The Head Teacher, Ms Helen Brown, says: "Everyone is amazed and appreciates the wonderful work that has been done all over the school campus by Susan and Helen and the parent/pupil helpers. [The children] are very excited about getting involved, they are also bouncing with enthusiasm about their nature topic and would love to take on some duties and activities in the school garden this term."_
 
 * * *
-
-- 
-## Search
-
-Search for:
-- 
-## Donate to Parent Council
-
-In response to requests for the ability to make donations to the Parent Council funds outwith events, we now have a PayPal account to allow parents, carers and wider families to donate towards resources for the school. [![](https://www.paypalobjects.com/en_US/i/btn/x-click-butcc-donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW7E8PDGXH45Y)
-- 
-## Latest News
-
-- [School to close 3.15pm on Friday](news/school-to-close-3-15pm-on-friday/)
-- [Hyndland Primary School Lunch Survey Results](news/hyndland-primary-school-lunch-survey-results/)
-- [STOP PRESS – Parent Council Meeting](news/stop-press-parent-council-meeting/)
-- [School Lunch Survey](news/school-lunch-survey/)
-- [Burns night ceilidh and Parent Council meeting](news/burns-night-ceilidh-and-parent-council-meeting/)
-- [Parent Council Meeting](news/parent-council-meeting-8/)
-
-- 
-## Pages
-
-- [Contact Us](contact-us/)
-- [Fundraising](fundraising/)
-- [Links](links/)
-- [Mums on the Run](mums-on-the-run/)
-- [Music Club](music-club/)
-- [Parent Council](parent-council/)
-- [Parent Council Constitution](parent-council-constitution/)
-- [Privacy Notice & Cookies](privacy-notice-cookies/)
-- [Scholastic Book Club](scholastic-book-club/)
-- [School Garden](school-garden/)
-- [School Uniform](school-uniform/)
-- [Term Dates](term-dates/)
-
-- 
-## About
-
- ![Hyndland Primary Parent Council Logo](https://www.hyndlandprimaryparentcouncil.org/./assets/images/2012/02/logo.gif)
-
-This website is for parents and carers of pupils at Hyndland Primary School and it is run by its Parent Council.
-
-If you'd like to receive e-mail updates, please [e-mail us](mailto:enquiries@hyndlandprimaryparentcouncil.org) and we can add you to the mailing list.
-
-On the other hand, if you would like to contact the school directly, you can do so by calling them on 0141 339 7207
-
-- 
-## School Twitter
-[@HyndlandPS](https://twitter.com/HyndlandPS)
-
-Website maintained by Hyndland Primary Parent Council & Ali Walker
-
-7ads6x98y
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Reject [Read More](privacy-notice-cookies/)
-
-Privacy & Cookies Policy
-
-Close
-
- Necessary 
-Necessary
-Always Enabled

@@ -7,11 +7,11 @@ categories:
 source_path: news/school-garden-4/index.html
 extracted_mode: article
 ---
-[News](category/news/), [School Garden](category/garden/)
+[News](/news/), [School Garden](category/garden/)
 
 # School Garden
 
-[August 23, 2017](news/school-garden-4/) [admin](author/admin/)
+[August 23, 2017](/news/school-garden-4/) [admin](author/admin/)
 
 At Hyndland Primary we are keen to promote outdoor learning. The school garden and parts of the playgrounds are currently maintained by green fingered parents Susan Taylor and Helen Rolph, but they need your help. Would you be able to volunteer some of your time? They are always looking for volunteers to help out not just in the school garden, but with the plants dotted around the playgrounds too. You could water the gardens and pots, help with planting, digging and preparing plants and seeds for classes.
 

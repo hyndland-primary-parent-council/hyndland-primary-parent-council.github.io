@@ -34,12 +34,12 @@ Search for:
 - 
 ## Latest News
 
-- [School Christmas Fayre – Thu 17 Dec](news/school-christmas-fayre-thu-17-dec/)
-- [Family Ceilidh, Friday 27 Nov](news/family-ceilidh-friday-27-nov/)
-- [Mums on the Run – LP Run & Bake Off](news/mums-on-the-run-lp-run-bake-off/)
-- [Next Parent Council Meeting](news/next-parent-council-meeting/)
-- [Hyndland Primary Family Ceilidh needs your help!](news/hyndland-primary-family-ceilidh-needs-your-help/)
-- [Pantomime Charity Night – 8th Dec](news/pantomime-charity-night-8th-dec/)
+- [School Christmas Fayre – Thu 17 Dec](/news/school-christmas-fayre-thu-17-dec/)
+- [Family Ceilidh, Friday 27 Nov](/news/family-ceilidh-friday-27-nov/)
+- [Mums on the Run – LP Run & Bake Off](/news/mums-on-the-run-lp-run-bake-off/)
+- [Next Parent Council Meeting](/news/next-parent-council-meeting/)
+- [Hyndland Primary Family Ceilidh needs your help!](/news/hyndland-primary-family-ceilidh-needs-your-help/)
+- [Pantomime Charity Night – 8th Dec](/news/pantomime-charity-night-8th-dec/)
 
 - 
 ## Upcoming Events

@@ -6,11 +6,11 @@ categories:
 source_path: news/social-events-meeting-wed-14-jan/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Social Events Meeting, Wed 14 Jan
 
-[January 7, 2015](news/social-events-meeting-wed-14-jan/) [admin](author/admin/)
+[January 7, 2015](/news/social-events-meeting-wed-14-jan/) [admin](author/admin/)
 
 **from 9pm, Cottiers Bar (Hyndland Road)**
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/non-uniform-day-tomorrow-25th-january/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Non-uniform day tomorrow – 25th January
 
-[January 24, 2013](news/non-uniform-day-tomorrow-25th-january/) [admin](author/admin/)
+[January 24, 2013](/news/non-uniform-day-tomorrow-25th-january/) [admin](author/admin/)
 
 ### ![](http://img2.ymlp214.net/fgcu_robertburnswithtartanborder.jpg)
 

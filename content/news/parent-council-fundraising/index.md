@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-fundraising/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Fundraising
 
-[May 7, 2014](news/parent-council-fundraising/) [admin](author/admin/)
+[May 7, 2014](/news/parent-council-fundraising/) [admin](author/admin/)
 
 Over the last couple of years the focus of Parent Council fundraising has been on Playground Improvements. Working alongside then Deputy Head Fiona Kerr, we were investigating the possibility of matched funding from Legacy (Commonwealth Games) grants to allow us to undertake a more major project, such as a new pitch. Recently it has become clear that for various reasons, both financial and logistical, this is not going to be viable.
 

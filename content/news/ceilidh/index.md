@@ -6,11 +6,11 @@ categories:
 source_path: news/ceilidh/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Ceilidh
 
-[November 26, 2013](news/ceilidh/) [admin](author/admin/)
+[November 26, 2013](/news/ceilidh/) [admin](author/admin/)
 
 **Friday 29th November**  
 **7pm-10pm**  

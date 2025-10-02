@@ -6,11 +6,11 @@ categories:
 source_path: news/your-parent-council/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Your Parent Council
 
-[October 6, 2014](news/your-parent-council/) [admin](author/admin/)
+[October 6, 2014](/news/your-parent-council/) [admin](author/admin/)
 
 At the AGM on 10 September the following Parent Council Representation was agreed.
 

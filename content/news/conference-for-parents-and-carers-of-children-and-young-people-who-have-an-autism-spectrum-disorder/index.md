@@ -7,11 +7,11 @@ categories:
 source_path: news/conference-for-parents-and-carers-of-children-and-young-people-who-have-an-autism-spectrum-disorder/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Conference for parents and carers of children and young people who have an Autism Spectrum Disorder
 
-[August 23, 2013](news/conference-for-parents-and-carers-of-children-and-young-people-who-have-an-autism-spectrum-disorder/) [admin](author/admin/)
+[August 23, 2013](/news/conference-for-parents-and-carers-of-children-and-young-people-who-have-an-autism-spectrum-disorder/) [admin](author/admin/)
 
 Glasgow City Council Conference for parents are carers of children and young people who have an Autism Spectrum Disorder
 

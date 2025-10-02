@@ -6,11 +6,11 @@ categories:
 source_path: news/yellow-moon/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Yellow Moon
 
-[October 21, 2013](news/yellow-moon/) [admin](author/admin/)
+[October 21, 2013](/news/yellow-moon/) [admin](author/admin/)
 
 Catalogues for Yellow Moon were sent home in schoolbags before the holiday.
 

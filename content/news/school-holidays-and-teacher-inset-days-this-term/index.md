@@ -6,11 +6,11 @@ categories:
 source_path: news/school-holidays-and-teacher-inset-days-this-term/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # School holidays and teacher inset days this term
 
-[September 5, 2016](news/school-holidays-and-teacher-inset-days-this-term/) [admin](author/admin/)
+[September 5, 2016](/news/school-holidays-and-teacher-inset-days-this-term/) [admin](author/admin/)
 
 The school will be closed on the following dates this term:
 

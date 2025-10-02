@@ -6,11 +6,11 @@ categories:
 source_path: news/family-ceilidh-friday-8-may/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Family Ceilidh, Friday 8 May
 
-[May 6, 2015](news/family-ceilidh-friday-8-may/) [admin](author/admin/)
+[May 6, 2015](/news/family-ceilidh-friday-8-may/) [admin](author/admin/)
 
 Partick Burgh Halls, 7pm – 11pm
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/hopscotch-pantomime-dick-whittington-p1-6/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Hopscotch Pantomime – Dick Whittington – P1-6
 
-[November 29, 2012](news/hopscotch-pantomime-dick-whittington-p1-6/) [admin](author/admin/)
+[November 29, 2012](/news/hopscotch-pantomime-dick-whittington-p1-6/) [admin](author/admin/)
 
 Wednesday 19th December
 

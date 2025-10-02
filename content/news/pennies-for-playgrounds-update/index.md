@@ -6,11 +6,11 @@ categories:
 source_path: news/pennies-for-playgrounds-update/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Pennies for Playgrounds Update
 
-[August 3, 2016](news/pennies-for-playgrounds-update/) [admin](author/admin/)
+[August 3, 2016](/news/pennies-for-playgrounds-update/) [admin](author/admin/)
 
 A massive £447.00 was raised by the children at Hyndland Primary collecting pennies! WELL DONE!
 

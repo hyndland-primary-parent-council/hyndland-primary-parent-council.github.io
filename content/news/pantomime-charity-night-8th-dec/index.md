@@ -6,11 +6,11 @@ categories:
 source_path: news/pantomime-charity-night-8th-dec/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Pantomime Charity Night – 8th Dec
 
-[October 10, 2015](news/pantomime-charity-night-8th-dec/) [admin](author/admin/)
+[October 10, 2015](/news/pantomime-charity-night-8th-dec/) [admin](author/admin/)
 
 Click image to view larger version
 

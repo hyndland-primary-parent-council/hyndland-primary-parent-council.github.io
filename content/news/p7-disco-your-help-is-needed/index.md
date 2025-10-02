@@ -6,11 +6,11 @@ categories:
 source_path: news/p7-disco-your-help-is-needed/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # P7 Disco – Your help is needed
 
-[May 30, 2017](news/p7-disco-your-help-is-needed/) [admin](author/admin/)
+[May 30, 2017](/news/p7-disco-your-help-is-needed/) [admin](author/admin/)
 
 **LEAVERS DISCO, Thurs 22 June, 7-8.30pm**
 

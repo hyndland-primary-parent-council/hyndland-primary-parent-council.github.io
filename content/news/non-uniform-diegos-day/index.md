@@ -6,11 +6,11 @@ categories:
 source_path: news/non-uniform-diegos-day/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Non-Uniform – Diego’s Day
 
-[May 29, 2013](news/non-uniform-diegos-day/) [admin](author/admin/)
+[May 29, 2013](/news/non-uniform-diegos-day/) [admin](author/admin/)
 
 Our non-uniform day this month is on Friday 31st May. The theme is ‘wear something yellow’. This is in recognition that Diego was called our ‘sunshine boy’ as he was always smiling.
 

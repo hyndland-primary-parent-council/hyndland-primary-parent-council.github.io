@@ -6,11 +6,11 @@ categories:
 source_path: news/welcome-from-the-chair/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Welcome from the Chair
 
-[August 20, 2015](news/welcome-from-the-chair/) [admin](author/admin/)
+[August 20, 2015](/news/welcome-from-the-chair/) [admin](author/admin/)
 
 Welcome back to the new school year for those of you who have children returning, and welcome to your new school for those of you whose children are attending for the first time.
 

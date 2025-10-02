@@ -6,11 +6,11 @@ categories:
 source_path: news/a-note-of-thanks/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # A Note of Thanks
 
-[October 6, 2014](news/a-note-of-thanks/) [admin](author/admin/)
+[October 6, 2014](/news/a-note-of-thanks/) [admin](author/admin/)
 
 We would like to thank Anne Wood for all of her work in supporting the Parent Council as the Additional Member for the last few years. Anne has stepped down from this role but aims to continue attending the meetings and helping out wherever she can.
 

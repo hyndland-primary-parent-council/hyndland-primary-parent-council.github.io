@@ -6,11 +6,11 @@ categories:
 source_path: news/janny-joes-notice-to-quit-from-his-tied-housing/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Janny Joe’s ‘Notice to Quit’ from his tied housing – update
 
-[September 9, 2016](news/janny-joes-notice-to-quit-from-his-tied-housing/) [admin](author/admin/)
+[September 9, 2016](/news/janny-joes-notice-to-quit-from-his-tied-housing/) [admin](author/admin/)
 
 Further to our communication&nbsp;last week, I wanted to give you an update on developments.
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/p7-leavers-disco/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # P7 Leavers’ Disco
 
-[June 12, 2013](news/p7-leavers-disco/) [admin](author/admin/)
+[June 12, 2013](/news/p7-leavers-disco/) [admin](author/admin/)
 
 Wednesday 19th June, 7pm-8.30pm, £3.
 

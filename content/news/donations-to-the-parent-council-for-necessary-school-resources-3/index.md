@@ -6,11 +6,11 @@ categories:
 source_path: news/donations-to-the-parent-council-for-necessary-school-resources-3/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Donations to the Parent Council for necessary school resources
 
-[May 30, 2017](news/donations-to-the-parent-council-for-necessary-school-resources-3/) [admin](author/admin/)
+[May 30, 2017](/news/donations-to-the-parent-council-for-necessary-school-resources-3/) [admin](author/admin/)
 
 Over the past few years, several parents have approached the Parent Council and asked about the possibility of making regular or irregular donations to us (outside of events such as the Ceilidh, Quiz Night, etc.), to continue supporting the school with necessary or desirable resources in which to improve the learning experience of all of the children at the school.
 

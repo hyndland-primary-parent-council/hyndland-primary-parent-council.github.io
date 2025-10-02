@@ -7,10 +7,10 @@ categories:
 source_path: news/great-hyndland-bake-off-friday-12-may/index.html
 extracted_mode: article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](category/news/)
+[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # Great Hyndland Bake Off, Friday 12 May
 
-[May 5, 2017](news/great-hyndland-bake-off-friday-12-may/) [admin](author/admin/)
+[May 5, 2017](/news/great-hyndland-bake-off-friday-12-may/) [admin](author/admin/)
 
 //docs.google.com/viewer?url=http%3A%2F%2Fhyndlandprimaryparentcouncil.org%2Fwp-content%2Fuploads%2F2017%2F05%2FGHBO-POSTER-copy.pdf&hl=en_GB&embedded=true

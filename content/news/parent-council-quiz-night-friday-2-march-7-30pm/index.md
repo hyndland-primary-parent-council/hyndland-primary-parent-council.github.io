@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-quiz-night-friday-2-march-7-30pm/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Quiz Night, Friday 2 March 7.30pm
 
-[February 25, 2018](news/parent-council-quiz-night-friday-2-march-7-30pm/) [admin](author/admin/)
+[February 25, 2018](/news/parent-council-quiz-night-friday-2-march-7-30pm/) [admin](author/admin/)
 
 Come along to the Quiz Night at Partick Bowling Club on Friday 2 March, 7.30-11pm.
 

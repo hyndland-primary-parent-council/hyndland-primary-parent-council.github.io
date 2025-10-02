@@ -6,11 +6,11 @@ categories:
 source_path: news/book-week-book-fair/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Book Week Book Fair
 
-[March 1, 2013](news/book-week-book-fair/) [admin](author/admin/)
+[March 1, 2013](/news/book-week-book-fair/) [admin](author/admin/)
 
 As part of the school’s celebration of Book Week, the Travelling Book Company will be here at the school for pupils from Wednesday 6th March until Monday 11th March.
 

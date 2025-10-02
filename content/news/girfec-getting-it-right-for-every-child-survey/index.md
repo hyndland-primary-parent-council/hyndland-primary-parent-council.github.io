@@ -6,11 +6,11 @@ categories:
 source_path: news/girfec-getting-it-right-for-every-child-survey/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # GIRFEC – Getting it Right For Every Child – Survey
 
-[October 21, 2013](news/girfec-getting-it-right-for-every-child-survey/) [admin](author/admin/)
+[October 21, 2013](/news/girfec-getting-it-right-for-every-child-survey/) [admin](author/admin/)
 
 **What does the national ‘Getting it right for every child’ approach to children’s health and wellbeing mean to you?**
 

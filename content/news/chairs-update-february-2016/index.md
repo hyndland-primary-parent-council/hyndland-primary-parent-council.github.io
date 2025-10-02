@@ -6,11 +6,11 @@ categories:
 source_path: news/chairs-update-february-2016/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Chair’s Update – February 2016
 
-[February 8, 2016](news/chairs-update-february-2016/) [admin](author/admin/)
+[February 8, 2016](/news/chairs-update-february-2016/) [admin](author/admin/)
 
 Hello and from all on the Parent Council we hope that you all had a great holiday and a belated Happy New Year to everyone!
 

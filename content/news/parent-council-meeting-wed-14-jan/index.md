@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-meeting-wed-14-jan/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Meeting, Wed 14 Jan
 
-[January 7, 2015](news/parent-council-meeting-wed-14-jan/) [admin](author/admin/)
+[January 7, 2015](/news/parent-council-meeting-wed-14-jan/) [admin](author/admin/)
 
 **7-8.30pm, Staff Room**
 

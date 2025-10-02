@@ -6,11 +6,11 @@ categories:
 source_path: news/christmas-fayre-3/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Christmas Fayre
 
-[November 29, 2013](news/christmas-fayre-3/) [admin](author/admin/)
+[November 29, 2013](/news/christmas-fayre-3/) [admin](author/admin/)
 
 **Friday 13th December**
 

@@ -6,11 +6,11 @@ categories:
 source_path: news/scholastic-book-club/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Scholastic Book Club
 
-[September 11, 2014](news/scholastic-book-club/) [admin](author/admin/)
+[September 11, 2014](/news/scholastic-book-club/) [admin](author/admin/)
 
 The new Autumn 2014 Scholastic Book Club leaflet will be in your child’s folder later this week. Scholastic Book Club magazines are sent out twice a year, in Sept and February, and raises funds for the school and class libraries. For every £1 you spend, 20p goes back to our school.
 

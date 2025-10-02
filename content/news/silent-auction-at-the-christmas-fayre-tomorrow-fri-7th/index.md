@@ -6,11 +6,11 @@ categories:
 source_path: news/silent-auction-at-the-christmas-fayre-tomorrow-fri-7th/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Silent Auction at the Christmas Fayre tomorrow (Fri 7th)
 
-[December 6, 2012](news/silent-auction-at-the-christmas-fayre-tomorrow-fri-7th/) [admin](author/admin/)
+[December 6, 2012](/news/silent-auction-at-the-christmas-fayre-tomorrow-fri-7th/) [admin](author/admin/)
 
 We’re going to run the following items in a&nbsp; **silent auction**.
 

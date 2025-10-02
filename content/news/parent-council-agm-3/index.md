@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-agm-3/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council AGM
 
-[September 3, 2013](news/parent-council-agm-3/) [admin](author/admin/)
+[September 3, 2013](/news/parent-council-agm-3/) [admin](author/admin/)
 
 Wednesday 4th September 7.30-9pm
 

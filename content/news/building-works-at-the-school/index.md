@@ -6,11 +6,11 @@ categories:
 source_path: news/building-works-at-the-school/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Building works at the school
 
-[August 20, 2015](news/building-works-at-the-school/) [admin](author/admin/)
+[August 20, 2015](/news/building-works-at-the-school/) [admin](author/admin/)
 
 It could hardly have escaped anyone’s attention that the school is practically surrounded by scaffolding. This went up over the summer holidays and is in place to enable the planned work to make sure that the school is windproof and water-tight. This is part of GCC’s ‘4R’s’ Estates Strategy (Right Schools, Right Size, Right Place, Right Time).
 

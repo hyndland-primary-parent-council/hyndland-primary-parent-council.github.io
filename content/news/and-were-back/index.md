@@ -6,10 +6,10 @@ categories:
 source_path: news/and-were-back/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # And we’re back!
 
-[August 27, 2020](news/and-were-back/) [admin](author/admin/)
+[August 27, 2020](/news/and-were-back/) [admin](author/admin/)
 
 Welcome back! As you will have noticed this site has been stalled in the immediately pre-lockdown era for which many apologies. Huge apologies also to anyone who has been trying to use the parent council email, [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org) , it has not been forwarding for a considerable period but is now back up and running. The Parent Council website is currently in the process of being revised but it will now be being updated regularly so do please keep checking back.

@@ -6,11 +6,11 @@ categories:
 source_path: news/playground-help-needed/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Playground – Help needed!
 
-[October 5, 2012](news/playground-help-needed/) [admin](author/admin/)
+[October 5, 2012](/news/playground-help-needed/) [admin](author/admin/)
 
 **Sunday 7th October, from 10am**
 

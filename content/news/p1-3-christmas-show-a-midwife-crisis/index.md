@@ -6,11 +6,11 @@ categories:
 source_path: news/p1-3-christmas-show-a-midwife-crisis/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # P1-3 Christmas Show – A Midwife Crisis
 
-[November 29, 2013](news/p1-3-christmas-show-a-midwife-crisis/) [admin](author/admin/)
+[November 29, 2013](/news/p1-3-christmas-show-a-midwife-crisis/) [admin](author/admin/)
 
 Tuesday 10th P1-3 A classes + P1C
 

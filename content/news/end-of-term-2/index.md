@@ -6,11 +6,11 @@ categories:
 source_path: news/end-of-term-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # End of term
 
-[June 25, 2014](news/end-of-term-2/) [admin](author/admin/)
+[June 25, 2014](/news/end-of-term-2/) [admin](author/admin/)
 
 School closes today for the holidays at 1pm. Lunch will be slightly earlier so as to be finished on time. P7 parents wishing to see their child leave primary school for the last time should be in the main playground by 12.45 as P7 will be the first out as the rest of the school lines the stairwells to bid them farewell. Tissues and cameras at the ready!
 

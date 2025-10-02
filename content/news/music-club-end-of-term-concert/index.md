@@ -6,11 +6,11 @@ categories:
 source_path: news/music-club-end-of-term-concert/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Music Club End of Term Concert
 
-[March 2, 2014](news/music-club-end-of-term-concert/) [admin](author/admin/)
+[March 2, 2014](/news/music-club-end-of-term-concert/) [admin](author/admin/)
 
 Monday 24th March in Gym @ 3.30pm
 

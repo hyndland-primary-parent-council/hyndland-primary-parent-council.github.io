@@ -6,11 +6,11 @@ categories:
 source_path: news/music-club-and-ensemble-dates/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Music Club and Ensemble dates
 
-[November 26, 2013](news/music-club-and-ensemble-dates/) [admin](author/admin/)
+[November 26, 2013](/news/music-club-and-ensemble-dates/) [admin](author/admin/)
 
 DATES FOR YOUR DIARY
 

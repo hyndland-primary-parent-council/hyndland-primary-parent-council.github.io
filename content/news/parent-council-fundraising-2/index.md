@@ -6,11 +6,11 @@ categories:
 source_path: news/parent-council-fundraising-2/index.html
 extracted_mode: article
 ---
-[News](category/news/)
+[News](/news/)
 
 # Parent Council Fundraising
 
-[June 22, 2015](news/parent-council-fundraising-2/) [admin](author/admin/)
+[June 22, 2015](/news/parent-council-fundraising-2/) [admin](author/admin/)
 
 This year the Parent Council has been – as always – finding ways to actively raise funds in order to support the school, by purchasing a range of resources to help enrich the children’s learning experiences. Over the 2014-15 school year you have all helped us raise almost £2,000, with £10,000 being spent this year on a whole range of important resources: including funding built up over the last few years to pay for ‘big ticket’ items, such as the wonderful new Outdoor Classroom installed in the top playground this week, outdoor sports equipment, plants and gardening equipment, buddy caps, skipping ropes, Christmas books for the children, dictionary gifts for P7 leavers, contributions to P7 leavers’ party, etc.
 
