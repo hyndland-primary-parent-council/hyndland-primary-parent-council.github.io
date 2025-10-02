@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/80s-disco-night-feb-2010/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# 80’s disco night – Feb 2010
-
-[August 21, 2012](past-events/80s-disco-night-feb-2010/) [admin](author/admin/)
 
 [![](/assets/images/2012/08/p10100101-150x150.jpg)](/assets/images/2012/08/p10100101.jpg)
 

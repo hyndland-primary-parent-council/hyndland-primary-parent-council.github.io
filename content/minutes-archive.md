@@ -5,8 +5,6 @@ source_path: minutes-archive/index.html
 extracted_mode: article
 categories: []
 ---
-# Minutes
-
 **COVID Update** – Since COVID restrictions have been lifted in-person meetings in the school have resumed. These are currently being held turn and turn about with Zoom meetings which have proved more convenient for some. Please contact your year rep or email [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org) if you have an issue you would like to raise.
 
 The Parent Council meets at the school once a month on a Wednesday at 7.00 pm. All parents and carers with children in the school are welcome to attend.

@@ -3,142 +3,151 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>
-    {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
-  </title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   {%- seo -%}
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
-    :root { --bg:#fff; --ink:#222; --muted:#666; --accent:#24890d; --border:#e6e6e6; --sidebar:#111; --sidebar-ink:#f1f1f1; }
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
-    a{color:var(--accent);text-decoration:none}
-    a:hover{text-decoration:underline}
-    img{max-width:100%;height:auto}
-
-    /* Top bar */
-    .topbar{background:#111;color:#fff}
-    .topbar .wrap{max-width:1100px;margin:0 auto;padding:.75rem 1rem;display:flex;align-items:center;gap:1rem}
-    .brand{font-weight:700}
-    .nav{margin-left:auto;display:flex;gap:1.25rem}
-    .nav a{color:#fff;opacity:.9}
-    .nav a:hover{opacity:1}
-
-    /* Header image/title */
-    .hero{max-width:1100px;margin:1rem auto 0;padding:0 1rem}
-    .site-title{margin:.5rem 0 1rem;font-size:1.75rem}
-
-    /* Layout columns */
-    .wrap{max-width:1100px;margin:0 auto;padding:0 1rem}
-    .grid{display:grid;grid-template-columns: 220px 1fr 260px; gap:2rem; align-items:start}
-    @media (max-width: 1000px){ .grid{grid-template-columns: 1fr} .sidebar-left,.sidebar-right{order:2} }
-
-    .sidebar-left{background:#111;color:var(--sidebar-ink);padding:1rem;border-radius:6px;position:sticky;top:1rem}
-    .sidebar-left a{color:#fff}
-    .sidebar-left h3{margin:1rem 0 .5rem;font-size:0.9rem;text-transform:uppercase;letter-spacing:.02em}
-    .sidebar-left ul{list-style:none;padding:0;margin:.25rem 0}
-    .sidebar-left li{margin:.25rem 0}
-
-    .sidebar-right{padding:0}
-    .box{background:#f7f7f7;border:1px solid var(--border);border-radius:6px;padding:1rem;margin:0 0 1rem}
-    .box h3{margin:.25rem 0 1rem;font-size:0.95rem;text-transform:uppercase;letter-spacing:.02em}
-
-    .content{padding:0}
-
-    /* Post list */
-    .post{padding:1.25rem 0;border-bottom:1px solid var(--border)}
-    .post:last-child{border-bottom:0}
-    .post .meta{color:var(--muted);font-size:.9rem;margin:.25rem 0 .5rem}
-
-    /* Footer */
-    footer{border-top:1px solid var(--border);margin:2rem 0 0}
-    footer .wrap{padding:1rem;color:var(--muted);font-size:.9rem}
+    :root{ --ink:#111; --muted:#6c757d; --accent:#24890d; }
+    body{ color:var(--ink); }
+    .navbar-brand{ font-weight:700; letter-spacing:.2px; }
+    .hero img{ border-radius:.5rem }
+    .post-title a{ color:inherit; text-decoration:none }
+    .post-title a:hover{ text-decoration:underline }
+    .meta{ color:var(--muted); font-size:.925rem }
+    .footer a{ text-decoration:none }
+    .footer a:hover{ text-decoration:underline }
   </style>
 </head>
 <body>
 
-  <!-- Top nav -->
-  <div class="topbar">
-    <div class="wrap">
-      <div class="brand">{{ site.title }}</div>
-      <nav class="nav" aria-label="Primary">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/school-uniform/' | relative_url }}">School Uniform</a>
-        <a href="{{ '/term-dates/'     | relative_url }}">Term Dates</a>
-        <a href="{{ '/parent-council/' | relative_url }}">Parent Council</a>
-        <a href="{{ '/contact-us/'     | relative_url }}">Contact Us</a>
-      </nav>
+<nav class="navbar navbar-dark bg-dark navbar-expand-md sticky-top">
+  <div class="container">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav"><span class="navbar-toggler-icon"></span></button>
+    <div id="nav" class="collapse navbar-collapse">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a></li>
+        <li class="nav-item"><a class="nav-link {% if page.url == '/news/' %}active{% endif %}" href="{{ '/news/' | relative_url }}">News</a></li>
+        <li class="nav-item"><a class="nav-link {% if page.url == '/parent-council/' %}active{% endif %}" href="{{ '/parent-council/' | relative_url }}">Parent Council</a></li>
+        <li class="nav-item"><a class="nav-link {% if page.url == '/school-uniform/' %}active{% endif %}" href="{{ '/school-uniform/' | relative_url }}">School Uniform</a></li>
+        <li class="nav-item"><a class="nav-link {% if page.url == '/term-dates/' %}active{% endif %}" href="{{ '/term-dates/' | relative_url }}">Term Dates</a></li>
+        <li class="nav-item"><a class="nav-link {% if page.url == '/contact-us/' %}active{% endif %}" href="{{ '/contact-us/' | relative_url }}">Contact</a></li>
+      </ul>
+      <div class="d-flex gap-2">
+        <a class="btn btn-success btn-sm" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW7E8PDGXH45Y">Donate</a>
+        <a class="btn btn-primary btn-sm" href="{{ '/newsletter-subscription/' | relative_url }}">Subscribe</a>
+      </div>
     </div>
   </div>
+</nav>
 
-  <!-- Banner + title (use existing banner if present) -->
-  <div class="hero">
+<header class="hero py-3 border-bottom">
+  <div class="container">
     <a href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/2020/08/cropped-crop-1-scaled-1.jpg' | relative_url }}" alt="Hyndland Primary Parent Council banner">
+      <img class="img-fluid" src="{{ '/assets/images/2020/08/cropped-crop-1-scaled-1.jpg' | relative_url }}" alt="Site banner">
     </a>
-    <h1 class="site-title">{{ site.title }}</h1>
   </div>
+</header>
 
-  <!-- Main grid -->
-  <div class="wrap">
-    <div class="grid">
+<main class="container my-4">
 
-      <!-- Left sidebar -->
-      <aside class="sidebar-left">
-        <h3>Search</h3>
-        <form role="search" method="get" action="{{ '/' | relative_url }}">
-          <input name="s" placeholder="Search…" style="width:100%;padding:.5rem;border-radius:4px;border:1px solid #444;background:#000;color:#fff">
-        </form>
+  {%- assign show_feed = false -%}
+  {%- if page.url == '/' or page.news_feed == true -%}
+    {%- assign show_feed = true -%}
+  {%- endif -%}
 
-        <h3>Donate to Parent Council</h3>
-        <p style="margin:.5rem 0 1rem">Find out more about the Parent Council, what it does and how you can support it <a href="{{ '/parent-council/' | relative_url }}">here</a>.</p>
-        <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW7E8PDGXH45Y"><img src="https://www.paypalobjects.com/en_US/i/btn/x-click-butcc-donate.gif" alt="Donate"></a></p>
+  {% if show_feed %}
+    {%- assign news_list = site.news
+      | where_exp: "p","p.categories contains 'News'"
+      | sort: "date"
+      | reverse -%}
 
-        <h3>Pages</h3>
-        <ul>
-          {%- assign desired = "contact-us,cookies,fundraising,links,minutes-archive,mums-on-the-run,music-club,newsletter-subscription,online-resources,parent-council,parent-council-constitution,privacy,scholastic-book-club,school-uniform,summer-fayre,term-dates" | split: "," -%}
-          {%- for slug in desired -%}
-          {%- assign path = "/" | append: slug | append: "/" -%}
-          {%- assign p = site.pages | where: "url", path | first -%}
-          {%- if p -%}
-          <li><a href="{{ p.url | relative_url }}">{{ p.title | default: slug | replace:"-"," " | capitalize }}</a></li>
-          {%- endif -%}
-          {%- endfor -%}
+    <div class="row g-4">
+      <section class="col-12 col-lg-8">
+        {% for p in news_list limit:6 %}
+          <article class="pb-4 mb-4 border-bottom">
+            <h2 class="h4 post-title mb-1"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2>
+            <div class="meta mb-2">{{ p.date | date: "%B %-d, %Y" }}</div>
+            <p class="mb-0">{{ p.excerpt | strip_html | truncate: 180 }}</p>
+          </article>
+        {% endfor %}
+        <a class="btn btn-outline-secondary btn-sm" href="{{ '/news/' | relative_url }}">Older posts</a>
+      </section>
+
+      <aside class="col-12 col-lg-4">
+        <div class="card mb-3">
+          <div class="card-body">
+            <h3 class="h6 text-uppercase mb-2">Quick Links</h3>
+            <ul class="list-unstyled small mb-0">
+              <li class="mb-1"><a href="{{ '/minutes-archive/' | relative_url }}">Minutes Archive</a></li>
+              <li class="mb-1"><a href="{{ '/online-resources/' | relative_url }}">Online Resources</a></li>
+              <li class="mb-1"><a href="{{ '/parent-council-constitution/' | relative_url }}">Constitution</a></li>
+              <li class="mb-1"><a href="https://twitter.com/HyndlandPS" target="_blank" rel="noopener">@HyndlandPS</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="card"><div class="card-body">
+          <h3 class="h6 text-uppercase mb-2">About</h3>
+          <p class="small mb-2">This site is run by the Parent Council.</p>
+          <a class="btn btn-primary btn-sm" href="{{ '/newsletter-subscription/' | relative_url }}">Subscribe</a>
+        </div></div>
+      </aside>
+    </div>
+
+  {% else %}
+    <div class="row g-4">
+      <section class="col-12 col-lg-8">{{ content }}</section>
+      <aside class="col-12 col-lg-4">
+        <div class="card mb-3"><div class="card-body">
+          <h3 class="h6 text-uppercase mb-2">Quick Links</h3>
+          <ul class="list-unstyled small mb-0">
+            <li class="mb-1"><a href="{{ '/news/' | relative_url }}">News</a></li>
+            <li class="mb-1"><a href="{{ '/minutes-archive/' | relative_url }}">Minutes Archive</a></li>
+            <li class="mb-1"><a href="{{ '/online-resources/' | relative_url }}">Online Resources</a></li>
+          </ul>
+        </div></div>
+        <div class="card"><div class="card-body">
+          <h3 class="h6 text-uppercase mb-2">Support</h3>
+          <a class="btn btn-success btn-sm" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW7E8PDGXH45Y">Donate</a>
+        </div></div>
+      </aside>
+    </div>
+  {% endif %}
+</main>
+
+<footer class="footer bg-light border-top py-4 mt-4">
+  <div class="container">
+    <div class="row gy-3">
+      <div class="col-12 col-md">
+        <strong>{{ site.title }}</strong><br>
+        <small class="text-muted">© {{ site.time | date: "%Y" }}</small>
+      </div>
+      <div class="col-6 col-md">
+        <h6 class="text-uppercase small mb-2">Parent Council</h6>
+        <ul class="list-unstyled small mb-0">
+          <li><a href="{{ '/parent-council/' | relative_url }}">About</a></li>
+          <li><a href="{{ '/minutes-archive/' | relative_url }}">Minutes</a></li>
+          <li><a href="{{ '/parent-council-constitution/' | relative_url }}">Constitution</a></li>
         </ul>
-
-      </aside>
-
-      <!-- Main content -->
-      <main class="content" id="content" role="main">
-        {{ content }}
-      </main>
-
-      <!-- Right sidebar -->
-      <aside class="sidebar-right">
-        <div class="box">
-          <h3>About</h3>
-          <p>This website is for parents and carers of pupils at Hyndland Primary School and is run by its Parent Council.</p>
-          <p>For in-depth updates direct to your inbox, please <a href="{{ '/newsletter-subscription/' | relative_url }}">subscribe to our newsletter</a>.</p>
-          <p>
-            <a href="https://twitter.com/HyndlandC" target="_blank" rel="noopener">Twitter icon</a>
-            &nbsp;RSS icon&nbsp;Newsletter icon&nbsp;<a href="mailto:enquiries@hyndlandprimaryparentcouncil.org">Email icon</a>
-          </p>
-          <p>The school website is <a href="https://blogs.glowscotland.org.uk/gc/hyndlandps/" target="_blank" rel="noopener">here</a> and you can contact the school directly on 0141 339 7207.</p>
-        </div>
-
-        <div class="box">
-          <h3>School Twitter</h3>
-          <p><a href="https://twitter.com/HyndlandPS" target="_blank" rel="noopener">@HyndlandPS</a></p>
-        </div>
-      </aside>
-
+      </div>
+      <div class="col-6 col-md">
+        <h6 class="text-uppercase small mb-2">Info</h6>
+        <ul class="list-unstyled small mb-0">
+          <li><a href="{{ '/school-uniform/' | relative_url }}">School Uniform</a></li>
+          <li><a href="{{ '/term-dates/' | relative_url }}">Term Dates</a></li>
+          <li><a href="{{ '/online-resources/' | relative_url }}">Online Resources</a></li>
+          <li><a href="{{ '/contact-us/' | relative_url }}">Contact</a></li>
+          <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
+          <li><a href="{{ '/cookies/' | relative_url }}">Cookies</a></li>
+        </ul>
+      </div>
     </div>
   </div>
+</footer>
 
-  <footer>
-    <div class="wrap">
-      <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
-    </div>
-  </footer>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
+

@@ -5,8 +5,6 @@ source_path: twin-trail-challenge/index.html
 extracted_mode: article
 categories: []
 ---
-# Twin Trail Challenge
-
 ## **Hyndland Primary Twin Trail Challenge**
 
 ## **In aid of the Red Cross**

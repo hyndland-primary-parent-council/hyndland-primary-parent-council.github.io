@@ -5,8 +5,6 @@ source_path: term-dates/index.html
 extracted_mode: article
 categories: []
 ---
-# Term Dates
-
 For further information, please see the Glasgow City Council website: [http://www.glasgow.gov.uk/index.aspx?articleid=17024](https://www.glasgow.gov.uk/article/17024/School-Term-Dates "Glasgow City Council - School Holidays")
 
 ## 2020-2021

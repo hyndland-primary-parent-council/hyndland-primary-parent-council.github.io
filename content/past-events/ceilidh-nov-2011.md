@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/ceilidh-nov-2011/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# Ceilidh – Nov 2011
-
-[August 21, 2012](past-events/ceilidh-nov-2011/) [admin](author/admin/)
 
 [![](/assets/images/2012/08/Ceilidh-2011-and-school-building-001-150x150.jpg)](/assets/images/2012/08/Ceilidh-2011-and-school-building-001.jpg)
 

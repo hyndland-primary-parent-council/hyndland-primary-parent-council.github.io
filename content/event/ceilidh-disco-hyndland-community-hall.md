@@ -11,8 +11,6 @@ categories: []
 
 - This event has passed.
 
-# Ceilidh / Disco, Hyndland Community Hall
-
 ## May 31, 2019 @ 7:30 pm - 10:00 pm
 
 - [« Parent Council Meeting](event/parent-council-meeting-tbc-7/)

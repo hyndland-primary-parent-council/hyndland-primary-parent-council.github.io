@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/school-ceilidh/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# School Ceilidh
-
-[May 26, 2015](past-events/school-ceilidh/) [admin](author/admin/)
 
 The ceilidh was another great success with parents and children alike enjoying another excellent evening of dancing, chatting and fun.
 

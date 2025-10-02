@@ -1,48 +1,57 @@
+# Jekyll reads from ./content
 source: content
-layouts_dir: _layouts
 
-# Make sure layouts are visible here:
-# (only if your layouts are at content/_layouts — which they are now)
-# layouts_dir: _layouts
+# Layouts live at: content/_layouts
+layouts_dir: _layouts
 
 title: "Hyndland Primary Parent Council"
 description: "Parent Noticeboard"
 
 permalink: pretty
 markdown: kramdown
-kramdown: { input: GFM }
+kramdown:
+  input: GFM
+
+# Do NOT set collections_dir when using source: content
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+
+defaults:
+  # All pages: default layout
+  - scope:
+      path: ""          # relative to 'source' (so this is inside /content)
+      type: "pages"
+    values:
+      layout: default
+
+  # Pages under /news/ (optional; keep only if you still have non-collection pages there)
+  - scope:
+      path: "news/"     # relative to 'source' → content/news/
+      type: "pages"
+    values:
+      layout: news_article
+      categories: ["News"]
+
+  # Documents in the 'news' collection
+  - scope:
+      path: ""          # whole collection
+      type: "news"      # ← use the collection label
+    values:
+      layout: news_article
+      categories: ["News"]
+
+pagination:
+  enabled: true
+  per_page: 10
+  sort_field: 'date'
+  sort_reverse: true
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate-v2
 
-defaults:
-  # your existing defaults can stay
-  - scope:
-      path: ""          # everything
-      type: "pages"
-    values:
-      layout: default
-
-  # NEW: mark everything under /news/ as "news"
-  - scope:
-      path: "news/"     # path is relative to `source:` (so this is content/news/)
-      type: "pages"
-    values:
-      is_news: true
-      categories: ["News"]       # helpful but optional
-
-
-# jekyll-paginate-v2 settings (paginate pages that live under /news/)
-pagination:
-  enabled: true
-
-# Exclude noisy WP system paths relative to source (content/)
-exclude:
-  - wp-json
-  - wp-admin
-  - wp-includes
-  - xmlrpc.php
-  - wp-content/plugins
-
+gems:
+  - jekyll-paginate-v2

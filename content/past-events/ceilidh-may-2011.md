@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/ceilidh-may-2011/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# Ceilidh – May 2011
-
-[August 21, 2012](past-events/ceilidh-may-2011/) [admin](author/admin/)
 
 [![](/assets/images/2012/08/CDN_4369-150x150.jpg)](/assets/images/2012/08/CDN_4369.jpg)
 

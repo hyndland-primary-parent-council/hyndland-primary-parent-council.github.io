@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/parent-council-ceilidh-26-january-2018/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# Parent Council Ceilidh 26 January 2018
-
-[March 20, 2018](past-events/parent-council-ceilidh-26-january-2018/) [admin](author/admin/)
 
 The (Nearly) Burns Night Ceilidh was another success on the night. It was much busier than the previous ceilidh at the Hyndland Community Halls and everyone seemed to enjoy the music from Hyndland dad Jamie Smith and his co-band members.
 

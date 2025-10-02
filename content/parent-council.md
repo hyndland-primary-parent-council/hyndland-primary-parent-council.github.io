@@ -5,8 +5,6 @@ source_path: parent-council/index.html
 extracted_mode: article
 categories: []
 ---
-# Parent Council
-
 The Parent Council represents parents’ and carers’ views and wishes to the school and to the City Council. It also acts in pupils’ interests in a range of other ways, for example, by helping improve the playground, by raising money to purchase new equipment, update libraries, provide leavers’ packs, and by hosting events such as the Halloween party and the Burns Ceilidh.
 
 You can get involved with the Parent Council by coming along to our AGM or regular meetings or by joining or helping one of our sub-committees – there are currently two: the Playground committee and the Fundraising committee. You can also support all the great things the Parent Council does for the school and its pupils by attending one of our events, doing your online shopping through the [easyfundraising](https://www.easyfundraising.org.uk/causes/hyndlandprimary/) site, or making a direct donation to our PayPal account.

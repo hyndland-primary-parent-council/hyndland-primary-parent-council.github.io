@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/spring-ceilidh-16-may-2014/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# Spring Ceilidh, 16 May 2014
-
-[June 12, 2014](past-events/spring-ceilidh-16-may-2014/) [admin](author/admin/)
 
 [![](/assets/images/2014/06/Ceilidh-May-2014-005-150x150.jpg)](past-events/spring-ceilidh-16-may-2014/attachment/ceilidh-may-2014-005/)
 

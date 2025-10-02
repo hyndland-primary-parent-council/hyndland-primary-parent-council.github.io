@@ -5,8 +5,6 @@ source_path: music-club/index.html
 extracted_mode: article
 categories: []
 ---
-# Music Club
-
 **Unfortunately, due to current government guidelines, the Music Club will not be able to start back yet.**  **We will keep you updated and hopefully we will be able to resume lessons &nbsp;in October.**
 
 **REEL KIDS MUSIC CLUB – CIC**  

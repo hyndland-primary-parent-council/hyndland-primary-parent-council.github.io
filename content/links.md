@@ -4,9 +4,8 @@ date: '2025-10-01'
 source_path: links/index.html
 extracted_mode: article
 categories: []
+author: ''
 ---
-# Links
-
 ### Information for Parents
 
 **[Hyndland Primary School](https://blogs.glowscotland.org.uk/gc/hyndlandps/)**  
@@ -44,7 +43,6 @@ Parent-run School and Community sports club. They offer a series of football, ne
 **[Glasgow KidzCard](https://www.glasgowlife.org.uk/young-glasgow/glasgow-kidz-card)**  
 Anyone aged 5 to 11, living or attending school in Glasgow can obtain a card free of charge. Card holders benefit from lots of discounts around Glasgow.
 
-[**Young Glasgow**](http://www.glasgowlife.org.uk/young-glasgow "Young Glasgow")  
 Tons of things to do in Glasgow for under 18s.
 
 ### For Rainy Days

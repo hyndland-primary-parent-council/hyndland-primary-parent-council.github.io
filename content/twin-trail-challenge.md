@@ -5,11 +5,14 @@ source_path: twin-trail-challenge/index.html
 extracted_mode: article
 categories: []
 ---
-# Twin Trail Challenge
-
 ## **Hyndland Primary Twin Trail Challenge**
 
 ## **In aid of the Red Cross**
+
+<div class="ratio ratio-16x9">
+    <video controls="" src="/assets/images/2022/03/A-challenge-to-Remember-1.mp4"></video>
+</div>
+
 
 Hyndland Primary Parent Council is raising desperately needed funds for the Red Cross to support the emergency in Ukraine. To support this unfolding crisis Hyndland Primary Parent Council thought why not spring into action with a walking challenge (cyclists included) to reach our twin city Marseille.
 
@@ -32,5 +35,9 @@ If you would like to talk to your child further about the Red Cross and its effo
 As of 22nd March, we have walked 250 miles and reached the town of Doncaster. Can we make it another 950??
 
 https://www.google.com/maps/d/u/0/embed?mid=1T_cHtIDPPlCCY7r9D1b9hwXaZUJ7l_3Z&ehbc=2E312F
+
+<div class="ratio ratio-16x9">
+<iframe src="https://www.google.com/maps/d/embed?mid=1T_cHtIDPPlCCY7r9D1b9hwXaZUJ7l_3Z&ehbc=2E312F" width="640" height="480"></iframe>
+</div>
 
 [record miles here](https://docs.google.com/forms/d/e/1FAIpQLScHVD4_OdaV-NLCCQlnXRhoWoaLlCTq4S27nxCNc0npR9XhAA/viewform?usp=sf_link)

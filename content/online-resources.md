@@ -5,8 +5,6 @@ source_path: online-resources/index.html
 extracted_mode: article
 categories: []
 ---
-# Online Resources
-
 [**Parent Club**](https://www.parentclub.scot/)&nbsp;offers up-to-date guidance on your child’s health and&nbsp;education. It’s full of hints and tips from other parents and carers who’ve been there before. It also has advice to help you look after your own wellbeing and to point you in the direction of the support available.
 
 **[Parentzone](https://education.gov.scot/parentzone)**&nbsp;is part of the&nbsp;Education&nbsp;Scotland website to support learning and advocate parental role in&nbsp;education, with information about the curriculum, Parent Councils and supporting learning at&nbsp;home.

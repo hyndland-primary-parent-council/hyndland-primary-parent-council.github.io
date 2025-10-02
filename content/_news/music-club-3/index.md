@@ -1,0 +1,11 @@
+---
+title: Music Club
+date: '2013-09-25'
+categories:
+- News
+source_path: news/music-club-3/index.html
+extracted_mode: article
+author: admin
+layout: news_article
+---
+Music Club and Ensemble are well under way now. There are currently 125 children participating in music activities on a Monday. All classes are full and there is a waiting list to join. Forms can be found in the music club pigeon hole by the office, filled in and then posted in the secure box. The Djembes have their first gig on 12th October as part of Commonwealth Family Day.

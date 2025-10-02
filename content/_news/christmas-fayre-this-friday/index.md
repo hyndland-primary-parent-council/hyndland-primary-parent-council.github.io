@@ -1,0 +1,19 @@
+---
+title: Christmas Fayre – this Friday
+date: '2012-12-03'
+categories:
+- News
+source_path: news/christmas-fayre-this-friday/index.html
+extracted_mode: article
+author: admin
+layout: news_article
+---
+Five days and counting. The excitement is building! See the post below for how you can help and where to take donations. We’re still looking for a few more volunteers to help on the day. If you could spare a few hours contact [Linda McCormick](mailto:lindamccormick1@googlemail.com).
+
+For P1 parents and others new to the school, a wee “guide to the Christmas Fayre” may be in order. Your child will visit the Fayre with their class teacher in the morning and have the opportunity to make purchases. Sending them with a purse and a few pounds in small change (10p and 20p coins would be helpful) will enable them to buy toys, books, cupcakes etc. or try their hand at some of the “guess the…” challenges. Giving them a carrier bag to put their items in can also be a good idea. Please label purses and bags with your child’s name and class.
+
+From 1.30-3.15pm parents and family have the opportunity to take a look around the fayre. The stalls will be in the gym and there will be a café in the dining room. You can collect your child from their class and they can then accompany you around the stalls. This is a great chance to make gift purchases and maybe some decorations from the craft stall as well as giving the raffle and auction a go. It’s thirsty work, so why not take a break in the Christmas Fayre café?
+
+The raffle and auction will be drawn at 3pm.
+
+Looking forward to seeing you there!

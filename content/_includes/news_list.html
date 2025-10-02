@@ -1,0 +1,101 @@
+{%- comment -%}
+Inputs:
+  per_page   (number)   – items per page (default 10)
+  page_num   (number)   – current page number (1-based, default 1)
+Behavior:
+  - Collect only "real" articles:
+      categories contains "News"
+      extracted_mode == "article"
+      has a date
+      (and optionally source_path contains "news/")
+  - Show a page slice using limit/offset
+  - Render pager links
+{%- endcomment -%}
+
+{%- assign per_page = include.per_page | default: 10 -%}
+{%- assign page_num = include.page_num | default: 1 -%}
+
+{%- assign news_candidates = site.pages
+  | where_exp: 'p', 'p.categories contains "News"'
+  | where_exp: 'p', 'p.extracted_mode == "article"'
+  | where_exp: 'p', 'p.date'
+  | sort: 'date' | reverse -%}
+
+{%- comment -%}If your imports always set source_path: news/..., uncomment the next line to clamp harder{%- endcomment -%}
+{%- assign news_candidates = news_candidates
+  | where_exp: 'p', 'p.source_path and p.source_path contains "news/"' -%}
+
+{%- assign total = news_candidates | size -%}
+{%- assign total_pages = total | divided_by: per_page -%}
+{%- if total | modulo: per_page > 0 -%}
+  {%- assign total_pages = total_pages | plus: 1 -%}
+{%- endif -%}
+
+{%- assign start_index = per_page | times: page_num | minus: per_page -%}
+
+{%- assign shown = 0 -%}
+{%- for p in news_candidates offset:start_index limit:per_page -%}
+  {%- assign shown = shown | plus: 1 -%}
+  {%- unless p.url == '/news/' or p.url contains '/author/' or p.url contains '/category/' -%}
+    <article class="pb-4 mb-4 border-bottom">
+      <h2 class="h4 post-title mb-1">
+        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      </h2>
+      {%- if p.date -%}
+        <div class="meta mb-2">
+          {{ p.date | date: "%B %-d, %Y" }}{%- if p.author -%} · {{ p.author }}{%- endif -%}
+        </div>
+      {%- endif -%}
+
+      {%- assign paras = p.content | split: "\n\n" -%}
+      {%- assign teaser = "" -%}
+      {%- for para in paras -%}
+        {%- assign t = para | strip -%}
+        {%- assign first = t | slice: 0, 1 -%}
+        {%- if t != "" and first != "[" and first != "#" -%}
+          {%- assign teaser = t | strip_html -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+
+      <p class="mb-0">
+        {{ teaser | default: p.excerpt | default: p.content | strip_html | truncate: 200 }}
+      </p>
+    </article>
+  {%- endunless -%}
+{%- endfor -%}
+
+{%- if total == 0 -%}
+  <p>No news items found.</p>
+{%- endif -%}
+
+{%- if total_pages > 1 -%}
+  <nav aria-label="News pagination">
+    <ul class="pagination">
+      {%- assign prev_page = page_num | minus: 1 -%}
+      {%- assign next_page = page_num | plus: 1 -%}
+
+      {%- if prev_page >= 1 -%}
+        <li class="page-item">
+          <a class="page-link" href="{{ prev_page == 1 | ternary: '/news/', '/news/page' | append: prev_page | append: '/' | relative_url }}">&laquo; Newer</a>
+        </li>
+      {%- else -%}
+        <li class="page-item disabled"><span class="page-link">&laquo; Newer</span></li>
+      {%- endif -%}
+
+      <li class="page-item disabled">
+        <span class="page-link">Page {{ page_num }} of {{ total_pages }}</span>
+      </li>
+
+      {%- if next_page <= total_pages -%}
+        <li class="page-item">
+          <a class="page-link" href="{{ '/news/page' | append: next_page | append: '/' | relative_url }}">Older &raquo;</a>
+        </li>
+      {%- else -%}
+        <li class="page-item disabled"><span class="page-link">Older &raquo;</span></li>
+      {%- endif -%}
+    </ul>
+  </nav>
+{%- endif -%}
+
+

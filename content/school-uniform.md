@@ -5,8 +5,6 @@ source_path: school-uniform/index.html
 extracted_mode: article
 categories: []
 ---
-# School Uniform
-
 School uniform can now be ordered online at [Border Embroideries](http://www.border-embroideries.co.uk "Border Embroideries")
 
 The following items are available. Orders can no longer be delivered to school, they can ONLY be delivered to your home/chosen address. The delivery charge is FREE for orders over £45.00. For orders under £45.00 the delivery charge is £2.99.

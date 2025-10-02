@@ -5,8 +5,6 @@ source_path: summer-fayre/index.html
 extracted_mode: article
 categories: []
 ---
-# Summer Fayre
-
 ![](/assets/images/2022/05/Home-1024x576.png)
 
 [![](/assets/images/2022/05/Todays-Agenda-6-1024x576.png)](https://www.fetastreetfood.com/)

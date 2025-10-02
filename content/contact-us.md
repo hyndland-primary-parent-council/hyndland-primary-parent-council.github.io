@@ -5,8 +5,6 @@ source_path: contact-us/index.html
 extracted_mode: article
 categories: []
 ---
-# Contact Us
-
 You can contact the Parent Council by emailing&nbsp; [enquiries@hyndlandprimaryparentcouncil.org](enquiries@hyndlandprimaryparentcouncil.org),&nbsp; You can also email your year&nbsp; rep with any concerns or queries by clicking their name in the list below.
 
 You can subscribe to our newsletter by following [this link](newsletter-subscription/).

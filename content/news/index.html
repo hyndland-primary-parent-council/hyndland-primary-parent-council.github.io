@@ -1,0 +1,55 @@
+---
+layout: default
+title: News
+permalink: /news/
+pagination:
+  enabled: true
+  collection: 'news'
+  permalink: '/p/:num/'
+---
+
+{% assign items = paginator.posts %}
+
+{% if items and items.size > 0 %}
+  {% for p in items %}
+    <article class="pb-4 mb-4 border-bottom">
+      <h2 class="h4 post-title mb-1"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2>
+      {% if p.date %}
+        <div class="meta mb-2">{{ p.date | date: "%B %-d, %Y" }}{% if p.author %} · {{ p.author }}{% endif %}</div>
+      {% endif %}
+
+      {% assign paras = p.content | split: "\n\n" %}
+      {% assign teaser = "" %}
+      {% for para in paras %}
+        {% assign t = para | strip %}
+        {% assign first = t | slice: 0, 1 %}
+        {% if t != "" and first != "[" and first != "#" %}
+          {% assign teaser = t | strip_html %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      <p class="mb-0">{{ teaser | default: p.excerpt | default: p.content | strip_html | truncate: 200 }}</p>
+    </article>
+  {% endfor %}
+
+  <nav aria-label="News pagination">
+    <ul class="pagination">
+      {% if paginator.previous_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a></li>
+      {% else %}
+        <li class="page-item disabled"><span class="page-link">&laquo; Newer</span></li>
+      {% endif %}
+      <li class="page-item disabled"><span class="page-link">Page {{ paginator.page }} of {{ paginator.total_pages }}</span></li>
+      {% if paginator.next_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a></li>
+      {% else %}
+        <li class="page-item disabled"><span class="page-link">Older &raquo;</span></li>
+      {% endif %}
+    </ul>
+  </nav>
+{% else %}
+  <p>No news items found.</p>
+{% endif %}
+
+

@@ -6,12 +6,13 @@ categories:
 - Past Events
 source_path: category/past-events/index.html
 extracted_mode: article
+author: admin
+layout: news_article
 ---
 [News](/news/), [Past Events](category/past-events/)
 
 # [Recent fundraisers, movers, shakers and thanks…](/news/recent-fundraisers-movers-shakers-and-thanks/)
 
-[July 3, 2018](/news/recent-fundraisers-movers-shakers-and-thanks/) [admin](author/admin/)
 
 Over the past 5-6 weeks, the Parent Council has held both a Quiz Night and a Ceilidh and along with the parents, carers, teachers and children who attended, a lot of fun was had and we also managed to raise funds towards the P1 playground developments (from the Quiz Night) and start building some funds towards development work in the other playgrounds.
 

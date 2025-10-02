@@ -5,8 +5,6 @@ source_path: scholastic-book-club/index.html
 extracted_mode: article
 categories: []
 ---
-# Scholastic Book Club
-
 As a way of raising funds for the school library and for our classrooms, the Parent Council have set up an account with Scholastic Book Clubs.
 
 Scholastic Book Clubs are an easy way for you and your child to choose and buy suitable books to read at home. The leaflets feature a wide range of books to suit everyone. You will also see that most books are half-price or less!

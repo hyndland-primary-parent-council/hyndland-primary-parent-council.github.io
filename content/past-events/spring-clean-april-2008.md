@@ -6,12 +6,9 @@ categories:
 - Garden
 source_path: past-events/spring-clean-april-2008/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/), [School Garden](category/garden/)
-
-# Spring Clean – April 2008
-
-[August 21, 2012](past-events/spring-clean-april-2008/) [admin](author/admin/)
 
 [![](/assets/images/2012/08/p1010003-150x150.jpg)](/assets/images/2012/08/p1010003.jpg)
 

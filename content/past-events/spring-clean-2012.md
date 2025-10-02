@@ -5,12 +5,9 @@ categories:
 - Past Events
 source_path: past-events/spring-clean-2012/index.html
 extracted_mode: article
+author: admin
 ---
 [Past Events](category/past-events/)
-
-# Spring Clean 2012
-
-[September 28, 2012](past-events/spring-clean-2012/) [admin](author/admin/)
 
 [![](/assets/images/2012/09/P5200007a-150x150.jpg)](/assets/images/2012/09/P5200007a.jpg)
 

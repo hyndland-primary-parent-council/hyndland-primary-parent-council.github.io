@@ -6,12 +6,13 @@ categories:
 - News
 source_path: category/mums-on-the-run/index.html
 extracted_mode: article
+author: admin
+layout: news_article
 ---
 [Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # [Hyndland Parent Council Quiz Night](/news/hyndland-parent-council-quiz-night/)
 
-[September 6, 2017](/news/hyndland-parent-council-quiz-night/) [admin](author/admin/)
 
 **Friday 29 September** sees the return of the Parent Council Quiz Night, hosting by our very own Mums on the Run at&nbsp; **Partick Bowling Club** (right next door to the school).
 

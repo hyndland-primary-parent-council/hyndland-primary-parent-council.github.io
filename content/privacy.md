@@ -5,8 +5,6 @@ source_path: privacy/index.html
 extracted_mode: article
 categories: []
 ---
-# Privacy
-
 Hyndland Primary School Parent Council will respect your privacy in its communications with you regarding Parent Council activity. The personal information that we collect about you is used only to communicate effectively with you about the activity of the Parent Council. Our legal basis for processing the personal information relating to you is so that we can fulfil our responsibilities to you as your Parent Council.
 
 Any information that you provide us with is kept secure. Data that is no longer required will be erased after your child’s expected primary school leaving date, or earlier if you choose to remove your details. We will use the contact details you give us to contact you via email, so that we can send you information about the activities of the Parent Council and other relevant news.

@@ -5,8 +5,6 @@ source_path: parent-council-constitution/index.html
 extracted_mode: article
 categories: []
 ---
-# Parent Council Constitution
-
 # CONSTITUTION OF HYNDLAND PRIMARY SCHOOL PARENT COUNCIL
 
 1. 

@@ -11,8 +11,6 @@ categories: []
 
 - This event has passed.
 
-# Quiz Night, Partick Bowling Club
-
 ## May 10, 2019 @ 7:30 pm - 11:30 pm
 
 - [« Parent Council Meeting](event/parent-council-meeting-tbc-6/)
