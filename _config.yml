@@ -47,10 +47,10 @@ defaults:
       categories: ["News"]
 
   - scope:
-      path: "events/" 
-      type: "pages"
+      path: "events/"
+      type: "events"
     values:
-      layout: news_article
+      layout: event
       categories: ["Events"]
 
 

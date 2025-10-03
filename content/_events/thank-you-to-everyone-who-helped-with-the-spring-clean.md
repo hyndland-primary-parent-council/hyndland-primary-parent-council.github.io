@@ -1,8 +1,9 @@
 ---
-title: Thank you to everyone who helped with the Spring Clean
-date: '2015-06-22'
+title: Spring Clean
+layout: event
+date: '2015-05-31'
 categories:
-- Past Events
+- Events
 - Garden
 source_path: past-events/thank-you-to-everyone-who-helped-with-the-spring-clean/index.html
 extracted_mode: article

@@ -1,13 +1,15 @@
 ---
-title: Parent Council Ceilidh 26 January 2018
-date: '2018-03-20'
+title: Parent Council Ceilidh
+date: '2018-01-26'
+layout: event
 categories:
-- Past Events
+- Events
 source_path: past-events/parent-council-ceilidh-26-january-2018/index.html
 extracted_mode: article
 author: admin
+venue_name: 'Hyndland Community Hall'
+venue_address: '24 Novar Drive, Glasgow, G12 9RU'
 ---
-[Past Events](category/past-events/)
 
 The (Nearly) Burns Night Ceilidh was another success on the night. It was much busier than the previous ceilidh at the Hyndland Community Halls and everyone seemed to enjoy the music from Hyndland dad Jamie Smith and his co-band members.
 

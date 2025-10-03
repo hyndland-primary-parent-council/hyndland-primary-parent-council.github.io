@@ -1,13 +1,13 @@
 ---
+layout: event
 title: Parent Quiz Night & Halloween Disco
-date: '2017-12-20'
+date: '2017-09-30'
 categories:
 - Past Events
 source_path: past-events/parent-quiz-night-halloween-disco/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 In September and November the Parent Council arranged two fundraising social events, raising a total of £1,147.27.
 

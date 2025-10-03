@@ -1,13 +1,13 @@
 ---
-title: Ceilidh – May 2011
-date: '2012-08-21'
-categories:
-- Past Events
+layout: event
+title: Ceilidh
+date: '2012-05-21'
+categories: ['Events']
 source_path: past-events/ceilidh-may-2011/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
+[![](/assets/images/2012/05/cropped-Ceilidh-2011-and-school-building-066.jpg)](Ceilidh and school)
 
 [![](/assets/images/2012/08/CDN_4369-150x150.jpg)](/assets/images/2012/08/CDN_4369.jpg)
 

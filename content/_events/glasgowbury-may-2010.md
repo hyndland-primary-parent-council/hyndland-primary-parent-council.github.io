@@ -1,13 +1,13 @@
 ---
-title: Glasgowbury – May 2010
-date: '2012-08-21'
+title: Glasgowbury
+date: '2012-05-01'
+layout: event
 categories:
-- Past Events
+- Events
 source_path: past-events/glasgowbury-may-2010/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 [![](/assets/images/2012/08/glasgowbury-021-150x150.jpg)](/assets/images/2012/08/glasgowbury-021.jpg)
 

@@ -1,13 +1,13 @@
 ---
 title: Parent Council Quiz Night
 date: '2015-06-22'
+layout: event
 categories:
 - Past Events
 source_path: past-events/parent-council-quiz-night/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 On Saturday 30 May we had another fun night challenging the old grey matter during the Quiz Night fundraiser at Hyndland Bowling Club. While it was not as well attended as we had hoped, due to some great prizes on offer in the raffle we still managed to raise £280 profit after all of the outgoings were paid out, which was great. Prizes on offer included a one night stay with breakfast for two at the Hotel du Vin at One Devonshire Gardens, as well as a photography voucher for John Hendry Photography, a specially-cooked meal for two and some fine wine and whisky, among other prizes.
 

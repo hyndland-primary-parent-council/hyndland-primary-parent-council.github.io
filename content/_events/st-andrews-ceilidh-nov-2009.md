@@ -1,13 +1,13 @@
 ---
-title: St Andrews Ceilidh – Nov 2009
-date: '2012-08-21'
+title: St Andrews Ceilidh
+layout: event
+date: '2009-11-01'
 categories:
 - Past Events
 source_path: past-events/st-andrews-ceilidh-nov-2009/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 [![](/assets/images/2012/08/p1010004-2-150x150.jpg)](/assets/images/2012/08/p1010004-2.jpg)
 

@@ -1,13 +1,13 @@
 ---
-title: Spring Clean 2012
+title: Spring Clean
 date: '2012-09-28'
+layout: event
 categories:
-- Past Events
+- Events
 source_path: past-events/spring-clean-2012/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 [![](/assets/images/2012/09/P5200007a-150x150.jpg)](/assets/images/2012/09/P5200007a.jpg)
 

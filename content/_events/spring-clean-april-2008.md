@@ -1,8 +1,9 @@
 ---
-title: Spring Clean – April 2008
-date: '2012-08-21'
+title: Spring Clean
+layout: event
+date: '2008-04-01'
 categories:
-- Past Events
+- Events
 - Garden
 source_path: past-events/spring-clean-april-2008/index.html
 extracted_mode: article

@@ -1,13 +1,13 @@
 ---
-title: Spring Ceilidh, 16 May 2014
-date: '2014-06-12'
+title: Spring Ceilidh
+date: '2014-05-16'
+layout: event
 categories:
-- Past Events
+- Events
 source_path: past-events/spring-ceilidh-16-may-2014/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/)
 
 [![](/assets/images/2014/06/Ceilidh-May-2014-005-150x150.jpg)](past-events/spring-ceilidh-16-may-2014/attachment/ceilidh-may-2014-005/)
 
