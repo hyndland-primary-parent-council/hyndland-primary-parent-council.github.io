@@ -1,6 +1,7 @@
 ---
 title: Spring Clean
-date: '2012-09-28'
+date: '2025-10-03'
+event_date: '2012-09-28'
 layout: event
 categories:
 - Events

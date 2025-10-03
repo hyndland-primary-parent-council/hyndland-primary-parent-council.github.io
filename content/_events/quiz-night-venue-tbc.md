@@ -1,6 +1,7 @@
 ---
 title: Quiz Night, Partick Bowling Club
-date: '2019-05-10'
+date: '2025-10-03'
+event_date: '2019-05-10'
 layout: event
 source_path: event/quiz-night-venue-tbc/index.html
 extracted_mode: article

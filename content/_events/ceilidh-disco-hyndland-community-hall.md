@@ -1,6 +1,7 @@
 ---
 title: Ceilidh / Disco, Hyndland Community Hall
-date: '2019-05-31'
+date: '2025-10-03'
+event_date: '2019-05-31'
 layout: event
 source_path: event/ceilidh-disco-hyndland-community-hall/index.html
 extracted_mode: article

@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Parent Quiz Night & Halloween Disco
-date: '2017-09-30'
+date: '2025-10-03'
+event_date: '2017-09-30'
 categories:
 - Past Events
 source_path: past-events/parent-quiz-night-halloween-disco/index.html

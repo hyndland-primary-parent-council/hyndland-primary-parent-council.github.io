@@ -1,7 +1,8 @@
 ---
 layout: event
 title: 'Parent Council Meeting'
-date: '2017-03-29'
+date: '2025-10-03'
+event_date: '2017-03-29'
 source_path: event/parent-council-meeting-10/index.html
 extracted_mode: article
 categories: ['Events']

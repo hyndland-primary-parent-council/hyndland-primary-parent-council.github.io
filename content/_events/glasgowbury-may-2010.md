@@ -1,6 +1,7 @@
 ---
 title: Glasgowbury
-date: '2012-05-01'
+date: '2025-10-03'
+event_date: '2012-05-01'
 layout: event
 categories:
 - Events

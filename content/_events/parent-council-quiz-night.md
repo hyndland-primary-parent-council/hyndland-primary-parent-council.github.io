@@ -1,6 +1,7 @@
 ---
 title: Parent Council Quiz Night
-date: '2015-06-22'
+date: '2025-10-03'
+event_date: '2015-06-22'
 layout: event
 categories:
 - Past Events

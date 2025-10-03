@@ -11,7 +11,7 @@ layout: default
           <div style="font-size: 1.5rem;">📅</div>
           <div>
             <div class="small text-muted text-uppercase fw-semibold mb-1">Date</div>
-            <div class="fw-medium">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
+            <div class="fw-medium">{{ page.event_date | date: "%A, %B %-d, %Y" }}</div>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@ layout: default
         {%- capture event_title -%}{{ page.title | remove: ' : Hyndland Primary Parent Council' | url_encode }}{%- endcapture -%}
         {%- capture event_location -%}{% if page.venue_name %}{{ page.venue_name }}{% endif %}{% if page.venue_name and page.venue_address %}, {% endif %}{% if page.venue_address %}{{ page.venue_address }}{% endif %}{%- endcapture -%}
         {%- assign location_encoded = event_location | url_encode -%}
-        {%- assign date_parts = page.date | date: "%Y-%m-%d" | split: "-" -%}
+        {%- assign date_parts = page.event_date | date: "%Y-%m-%d" | split: "-" -%}
         {%- assign year = date_parts[0] -%}
         {%- assign month = date_parts[1] -%}
         {%- assign day = date_parts[2] -%}
@@ -132,7 +132,7 @@ layout: default
       document.getElementById('download-ical').addEventListener('click', function() {
         var eventData = {
           title: "{{ page.title | remove: ' : Hyndland Primary Parent Council' | escape }}",
-          date: "{{ page.date | date: '%Y-%m-%d' }}",
+          date: "{{ page.event_date | date: '%Y-%m-%d' }}",
           startTime: "{{ page.start_time | default: '7:00 pm' }}",
           endTime: "{{ page.end_time | default: '8:30 pm' }}",
           location: "{{ event_location | escape }}",

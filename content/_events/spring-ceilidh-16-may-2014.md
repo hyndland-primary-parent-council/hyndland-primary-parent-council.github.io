@@ -1,6 +1,7 @@
 ---
 title: Spring Ceilidh
-date: '2014-05-16'
+date: '2025-10-03'
+event_date: '2014-05-16'
 layout: event
 categories:
 - Events

@@ -1,7 +1,8 @@
 ---
 title: Christmas Fayre
+date: '2025-10-03'
 layout: event
-date: '2010-12-01'
+event_date: '2010-12-01'
 categories:
 - Events
 source_path: past-events/christmas-fayre-dec-2010/index.html

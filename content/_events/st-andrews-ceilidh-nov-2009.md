@@ -1,7 +1,8 @@
 ---
 title: St Andrews Ceilidh
+date: '2025-10-03'
 layout: event
-date: '2009-11-01'
+event_date: '2009-11-01'
 categories:
 - Past Events
 source_path: past-events/st-andrews-ceilidh-nov-2009/index.html

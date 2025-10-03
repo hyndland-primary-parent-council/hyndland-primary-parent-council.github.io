@@ -1,7 +1,8 @@
 ---
 title: Ceilidh
+date: '2025-10-03'
 layout: event
-date: '2012-11-11'
+event_date: '2012-11-11'
 categories:
 - Events
 source_path: past-events/ceilidh-nov-2011/index.html

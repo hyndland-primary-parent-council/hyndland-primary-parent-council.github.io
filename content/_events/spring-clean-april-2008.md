@@ -1,7 +1,8 @@
 ---
 title: Spring Clean
+date: '2025-10-03'
 layout: event
-date: '2008-04-01'
+event_date: '2008-04-01'
 categories:
 - Events
 - Garden

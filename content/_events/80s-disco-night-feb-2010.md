@@ -1,7 +1,8 @@
 ---
 title: 80’s disco night – Feb 2010
+date: '2025-10-03'
 layout: event
-date: '2010-02-01'
+event_date: '2010-02-01'
 categories: ['Events']
 source_path: past-events/80s-disco-night-feb-2010/index.html
 extracted_mode: article

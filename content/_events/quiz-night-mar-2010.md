@@ -1,7 +1,8 @@
 ---
 title: Quiz Night
+date: '2025-10-03'
 layout: event
-date: '2010-03-01'
+event_date: '2010-03-01'
 categories:
 - Past Events
 source_path: past-events/quiz-night-mar-2010/index.html

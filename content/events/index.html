@@ -10,12 +10,12 @@ collection_page: true
 </div>
 
 {%- assign today = site.time | date: "%Y-%m-%d" -%}
-{%- assign all_events = site.events | sort: "date" -%}
+{%- assign all_events = site.events | sort: "event_date" -%}
 {%- assign upcoming_events = "" | split: "" -%}
 {%- assign past_events = "" | split: "" -%}
 
 {%- for event in all_events -%}
-  {%- assign event_date = event.date | date: "%Y-%m-%d" -%}
+  {%- assign event_date = event.event_date | date: "%Y-%m-%d" -%}
   {%- if event_date >= today -%}
     {%- assign upcoming_events = upcoming_events | push: event -%}
   {%- else -%}
@@ -39,7 +39,7 @@ collection_page: true
           </h2>
           <div class="d-flex align-items-center gap-3 flex-wrap">
             <span class="meta" style="margin-bottom: 0;">
-              {{ event.date | date: "%B %-d, %Y" }}
+              {{ event.event_date | date: "%B %-d, %Y" }}
             </span>
             {% if event.start_time %}
             <span class="text-muted small">
@@ -51,7 +51,7 @@ collection_page: true
         <span class="badge-new">Upcoming</span>
       </div>
       
-      <a href="{{ event.url | relative_url }}" class="btn btn-outline-primary btn-sm">
+      <a href="{{ event.url | relative_url }}" class="btn btn-outline-secondary btn-sm">
         View Details & Add to Calendar →
       </a>
     </article>
@@ -73,7 +73,7 @@ collection_page: true
       <div>
         <h3 class="h6 mb-1">{{ event.title | remove: ' : Hyndland Primary Parent Council' }}</h3>
         <small class="text-muted">
-          {{ event.date | date: "%B %-d, %Y" }}
+          {{ event.event_date | date: "%B %-d, %Y" }}
           {% if event.start_time %} • {{ event.start_time }}{% endif %}
         </small>
       </div>

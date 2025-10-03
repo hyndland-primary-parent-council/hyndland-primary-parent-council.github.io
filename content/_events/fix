@@ -1,0 +1,70 @@
+#!/bin/bash
+
+# Get today's date in YYYY-MM-DD format
+TODAY=$(date +%Y-%m-%d)
+
+echo "Processing markdown files in current directory..."
+echo "Today's date: $TODAY"
+echo ""
+
+# Counter for processed files
+count=0
+
+# Loop through all .md files in current directory
+for file in *.md; do
+  # Check if any .md files exist
+  if [ ! -f "$file" ]; then
+    echo "No markdown files found in current directory"
+    exit 0
+  fi
+  
+  # Check if file has frontmatter
+  if ! head -1 "$file" | grep -q "^---"; then
+    echo "Skipping $file: No frontmatter found"
+    continue
+  fi
+  
+  # Check if file has 'date:' field
+  if ! grep -q "^date:" "$file"; then
+    echo "Skipping $file: No 'date' field found"
+    continue
+  fi
+  
+  # Create temporary file
+  temp_file="${file}.tmp"
+  
+  # Process the file
+  awk -v today="$TODAY" '
+    BEGIN { in_frontmatter=0; title_found=0 }
+    /^---$/ { 
+      print
+      if (in_frontmatter == 0) {
+        in_frontmatter = 1
+      } else {
+        in_frontmatter = 0
+      }
+      next
+    }
+    in_frontmatter && /^title:/ {
+      print
+      print "date: '\''" today "'\''"
+      title_found = 1
+      next
+    }
+    in_frontmatter && /^date:/ {
+      sub(/^date:/, "event_date:")
+      print
+      next
+    }
+    { print }
+  ' "$file" > "$temp_file"
+  
+  # Replace original file with updated version
+  mv "$temp_file" "$file"
+  echo "✓ Updated $file"
+  ((count++))
+done
+
+echo ""
+echo "Completed! Processed $count file(s)."
+

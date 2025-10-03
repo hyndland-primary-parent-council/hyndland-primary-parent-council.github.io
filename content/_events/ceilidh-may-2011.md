@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Ceilidh
-date: '2012-05-21'
+date: '2025-10-03'
+event_date: '2012-05-21'
 categories: ['Events']
 source_path: past-events/ceilidh-may-2011/index.html
 extracted_mode: article

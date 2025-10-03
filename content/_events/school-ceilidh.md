@@ -1,6 +1,7 @@
 ---
 title: School Ceilidh
-date: '2015-05-26'
+date: '2025-10-03'
+event_date: '2015-05-26'
 layout: event
 categories:
 - Events

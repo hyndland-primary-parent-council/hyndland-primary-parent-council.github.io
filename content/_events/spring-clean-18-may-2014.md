@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Spring Clean
-date: '2014-05-18'
+date: '2025-10-03'
+event_date: '2014-05-18'
 categories:
 - Events
 - Garden

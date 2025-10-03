@@ -1,6 +1,7 @@
 ---
 title: Parent Council Ceilidh
-date: '2018-01-26'
+date: '2025-10-03'
+event_date: '2018-01-26'
 layout: event
 categories:
 - Events
