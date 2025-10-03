@@ -1,115 +1,56 @@
 ---
-title: Term Dates
-date: '2025-10-01'
-source_path: term-dates/index.html
+title: Term Dates 2025-26
+date: '2025-10-03'
 extracted_mode: article
 categories: []
 ---
-For further information, please see the Glasgow City Council website: [http://www.glasgow.gov.uk/index.aspx?articleid=17024](https://www.glasgow.gov.uk/article/17024/School-Term-Dates "Glasgow City Council - School Holidays")
 
-## 2020-2021
 
 **August**
 
-- Monday 10 August&nbsp;2020 (Return date for Teachers & In-Service Day)
-- Tuesday 11 August&nbsp;2020 (In-Service Day)
-- Wednesday 12 August 2020 (Return date for pupils)
+- Tuesday, 12 August 2025 (Return date for Teachers & In-Service Day
+- Wednesday, 13 August 2025 (In-Service Day)
+- Thursday, 14 August 2025 (Return date for Pupils)
 
-**September Weekend&nbsp;**
-
-- Friday&nbsp;25 September 2020
-- Monday&nbsp;28 September 2020
+**September**
+- Friday, 26 September and Monday, 29 September 2025 (September weekend holiday)
 
 **October**
 
-- Friday&nbsp;9 October 2020 (In-Service Day)
-- Monday 12 to Friday16 October 2020 (October Week)
+- Friday, 10 October 2025 (In-Service Day)
+- Monday, 13 to Friday, 17 October 2025 (October Week)
 
-**December – Christmas and New Year**
-
-- Schools close at 2.30 pm on Tuesday 22 December 2020
-- Wednesday&nbsp;23 December 2020 to&nbsp;Tuesday 5 January 2021 (Christmas holidays)
-
-**January**
-
-- Schools return on Wednesday 6 January 2021
-
-**February Mid-term break**
-
-- Friday 5 February 2021
-- Monday 8 February 2021
-- Tuesday&nbsp;9 February 2021
-- Wednesday&nbsp;10 February 2021 (In-service day)
-
-**April – Spring Holiday (Easter)**
-
-- Schools close at 2.30 pm on Thursday&nbsp;1 April 2021
-- Good Friday 2 April 2021
-- Easter Monday 5 April 2021
-- Schools return on Monday&nbsp;19 April 2021
-
-**May**
-
-- Monday&nbsp;3 May 2021 (May Holiday)
-- Thursday&nbsp;6 May 2021 (In-Service day to coincide with Scottish Parliament Elections)
-- Friday&nbsp;28 May 2021 and Monday, 31 May 2021 (May Weekend)
-
-**June**
-
-- Schools Close at 1.00 pm on Thursday 24 June 2021
-
-## 2021-2022
-
-**August**
-
-- Thursday&nbsp;12&nbsp;August 2021 (Return date for Teachers & In-Service Day)
-- Friday 13&nbsp;August 2021 (In-Service Day)
-- Monday 16 August 2021&nbsp;(Return date for&nbsp;the pupils)
-
-**September Weekend&nbsp;**
-
-- Friday&nbsp;24 September 2021
-- Monday&nbsp;27 September 2021
-
-**October**
-
-- Friday&nbsp;8 October 2021 (In-Service Day)
-- Monday&nbsp;11 to Friday&nbsp;15 October 2021 (October Week)
-
-**December – Christmas and New Year**
-
-- Schools close at 2.30 pm on Wednesday&nbsp;22 December 2021
-- Thursday&nbsp;23 December 2021 – Tuesday 4&nbsp;January (Christmas holidays)
-
-### 2022 (Proposed dates)
+**December** - Christmas and New Year
+- Schools close at 2.30 pm on Friday, 19 December 2025
+- Monday, 22 December 2025 - Friday, 2 January 2026 (Christmas holidays)
 
 **January**
 
-- Schools return on Wednesday&nbsp;5&nbsp;January 2022
+- Schools return on Monday, 5 January 2026
 
-**February Mid-term break**
+**February mid term break**
 
-- Monday&nbsp;14 February 2022
-- Tuesday&nbsp;15 February 2022
-- Wednesday&nbsp;16 February 2022 (In-service day)
+- Monday, 16 February 2026
+- Tuesday, 17 February 2026
+- Wednesday, 18 February 2026 (In-service day)
 
-**April – Spring Holiday (Easter)**
+**April - Spring Holiday (Easter)**
 
-- Schools close at 2.30 pm on Friday&nbsp;1 April 2022
-- Good Friday&nbsp;15 April 2022
-- Easter Monday 18 April 2022
-- Schools return on Tuesday&nbsp;19 April 2022
+- Schools close at 2.30 pm on Thursday, 2 April 2026
+- Friday, 3 April 2026 (Good Friday)
+- Monday, 6 April - Friday, 17 April 2026 (Spring Break)
+- Schools return on Monday, 20 April 2026
 
 **May**
 
-- Monday&nbsp;2 May 2022 (May Holiday)
-- Thursday&nbsp;5 May 2022 (In-Service day to coincide with Scottish Local Government Elections)
-- Friday&nbsp;27 May 2022 and Monday&nbsp;30 May 2022 (May Weekend)
+- Monday, 4 May 2026 (May Holiday)
+- Thursday, 7 May 2026 (In-service day to coincide with Scottish Parliamentary election, but may be subject to change)
+- Friday, 22 May 2026 and Monday, 25 May 2026 (May Weekend)
 
 **June**
 
-- Schools Close at 1.00 pm on Friday&nbsp;24&nbsp;June 2022
+- Schools Close at 1.00 pm on Thursday, 25 June 2026
 
-**August**
+_source: Glasgow City Council website: [https://www.glasgow.gov.uk/article/4276/School-Term-Dates](https://www.glasgow.gov.uk/article/4276/School-Term-Dates "Glasgow City Council - School Term Dates")_
 
-- Thursday&nbsp;11 August 2022 (Return date for Teachers)
+[Past term dates](/term-dates-2020-22/)
