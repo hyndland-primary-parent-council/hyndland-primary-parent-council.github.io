@@ -21,6 +21,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Configure Pages (provides base_path and other env)
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -30,8 +35,19 @@ jobs:
       - name: Install gems
         run: bundle install --jobs 4 --retry 3
 
+      # Optional: write your custom domain into the built site
+      # - name: Add CNAME
+      #   run: echo "your.domain.com" > content/CNAME
+
       - name: Build site (source=content)
-        run: bundle exec jekyll build --config _config.yml --source content --destination _site
+        env:
+          JEKYLL_ENV: production
+        run: >
+          bundle exec jekyll build
+          --config _config.yml
+          --source content
+          --destination _site
+          --baseurl "${{ steps.pages.outputs.base_path }}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -48,3 +64,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
