@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 Last training run was this morning and we need all the help we can get with sponsorship. Our target is £600 and we’re at £395 on the giving page – which is just amazing! – and the runners have some other money coming in from sponsor forms. ANYTHING that people can donate is welcome and there will be buckets and tins circulating in the playground over the next week.
 

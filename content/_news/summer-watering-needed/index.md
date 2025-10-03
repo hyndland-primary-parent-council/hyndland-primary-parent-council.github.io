@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 Are you able to help out watering the school garden and tubs in the playground during the Summer Holidays?
 

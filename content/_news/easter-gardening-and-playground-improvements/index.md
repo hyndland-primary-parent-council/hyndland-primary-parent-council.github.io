@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 A very special thanks to the few volunteers who gave their time to help improve the playgrounds and garden area during the Spring Break.
 

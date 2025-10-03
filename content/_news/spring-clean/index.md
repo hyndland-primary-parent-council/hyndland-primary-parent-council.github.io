@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 Sunday 18th May
 

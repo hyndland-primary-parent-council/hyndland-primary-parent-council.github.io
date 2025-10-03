@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 # [Hyndland Parent Council Quiz Night](/news/hyndland-parent-council-quiz-night/)
 

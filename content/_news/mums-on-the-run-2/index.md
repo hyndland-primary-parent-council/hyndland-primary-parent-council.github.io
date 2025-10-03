@@ -9,6 +9,4 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
-
 The next group run will be October 23. If you’d like to join the Mums (and Dads) on the run, contact [Louise](mailto:scottishchick72@hotmail.com) for info and a sponsorship form.

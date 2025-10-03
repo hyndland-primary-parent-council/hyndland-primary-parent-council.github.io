@@ -3,7 +3,9 @@ title: Mums on the Run
 date: '2025-10-01'
 source_path: mums-on-the-run/index.html
 extracted_mode: article
-categories: []
+display_articles: true
+news_category: "Mums On The Run"   # single category to match
+news_limit: 5             # optional (default 5)
 ---
 Hyndland Mums on the Run began in September 2013 when twelve Hyndland mums decided to get together and run a sponsored 5k race to raise money for sports and outdoor equipment for the school. We now have many runners (from beginners to half marathon racers), a qualified running coach and are affiliated to Jog Scotland. Our aim is to get Hyndland mums running and to feel all the benefits that running in a sociable group can bring: support, camaraderie, fitness and the happiness that only a post-run coffee and cake can bring.
 

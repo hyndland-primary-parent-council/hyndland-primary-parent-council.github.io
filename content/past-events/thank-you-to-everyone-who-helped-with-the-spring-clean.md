@@ -8,7 +8,6 @@ source_path: past-events/thank-you-to-everyone-who-helped-with-the-spring-clean/
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/), [School Garden](category/garden/)
 
 Thank you to everyone who helped with the Spring Clean!
 

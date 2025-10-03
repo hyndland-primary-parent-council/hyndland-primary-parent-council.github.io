@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 After many years of leading the work in the school garden, Amanda Storey is looking for someone to take over the general running. She will still be on hand for special projects and expertise but we hope that the green-fingered, or simply keen to learn, among you will be able to take on some of the regular tasks. We are approaching the sowing/planting season soon and it would be good to have some parent help in place.
 

@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 We will be holding the school garden market sale this&nbsp; **Friday 8 September in the school playground at pick up time** to raise some funds for the school.
 

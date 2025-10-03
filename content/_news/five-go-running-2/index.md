@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 A big thanks to those mums, dads, grannies, aunties, uncles and pals who took part in Five Go Running. A&nbsp; **HUGE** thanks to those children from school who took part in fundraising runs. Brilliant effort all round!
 

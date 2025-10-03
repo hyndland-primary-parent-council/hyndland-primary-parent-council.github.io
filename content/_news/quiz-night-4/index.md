@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 The Quiz Night on Friday 24 October was a roaring success with £322 profit made on the night from ticket sales and raffle money. It was an evening of fun and some really hard and innovative questions developed by our new quiz masters, Linda McCormick and Anne Wood. Even the titles of the rounds were cryptic, so it really was difficult knowing which of the rounds to play the joker on. As it happened, the victorious team took a gamble and held their joker (double points) round until the end, where more points were already available than in the previous rounds. Proudly (or sadly, I’m not so sure!), Archie MacPherson’s Lost Souls stormed past the night’s ongoing leaders, Mums on the Run, to reach the finishing tape with a clean sweep of all of the questions on Glasgow boozers! Archie may have been lost earlier in the evening (he was, he was looking for Hughenden and ended up at Hyndland Bowling Club), but his namesakes certainly found their way in the end.
 

@@ -18,6 +18,10 @@ collections:
     output: true
     permalink: /news/:path/
 
+  events:
+    output: true
+    permalink: /events/:path/
+
 defaults:
   # All pages: default layout
   - scope:
@@ -42,7 +46,18 @@ defaults:
       layout: news_article
       categories: ["News"]
 
+  - scope:
+      path: "events/" 
+      type: "pages"
+    values:
+      layout: news_article
+      categories: ["Events"]
+
+
 pagination:
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  #
   enabled: true
   per_page: 10
   sort_field: 'date'

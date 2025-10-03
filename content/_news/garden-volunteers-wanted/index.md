@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 We would like to make an excellent outdoor learning experience for the children at Hyndland Primary and at the Afty.
 

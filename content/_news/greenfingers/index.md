@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
-
 As the holidays approach we usually put together a watering rota for the school garden. If you are free to take your children down to the garden on a particular week over the summer to water the plants, please contact Helen at [hjrolph@gmail.com](mailto:hjrolph@gmail.com) as this will be a great help.
 
 There are plenty of activities for the children to enjoy in the garden over the holidays, including picking the plums (usually ripe in July), picking herbs (rosemary, sage, chives), sweet peas (should be flowering at the end of July), digging large holes (always popular!) as well as looking for bugs and bees around the ‘bug hotel’ (there are magnifying glasses in the garden storage box) and feeding the birds (we have various bird feeders around the garden).

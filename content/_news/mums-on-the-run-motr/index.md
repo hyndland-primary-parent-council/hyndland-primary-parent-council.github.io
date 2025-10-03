@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 Since we started in 2013 our aim has been to provide a supportive network of running buddies to mum who want to start or improve their running, and we have a trained JogScotland leader who can provide help and advice. We’ve raised over £2,500 for school projects, including this year’s trips to the Emirates Stadium, and operate a breakfast running club for kids at the school (this term it was for P3-P5). If any mum wants to get in touch or find out more they should contact Louise at hyndlandmumsontherun@gmail.com
 
@@ -20,4 +19,6 @@ _**Louise Love (MOTR)**_
 [![Not your standard police line up](/assets/images/2016/06/motr2016-300x238.jpg)](/assets/images/2016/06/motr2016.jpg)
 _Not your standard police line up_
 
-_ **Thanks to MOTR from the Parent Council:** _ Thank you for all of the fundraising for the school this year, including promoting it as an excellent example of the kind of contribution that parents can make as part of the wider school community, helping out at the school Sports Day, etc. Well done and thank you ladies!
+**Thanks to MOTR from the Parent Council:**
+
+Thank you for all of the fundraising for the school this year, including promoting it as an excellent example of the kind of contribution that parents can make as part of the wider school community, helping out at the school Sports Day, etc. Well done and thank you ladies!

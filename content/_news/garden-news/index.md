@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 Would you like to help out with the school garden but don’t have much time? You could adopt a plant pot. If anyone is interested in adopting a pot, please drop an email to Helen at [hjrolph@gmail.com](mailto:hjrolph@gmail.com) or find her in the playground and she’ll organise a pot for you. All you have to do is plant it up, decorate it if you wish, and put it somewhere around the school. You may want to plant some veggies or salad or flowers or do something more creative – it’s up to you. Your child can then enjoy watering the pot and picking the veggies/flowers when they are ready. You only have to focus on your pot, so if you are short on time, this can be a great way to still connect with nature. Many thanks to those people who have already adopted a pot.
 

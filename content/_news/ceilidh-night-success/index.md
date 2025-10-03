@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 On Friday 20 November, the Parent Council held our usual autumn Ceilidh, which was as ever a lot of fun for parents and children alike and is a great fundraiser for the school.
 

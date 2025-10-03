@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 On Friday 2 December the Parent Council held our usual Autumn Ceilidh, which was a couple of weeks later than usual due to a combination of the new venue’s availability and also that of the ceilidh band.
 

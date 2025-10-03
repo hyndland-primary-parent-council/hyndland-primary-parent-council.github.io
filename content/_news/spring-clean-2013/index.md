@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 Many thanks to Lesley-Anne, Lewis and Chloe Anderson, Pat and Grace Lawlor, Catherine Winchester, John Lewis, Stevie Gallagher, Russell, Rachel and Kitty McNeill, Melanie Van de Velde and Conor McLaughlan, Harry Grove, Louise Love and Douglas, Angus and Andrew Bain, Doug and Dylan Pritchard, Jon and Matilda Barr, Li Yang and Tom Gan, Rhona and Grant MacDonald, Ava McKechan, Kazim Khan, Caroline, Bella, Madeleine, Charlotte and Alexander Walker, Helen and Evan Gibson, Helen and Noah Jordan and Chris Watters, Kirsty and Erin Jordan, Alison Mussett, Lynn, Harry and Charlie Crawford, Helen Newstead and Lucia Overell, Fyzah and Sawera Wahab and Calum Shaw, Margaret and Beth Cuthbert, Lesley Inglis, Phil and Johnny Taylor, Les and Amy Wood, Liane (and anyone else I may have forgotten!) for all their hard work today. They were keenly assisted by Mrs Kerr, Ms Burring, Miss Liveston, Mrs MacQuarrie and Ms Laville. Special thanks also go to Amanda Storey for her tireless efforts in the garden and for the furthering of outdoor learning.
 

@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 # [Recent fundraisers, movers, shakers and thanks…](/news/recent-fundraisers-movers-shakers-and-thanks/)
 

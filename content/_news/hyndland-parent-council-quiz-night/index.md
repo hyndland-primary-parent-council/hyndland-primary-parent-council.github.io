@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
-
 **Friday 29 September** sees the return of the Parent Council Quiz Night, hosting by our very own Mums on the Run at&nbsp; **Partick Bowling Club** (right next door to the school).
 
 Starting at **7.30pm** (adults only, no kids allowed!), tickets ( **£5** ) are available from Louise Love in the playground. Entry is also available by payment on the door on the night.

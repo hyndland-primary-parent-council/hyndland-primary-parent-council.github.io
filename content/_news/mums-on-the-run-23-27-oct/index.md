@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 **This year Hyndland Mums on the Run are&nbsp;** raising funds to send each class at Hyndland Primary to Scotstoun Stadium to experience what it’s like to compete in a professional athletics arena: running on a real track, doing field events in a 5000-seater stadium, and using the same facilities as many of Team Scotland’s athletes. As a Glasgow school we get use of the stadium for free, but it costs £150 to pay for a bus to get the kids up there. Can you help? From October 23-27, Mums on the Run are getting their families and friends to get out and run a sponsored 5k to help pay for this amazing opportunity. Quite literally, we’re all running for a bus. Please sponsor us!
 

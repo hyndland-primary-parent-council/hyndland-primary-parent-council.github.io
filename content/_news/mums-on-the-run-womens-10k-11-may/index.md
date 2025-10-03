@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 [![mumsontherun-10k](/assets/images/2014/05/mumsontherun-10k.jpg)](/assets/images/2014/05/mumsontherun-10k.jpg)
 

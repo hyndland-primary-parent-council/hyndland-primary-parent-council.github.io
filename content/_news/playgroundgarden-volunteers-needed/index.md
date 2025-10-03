@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 **VOLUNTEERS NEEDED TO HELP OUT WITH THE SCHOOL PLAYGROUND AND GARDEN IMPROVEMENTS DURING THE EASTER BREAK**
 

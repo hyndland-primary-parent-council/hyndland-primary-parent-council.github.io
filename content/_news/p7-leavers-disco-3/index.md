@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 The P7s had their leavers disco on Thursday 22 June. Over 45 kids danced the night away to DJ Billy and his high energy tunes. A great time was had by all. At the end of the evening they were all presented with their leavers gifts, which included a T-shirt, yearbook and scientific calculator.
 

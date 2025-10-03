@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 Over the past 5-6 weeks, the Parent Council has held both a Quiz Night and a Ceilidh and along with the parents, carers, teachers and children who attended, a lot of fun was had and we also managed to raise funds towards the P1 playground developments (from the Quiz Night) and start building some funds towards development work in the other playgrounds.
 

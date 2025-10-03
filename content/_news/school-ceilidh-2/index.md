@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
-
 On Friday 20 May the Parent Council held our usual Spring Ceilidh, which – some obnoxious behaviour to parents and children from one of the Burgh Halls staff aside – was as ever a lot of fun for parents and children alike, and is also a great fundraiser for the school.
 
 The event was organised by Wendy Jordan who did a fantastic job preparing for it – including obtaining some great prizes for the parents’ raffle – and also on the night.&nbsp;_ **Thanks very much Wendy!** _

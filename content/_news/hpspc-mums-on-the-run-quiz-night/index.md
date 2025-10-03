@@ -10,7 +10,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/), [Past Events](category/past-events/)
 
 [![quiz night may 2016](/assets/images/2016/04/unnamed.jpg)](/assets/images/2016/04/unnamed.jpg)
 

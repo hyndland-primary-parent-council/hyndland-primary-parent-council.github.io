@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 On Friday 11 December our indefatigable MOTR undertook an LP run, which, in the style of an LP (for those of us old enough to know what they are!) ran around the cricket pitch for 33 1/3 minutes and then went into a bake-off.
 

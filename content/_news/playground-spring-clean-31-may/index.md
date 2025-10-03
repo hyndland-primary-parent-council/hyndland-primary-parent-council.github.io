@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 The annual playground spring clean will take place on **Sunday May 31st from 10am to 2pm**.
 

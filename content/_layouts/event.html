@@ -1,0 +1,229 @@
+---
+layout: default
+---
+<article class="event-detail">
+  <header class="mb-4">
+    <h1 class="h2 mb-3">{{ page.title | remove: ' : Hyndland Primary Parent Council' | remove: 'Upcoming Events ' }}</h1>
+    
+    <div class="row g-3 mb-4">
+      <div class="col-md-6">
+        <div class="d-flex align-items-start gap-3">
+          <div style="font-size: 1.5rem;">📅</div>
+          <div>
+            <div class="small text-muted text-uppercase fw-semibold mb-1">Date</div>
+            <div class="fw-medium">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
+          </div>
+        </div>
+      </div>
+      
+      {% if page.start_time %}
+      <div class="col-md-6">
+        <div class="d-flex align-items-start gap-3">
+          <div style="font-size: 1.5rem;">🕐</div>
+          <div>
+            <div class="small text-muted text-uppercase fw-semibold mb-1">Time</div>
+            <div class="fw-medium">{{ page.start_time }}{% if page.end_time %} - {{ page.end_time }}{% endif %}</div>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+    
+    {% if page.venue_name or page.venue_address %}
+    <div class="card mb-4" style="border: 1px solid var(--border);">
+      <div class="card-body">
+        <div class="d-flex align-items-start gap-3 mb-3">
+          <div style="font-size: 1.5rem;">📍</div>
+          <div class="flex-grow-1">
+            <div class="small text-muted text-uppercase fw-semibold mb-2">Venue</div>
+            {% if page.venue_name %}
+            <div class="fw-medium mb-1">{{ page.venue_name }}</div>
+            {% endif %}
+            {% if page.venue_address %}
+            <div class="text-muted small">{{ page.venue_address }}</div>
+            {% endif %}
+          </div>
+        </div>
+        
+        {% if page.venue_address %}
+        <div id="event-map" style="height: 300px; border-radius: 0.5rem; overflow: hidden; margin-bottom: 1rem;"></div>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script>
+          (function() {
+            var address = "{{ page.venue_address | escape }}";
+            var venueName = "{{ page.venue_name | escape }}";
+            
+            fetch('https://nominatim.openstreetmap.org/search?format=json&q=' + encodeURIComponent(address))
+              .then(response => response.json())
+              .then(data => {
+                if (data && data.length > 0) {
+                  var lat = parseFloat(data[0].lat);
+                  var lon = parseFloat(data[0].lon);
+                  
+                  var map = L.map('event-map').setView([lat, lon], 15);
+                  
+                  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                  }).addTo(map);
+                  
+                  var marker = L.marker([lat, lon]).addTo(map);
+                  marker.bindPopup('<strong>' + venueName + '</strong><br>' + address).openPopup();
+                } else {
+                  document.getElementById('event-map').innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f3f4f6; color: #6b7280;">Map not available</div>';
+                }
+              })
+              .catch(error => {
+                console.error('Error geocoding address:', error);
+                document.getElementById('event-map').innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f3f4f6; color: #6b7280;">Map not available</div>';
+              });
+          })();
+        </script>
+        
+        <div class="d-flex gap-2 flex-wrap">
+          <a href="https://www.google.com/maps/search/?api=1&query={{ page.venue_address | url_encode }}" 
+             class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">
+             View on Google Maps
+          </a>
+          <a href="https://www.google.com/maps/dir/?api=1&destination={{ page.venue_address | url_encode }}" 
+             class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">
+             Get Directions
+          </a>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+    
+    {% if page.date %}
+    <div class="mb-4">
+      <h3 class="h6 text-uppercase text-muted mb-3">Add to Calendar</h3>
+      <div class="d-flex gap-2 flex-wrap">
+        {%- capture event_title -%}{{ page.title | remove: ' : Hyndland Primary Parent Council' | url_encode }}{%- endcapture -%}
+        {%- capture event_location -%}{% if page.venue_name %}{{ page.venue_name }}{% endif %}{% if page.venue_name and page.venue_address %}, {% endif %}{% if page.venue_address %}{{ page.venue_address }}{% endif %}{%- endcapture -%}
+        {%- assign location_encoded = event_location | url_encode -%}
+        {%- assign date_parts = page.date | date: "%Y-%m-%d" | split: "-" -%}
+        {%- assign year = date_parts[0] -%}
+        {%- assign month = date_parts[1] -%}
+        {%- assign day = date_parts[2] -%}
+        
+        <a href="https://www.google.com/calendar/event?action=TEMPLATE&text={{ event_title }}&dates={{ year }}{{ month }}{{ day }}T190000/{{ year }}{{ month }}{{ day }}T203000&location={{ location_encoded }}&trp=false&ctz=Europe/London&sprop=website:" 
+           class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">
+          Google Calendar
+        </a>
+        
+        <button id="download-ical" class="btn btn-outline-secondary btn-sm">
+          iCal / Apple
+        </button>
+        
+        <a href="https://outlook.office.com/owa/?path=/calendar/action/compose&rru=addevent&startdt={{ year }}-{{ month }}-{{ day }}T19:00:00&enddt={{ year }}-{{ month }}-{{ day }}T20:30:00&location={{ location_encoded }}&subject={{ event_title }}" 
+           class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">
+          Outlook 365
+        </a>
+        
+        <a href="https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addevent&startdt={{ year }}-{{ month }}-{{ day }}T19:00:00&enddt={{ year }}-{{ month }}-{{ day }}T20:30:00&location={{ location_encoded }}&subject={{ event_title }}" 
+           class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">
+          Outlook Live
+        </a>
+      </div>
+    </div>
+    
+    <script>
+      document.getElementById('download-ical').addEventListener('click', function() {
+        var eventData = {
+          title: "{{ page.title | remove: ' : Hyndland Primary Parent Council' | escape }}",
+          date: "{{ page.date | date: '%Y-%m-%d' }}",
+          startTime: "{{ page.start_time | default: '7:00 pm' }}",
+          endTime: "{{ page.end_time | default: '8:30 pm' }}",
+          location: "{{ event_location | escape }}",
+          url: window.location.href
+        };
+        
+        function parseTime(timeStr, date) {
+          var parts = timeStr.match(/(\d+):(\d+)\s*(am|pm)/i);
+          if (!parts) return '';
+          
+          var hours = parseInt(parts[1]);
+          var minutes = parts[2];
+          var meridiem = parts[3].toLowerCase();
+          
+          if (meridiem === 'pm' && hours !== 12) hours += 12;
+          if (meridiem === 'am' && hours === 12) hours = 0;
+          
+          return date.replace(/-/g, '') + 'T' + String(hours).padStart(2, '0') + minutes + '00';
+        }
+        
+        var startDateTime = parseTime(eventData.startTime, eventData.date);
+        var endDateTime = parseTime(eventData.endTime, eventData.date);
+        
+        var icsContent = [
+          'BEGIN:VCALENDAR',
+          'VERSION:2.0',
+          'PRODID:-//Hyndland Primary//Event//EN',
+          'BEGIN:VEVENT',
+          'UID:' + eventData.date + '-' + Math.random().toString(36).substr(2, 9) + '@hyndlandprimaryparentcouncil.org',
+          'DTSTAMP:' + new Date().toISOString().replace(/[-:]/g, '').split('.')[0] + 'Z',
+          'DTSTART:' + startDateTime,
+          'DTEND:' + endDateTime,
+          'SUMMARY:' + eventData.title,
+          'LOCATION:' + eventData.location,
+          'URL:' + eventData.url,
+          'END:VEVENT',
+          'END:VCALENDAR'
+        ].join('\r\n');
+        
+        var blob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
+        var link = document.createElement('a');
+        link.href = window.URL.createObjectURL(blob);
+        link.download = eventData.title.replace(/[^a-z0-9]/gi, '-').toLowerCase() + '.ics';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      });
+    </script>
+    {% endif %}
+  </header>
+  
+  <div class="content">
+    {%- assign clean_content = content 
+      | split: '- [Google Calendar]' | first 
+      | split: '### Details' | last
+      | split: '### Venue' | first -%}
+    
+    {%- if clean_content and clean_content != '' -%}
+    <div class="event-description">
+      {{ clean_content }}
+    </div>
+    {%- endif -%}
+  </div>
+</article>
+
+<style>
+.event-detail {
+  max-width: 800px;
+}
+
+.event-detail .content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.event-description p:last-child {
+  margin-bottom: 0;
+}
+
+#event-map {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "›";
+  color: var(--muted);
+  padding: 0 0.5rem;
+}
+
+.breadcrumb-item a:hover {
+  text-decoration: underline;
+}
+</style>
+

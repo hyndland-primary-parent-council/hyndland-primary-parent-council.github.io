@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 ![](https://s3.amazonaws.com/fundrazr-platform/campaigns/3945a554fd0743669c142e7efe4786d9.jpg)
 

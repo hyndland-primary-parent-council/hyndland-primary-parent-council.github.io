@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
-
 On Friday 2 June the Parent Council held our usual Spring Ceilidh (for the second time at Hyndland Community Hall), which was as ever a lot of fun for parents and children alike, and is also a great fundraiser for the school.
 
 The event was organised by Nadia Miller who did a fantastic job preparing for it and also on the night. Thanks also to Alan Bonnyman and Graham and Ashley MacFarlane, along with Nadia, for sourcing raffle prizes.&nbsp;_Thanks very much folks!_

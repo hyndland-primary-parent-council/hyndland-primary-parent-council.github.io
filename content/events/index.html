@@ -1,0 +1,98 @@
+---
+title: Events
+layout: default
+collection_page: true
+---
+
+<div class="mb-4">
+  <h1 class="h2 fw-bold mb-2">Upcoming Events</h1>
+  <p class="text-muted">Stay informed about Parent Council meetings, school events, and community activities.</p>
+</div>
+
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign all_events = site.events | sort: "date" -%}
+{%- assign upcoming_events = "" | split: "" -%}
+{%- assign past_events = "" | split: "" -%}
+
+{%- for event in all_events -%}
+  {%- assign event_date = event.date | date: "%Y-%m-%d" -%}
+  {%- if event_date >= today -%}
+    {%- assign upcoming_events = upcoming_events | push: event -%}
+  {%- else -%}
+    {%- assign past_events = past_events | push: event -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign past_events = past_events | reverse -%}
+
+{% if upcoming_events.size > 0 %}
+<div class="row g-4">
+  {% for event in upcoming_events %}
+  <div class="col-12">
+    <article class="news-card">
+      <div class="d-flex justify-content-between align-items-start mb-3">
+        <div>
+          <h2 class="post-title mb-2">
+            <a href="{{ event.url | relative_url }}">
+              {{ event.title | remove: ' : Hyndland Primary Parent Council' | remove: 'Upcoming Events ' }}
+            </a>
+          </h2>
+          <div class="d-flex align-items-center gap-3 flex-wrap">
+            <span class="meta" style="margin-bottom: 0;">
+              {{ event.date | date: "%B %-d, %Y" }}
+            </span>
+            {% if event.start_time %}
+            <span class="text-muted small">
+              🕐 {{ event.start_time }}{% if event.end_time %} - {{ event.end_time }}{% endif %}
+            </span>
+            {% endif %}
+          </div>
+        </div>
+        <span class="badge-new">Upcoming</span>
+      </div>
+      
+      <a href="{{ event.url | relative_url }}" class="btn btn-outline-primary btn-sm">
+        View Details & Add to Calendar →
+      </a>
+    </article>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<div class="alert alert-info">
+  <p class="mb-0">No upcoming events scheduled at this time. Check back soon for updates!</p>
+</div>
+{% endif %}
+
+{% if past_events.size > 0 %}
+<div class="mt-5">
+  <h2 class="h4 fw-bold mb-3">Past Events</h2>
+  <div class="list-group">
+    {% for event in past_events limit:10 %}
+    <a href="{{ event.url | relative_url }}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+      <div>
+        <h3 class="h6 mb-1">{{ event.title | remove: ' : Hyndland Primary Parent Council' }}</h3>
+        <small class="text-muted">
+          {{ event.date | date: "%B %-d, %Y" }}
+          {% if event.start_time %} • {{ event.start_time }}{% endif %}
+        </small>
+      </div>
+      <span class="badge bg-secondary">Past</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<style>
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  transition: all 0.2s;
+}
+
+.list-group-item:hover {
+  background-color: var(--light-bg);
+}
+</style>
+

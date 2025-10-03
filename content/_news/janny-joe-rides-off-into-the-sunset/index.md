@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 It was with a tear in the eye and a lump in the throat that in Partick Bowling Club on Friday 26th August we said goodbye to one of Hyndland Primary School’s oldest relics, I mean much loved jannies, Janny Joe Cameron.
 

@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 **Tomorrow (Wed 6th) is the BIG DAY!** The mums will be heading off for their run at 9am… do come along and cheer them on.
 

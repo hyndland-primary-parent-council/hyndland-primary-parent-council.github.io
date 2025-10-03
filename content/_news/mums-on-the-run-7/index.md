@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 MOTR has so far raised almost £2000 for sport and outdoor activities at Hyndland. This year many families from school took part in ‘Five Go Running’. The event aimed to get more people out running, at the same time as raising funds to send all our classes to use the world class athletics facilities at Glasgow’s Emirates Stadium. For the latter our runners raised £630, enabling a trip for all P5-7 classes in the summer term, with this year’s P1-4 heading there next term.
 

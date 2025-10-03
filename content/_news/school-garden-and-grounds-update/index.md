@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
-
 Now that the good weather is around (for a bit anyway), here are a few garden activities that are going on:
 
 **School garden and P1 playground**  

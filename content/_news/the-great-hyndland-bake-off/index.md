@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
-
 On Friday 12 May, Hyndland Primary School held its very own edition of the critically acclaimed (or at least widely watched) “Bake Off”, in the interim period during its transition from the BBC to C4. Unfortunately, neither Mary Berry nor Paul Hollywood were in attendance, nor the intrepid Mel and Sue, but we did have out very own Louise Love and Mums on the Run, who by all accounts arranged a veritable bakers’ banquet, with numerous entries coming in from across the pupil and parent body.
 
 [![](/assets/images/2017/05/BakeOff2017-225x300.jpg)](/assets/images/2017/05/BakeOff2017.jpg)

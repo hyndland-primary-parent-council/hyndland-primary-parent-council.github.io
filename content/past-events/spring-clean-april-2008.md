@@ -8,7 +8,6 @@ source_path: past-events/spring-clean-april-2008/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/), [School Garden](category/garden/)
 
 [![](/assets/images/2012/08/p1010003-150x150.jpg)](/assets/images/2012/08/p1010003.jpg)
 

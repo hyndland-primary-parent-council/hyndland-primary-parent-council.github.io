@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 You may have noticed a few changes around the school grounds, thanks in large part to a huge effort from Susan Taylor (Parent Council Additional Member), who has been in working away after school and at weekends to improve the outdoor environment around the school.
 

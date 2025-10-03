@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [Past Events](category/past-events/)
 
 A huge thanks to the 15 or so parents and children who attended the summer working bee with great success; bringing tools, enthusiasm, ideas and food to keep us all going. A great achievement in one day and a testament to how working together can achieve great things and as one of the parents said on the day:
 

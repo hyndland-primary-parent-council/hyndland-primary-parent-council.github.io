@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[Mums on the Run](category/mums-on-the-run/), [News](/news/)
 
 Hyndland Primary has a Jog Scotland running club for mums at school – Mums on the Run. &nbsp;Our wee club caters for all abilities, beginners included. If you fancy getting fitter and meeting some other friendly women, come along! We meet at 9am on Fridays in the big playground and, like true athletes, usually go for a coffee after. No fancy trainers or kit required! Just bring yourself.
 

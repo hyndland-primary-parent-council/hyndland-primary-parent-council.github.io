@@ -9,7 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
 
 # [Summer help for the school gardens and plants needed](/news/summer-help-for-the-school-gardens-and-plants-needed/)
 

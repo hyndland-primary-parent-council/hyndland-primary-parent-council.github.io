@@ -1,0 +1,347 @@
+:root {
+  --primary: #2563eb;
+  --primary-dark: #1e40af;
+  --success: #10b981;
+  --ink: #1f2937;
+  --muted: #6b7280;
+  --light-bg: #f9fafb;
+  --border: #e5e7eb;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+/* Modern Navigation */
+.navbar {
+  background: white !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--ink) !important;
+  letter-spacing: -0.5px;
+}
+
+.nav-link {
+  color: var(--muted) !important;
+  font-weight: 500;
+  padding: 0.5rem 1rem !important;
+  transition: color 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--primary) !important;
+}
+
+/* Hero Section - Modern & Clean */
+.hero {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0 3rem;
+  color: white;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.40);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  letter-spacing: -1px;
+}
+
+.hero p {
+  font-size: 1.125rem;
+  opacity: 0.95;
+  max-width: 600px;
+}
+
+/* Action Buttons */
+.btn-primary {
+  background: var(--primary);
+  border: none;
+  padding: 0.625rem 1.5rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+}
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.btn-success {
+  background: var(--success);
+  border: none;
+  padding: 0.625rem 1.5rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+}
+
+.btn-success:hover {
+  background: #059669;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+}
+
+.btn-outline-primary {
+  border: 2px solid white;
+  color: white;
+  padding: 0.625rem 1.5rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  background: transparent;
+  transition: all 0.2s;
+}
+
+.btn-outline-primary:hover {
+  background: white;
+  color: var(--primary);
+}
+
+.btn-outline-secondary {
+  border: 2px solid var(--border);
+  color: var(--ink);
+  padding: 0.625rem 1.5rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  background: transparent;
+  transition: all 0.2s;
+}
+
+.btn-outline-secondary:hover {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+/* News Cards - Modern Design */
+.news-card {
+  background: white;
+  border-radius: 1rem;
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  transition: all 0.3s;
+  position: relative;
+}
+
+.news-card:hover {
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+  border-color: var(--primary);
+}
+
+.news-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--primary);
+  border-radius: 1rem 0 0 1rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.news-card:hover::before {
+  opacity: 1;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.5px;
+}
+
+.post-title a {
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.post-title a:hover {
+  color: var(--primary);
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.meta::before {
+  content: '📅';
+  font-size: 1rem;
+}
+
+/* Sidebar Cards */
+.card {
+  background: white;
+  border-radius: 1rem;
+  border: 1px solid var(--border);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card h3 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.card ul li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card ul li a:hover {
+  color: var(--primary);
+}
+
+.card ul li a::before {
+  content: '→';
+  color: var(--primary);
+  font-weight: bold;
+}
+
+/* Related News Cards */
+.related-news-card {
+  background: var(--light-bg);
+  border-radius: 0.5rem;
+  border-left: 3px solid var(--primary);
+  transition: all 0.2s;
+}
+
+.related-news-card:hover {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transform: translateX(2px);
+}
+
+/* Footer */
+.footer {
+  background: var(--ink);
+  color: #9ca3af;
+  padding: 3rem 0 2rem;
+  margin-top: 4rem;
+  border-top: none;
+}
+
+.footer h6 {
+  color: white;
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.footer a {
+  color: #9ca3af;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer strong {
+  color: white;
+  font-size: 1.125rem;
+}
+
+/* Content pages styling */
+.content-wrapper {
+  background: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  border: 1px solid var(--border);
+}
+
+/* Breadcrumb */
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "›";
+  color: var(--muted);
+  padding: 0 0.5rem;
+}
+
+.breadcrumb-item a:hover {
+  text-decoration: underline;
+}
+
+/* Utilities */
+.badge-new {
+  background: var(--success);
+  color: white;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.625rem;
+  border-radius: 0.375rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .news-card {
+    padding: 1.25rem;
+  }
+  .content-wrapper {
+    padding: 1.25rem;
+  }
+}
+

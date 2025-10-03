@@ -8,7 +8,6 @@ source_path: past-events/spring-clean-18-may-2014/index.html
 extracted_mode: article
 author: admin
 ---
-[Past Events](category/past-events/), [School Garden](category/garden/)
 
 [![](/assets/images/2014/06/Spring-Clean-2014-273-150x150.jpg)](past-events/spring-clean-18-may-2014/attachment/spring-clean-2014-273/)
 

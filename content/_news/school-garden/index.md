@@ -9,8 +9,6 @@ extracted_mode: article
 author: admin
 layout: news_article
 ---
-[News](/news/), [School Garden](category/garden/)
-
 At Hyndland Primary we are keen to promote outdoor learning. The school garden is currently maintained by green fingered parent Helen Rolph, but she needs help. Would you be able to volunteer some of your time? She is always looking for volunteers to help out not just in the school garden, but with the playgrounds too. You could water the gardens and pots (especially the pots at the main door, which is now covered by scaffolding), help with planting, digging and preparing plants and seeds for classes.
 
 The school garden has also been opening up after school one day a week to encourage the children to do some gardening, and if anyone is available to help out with that it would be great.
