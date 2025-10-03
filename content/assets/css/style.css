@@ -332,6 +332,30 @@ body {
   letter-spacing: 0.5px;
 }
 
+/* Content images - prevent overflow */
+.content-wrapper img,
+.content img,
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+
+/* For linked images */
+.content-wrapper a img,
+.content a img,
+article a img {
+  transition: opacity 0.2s;
+}
+
+.content-wrapper a:hover img,
+.content a:hover img,
+article a:hover img {
+  opacity: 0.9;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .hero h1 {
@@ -344,4 +368,5 @@ body {
     padding: 1.25rem;
   }
 }
+
 

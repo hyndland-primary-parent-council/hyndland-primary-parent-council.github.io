@@ -8,9 +8,5 @@ extracted_mode: article
 author: admin
 ---
 
-
-# Twin Trail Challenge
-
-
 [![](/assets/images/2022/03/Twin-Trail-banner-1024x999.jpg)](/twin-trail-challenge/)
 _Click the image to reach the Twin Trail Challenge page._
