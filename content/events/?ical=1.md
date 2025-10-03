@@ -1,7 +1,0 @@
----
-title: "?ical=1"
-date: '2025-10-01'
-source_path: events/?ical=1/index.html
-extracted_mode: full_document
-categories: []
----
