@@ -5,7 +5,7 @@ source_path: contact-us/index.html
 extracted_mode: article
 categories: []
 ---
-You can contact the Parent Council by emailing&nbsp; [enquiries@hyndlandprimaryparentcouncil.org](enquiries@hyndlandprimaryparentcouncil.org),&nbsp; You can also email your year&nbsp; rep with any concerns or queries by clicking their name in the list below.
+You can contact the Parent Council by emailing&nbsp; [hello@hyndlandprimary.parent-council.scot](hello@hyndlandprimary.parent-council.scot),&nbsp; You can also email your year&nbsp; rep with any concerns or queries by clicking their name in the list below.
 
 You can subscribe to our newsletter by following [this link](newsletter-subscription/).
 
@@ -15,28 +15,28 @@ You can subscribe to an RSS feed of the news section of this site [here](feed/).
 
 Please contact the&nbsp;[webmaster](mailto:hspcwebmaster@gmail.com) to report any errors or faults on this website.
 
-### PARENT COUNCIL 2020-2021
+### PARENT COUNCIL 2025-2026
 
-_P1 rep&nbsp;_– [Roz Laing](mailto:roz@hyndlandprimaryparentcouncil.org)
+_P1 reps&nbsp;_– Samantha Frediksen-Freer & Despo Pentara Gale
 
-_P2 rep_&nbsp;– [Susan Kesson](mailto:susan@hyndlandprimaryparentcouncil.org) &&nbsp;[Alexis Wright](mailto:alexis@hyndlandprimaryparentcouncil.org)
+_P2 rep_&nbsp;– Ahmed Subeh
 
-_P3 rep –_ [Jaime Guenther](mailto:jaime@hyndlandprimaryparentcouncil.org)
+_P3 rep –_ Nina Bristow
 
-_P4 rep –_ [Natalie Watson](mailto:natalie@hyndlandprimaryparentcouncil.org)
+_P4 rep –_ Michele Battisti & Rina Semba
 
-_P5 rep & Secretary –_ [Dorian Grieve](mailto:dorian@hyndlandprimaryparentcouncil.org)
+_P5 rep & Secretary –_ Roz Laing
 
-_P6 reps –_ [Clare Keatley](mailto:clare@hyndlandprimaryparentcouncil.org)&nbsp;& [Katie Brady Patterson](mailto:katie@hyndlandprimaryparentcouncil.org)
+_P6 reps –_ Susan Kesson
 
-_P7 rep –&nbsp;_[Anne-Marie Rigby](mailto:annie@hyndlandprimaryparentcouncil.org)
+_Chair –_ Dorian Grieve
 
-_Chair –_ [Alan Bonnyman](mailto:alan@hyndlandprimaryparentcouncil.org)
+_Secretary –_
 
-_Treasurer –_ [Chris Bryce](mailto:chris@@hyndlandprimaryparentcouncil.org)
+_Treasurer –_
 
-_Additional member –_ Steven Gallacher
+_Additional member –_
 
-_Senior Leadership Team –_ Helen Brown, Stephen Frame, Julie Wynn
+_Senior Leadership Team –_ Helen Brown
 
-_Community member –_ Fiona Ansdell (After-School Club manager)
+_Community member –_

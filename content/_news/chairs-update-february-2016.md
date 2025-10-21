@@ -22,7 +22,7 @@ Also, Glasgow City Council are finally looking to address the traffic issue arou
 
 There is a Parent Council Quiz Night organised by our own Mums on the Run coming up at Partick Bowling Club on Friday 4 March from 7.30pm, which we would urge you to attend, both in terms of it being a great laugh where prizes can be won, as well as raising much-needed funds for the school; in this case, buddy caps. Please come along and support us in supporting the school.
 
-Please come along to the Parent Council meetings – the next of which is on Wednesday 24 February at 7pm – and contact me or any of your Parent Council reps if you have any queries or questions that you’d like to discuss. The Parent Council email address is: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+Please come along to the Parent Council meetings – the next of which is on Wednesday 24 February at 7pm – and contact me or any of your Parent Council reps if you have any queries or questions that you’d like to discuss. The Parent Council email address is: [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot)
 
 Best wishes,
 

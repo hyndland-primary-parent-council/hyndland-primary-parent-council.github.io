@@ -17,6 +17,6 @@ The afternoon provided an opportunity for the confectionery entries to be feaste
 
 Thank you and well done to all of the bakers for your entries and to Louise, MOTR and all of the parent and pupil helpers for arranging and facilitating a successful and enjoyable day.
 
-If anyone has more fundraising ideas to help the Parent Council raise funds to make improvements to the learning experience for the children at the school (and for outdoor learning in particular), please contact Nadia Miller or Daria Jarrett via the Parent Council email: enquiries@hyndlandprimaryparentcouncil.org
+If anyone has more fundraising ideas to help the Parent Council raise funds to make improvements to the learning experience for the children at the school (and for outdoor learning in particular), please contact Nadia Miller or Daria Jarrett via the Parent Council email: hello@hyndlandprimary.parent-council.scot
 
 _The Head Teacher, Ms Helen Brown, says: “Thanks again for all the hard work and creativity poured into [this] event – it was nice to see so many people coming along to support a good cause but also enjoying being together – a classic case of having their cake and eating it!”_

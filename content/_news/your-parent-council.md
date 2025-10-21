@@ -24,4 +24,4 @@ At the AGM on 10 September the following Parent Council Representation was agree
 
 The Parent Council is also attended by the Head Teacher, Mrs Helen Brown and the Depute Head Teacher, Mrs Catherine McQuarrie.
 
-For contacting the Parent Council by email, either contact the email addresses above, or the following email, which will be redirected as appropriate: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+For contacting the Parent Council by email, either contact the email addresses above, or the following email, which will be redirected as appropriate: [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot)

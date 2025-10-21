@@ -20,4 +20,4 @@ The change in venue will allow us to retain more income to use on school resourc
 
 There is no bar at the Community Hall and alcohol cannot be sold, so it is BYOB, which is allowed. Soft drinks will be provided free for children and hopefully there will also be enough to cater for parents/carers/teachers who are non-drinkers or designated drivers.
 
-We will have to completely clean up immediately after the event, ready for the Hall’s use the following morning, so we will also be looking for volunteers who can help do this. Please contact us at [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org).
+We will have to completely clean up immediately after the event, ready for the Hall’s use the following morning, so we will also be looking for volunteers who can help do this. Please contact us at [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot).

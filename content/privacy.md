@@ -13,4 +13,4 @@ We will not share personal information about you with any other individuals or o
 
 If you have a complaint about how we have kept your information secure, or how we have responded to a request to access, update or erase your data, you can refer us to the Information Commissioner’s Office (ICO).
 
-In order to receive newsletters and other email notifications, please follow [this link to subscribe](newsletter-subscription/) or alternately email us at [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org) asking to be added to the Parent Council subscription list and providing us with your first name, surname, email address, the year your child will enter Primary 7.
+In order to receive newsletters and other email notifications, please follow [this link to subscribe](newsletter-subscription/) or alternately email us at [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot) asking to be added to the Parent Council subscription list and providing us with your first name, surname, email address, the year your child will enter Primary 7.

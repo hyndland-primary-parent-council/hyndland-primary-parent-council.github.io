@@ -10,7 +10,7 @@ layout: news_article
 ---
 Next meeting: Wednesday 17 January 2018, 7pm – 8.30pm, Staff room, Hyndland Primary School
 
-Hyndland Primary School Parent Council is only as good as the support and involvement of those who contribute to it and the work of the wider Parent Forum. We are always looking for as wide a level of engagement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+Hyndland Primary School Parent Council is only as good as the support and involvement of those who contribute to it and the work of the wider Parent Forum. We are always looking for as wide a level of engagement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot)
 
 If you have anything you would like to raise at Parent Council, please contact the Chair, John Lewis at [john.lewis-hpc@hotmail.co.uk](mailto:john.lewis-hpc@hotmail.co.uk)
 

@@ -20,15 +20,15 @@ All parents and carers of pupils at the school are automatically members of the 
 
 Each year (P1, P2, P3, etc) has a year group rep who is a member of the Parent Council. These reps help disseminate information to parents of children in the relevant year and also take general issues raised by parents back to the school, whether at class teacher or head teacher level.
 
-Please&nbsp;[contact](contact-us/) your child’s year group Rep or the Parent Council Secretary if you would like the Parent Council to raise an issue with the school.&nbsp;However, please note that matters concerning individual children should be referred directly to your child’s class teacher or to the [Head Teacher](mailto:headteacher@hyndland-pri.glasgow.sch.uk).
+Please&nbsp;[contact](../contact-us) your child’s year group Rep or the Parent Council Secretary if you would like the Parent Council to raise an issue with the school.&nbsp;However, please note that matters concerning individual children should be referred directly to your child’s class teacher or to the [Head Teacher](mailto:headteacher@hyndland-pri.glasgow.sch.uk).
 
 As well as the parent reps, the Parent Council has representatives from the school and two co-opted members representing wider interests.
 
 The two sub-committees also give parents and carers a way to be involved in making improvements at Hyndland Primary:
 
-**Fundraising** : Organises fund-raising events, sponsored runs, quiz nights, ceilidhs etc.  
+**Fundraising** : Organises fund-raising events, sponsored runs, quiz nights, ceilidhs etc.
 **Playground** : Helps plan and implement improvements in the school’s playgrounds.
 
-Please [email](mailto:enquiries@hyndlandprimaryparentcouncil.org) for more information on how to get involved.
+Please [email](mailto:hello@hyndlandprimary.parent-council.scot) for more information on how to get involved.
 
 Parent Council meetings are usually held once a month on a Wednesday at 7.00pm in the school staff room, however, because of the coronavirus pandemic they will be held on Zoom or an equivalent online platform for the foreseeable future.

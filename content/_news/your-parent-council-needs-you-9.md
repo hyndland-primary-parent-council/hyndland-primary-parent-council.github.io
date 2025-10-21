@@ -14,7 +14,7 @@ Hyndland Primary School Parent Council is only as good as the support and involv
 
 Please come along to the AGM and find out what we did during 2017-18 and what we plan to do during the 2018-19 school year.
 
-We are always looking for as a wide a level of engagement and involvement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+We are always looking for as a wide a level of engagement and involvement with the Parent Council as possible, so please do approach Parent Council representatives with your comments, views and ideas and come along to the monthly meetings or email us at: [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot)
 
 If you have anything you would like to raise at Parent Council please contact the Chair, John Lewis, at [john.lewis-hpc@hotmail.co.uk](mailto:john.lewis-hpc@hotmail.co.uk)
 

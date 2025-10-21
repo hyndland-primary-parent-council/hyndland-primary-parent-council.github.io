@@ -12,4 +12,4 @@ layout: news_article
 
 Please feel free to come along and find out more about what your Parent Council does.
 
-Contact your Parent Council rep if you have any queries or questions that you’d like to discuss. The Parent Council email address is: [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org)
+Contact your Parent Council rep if you have any queries or questions that you’d like to discuss. The Parent Council email address is: [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot)
