@@ -5,7 +5,8 @@ source: content
 layouts_dir: _layouts
 
 title: "Hyndland Primary Parent Council"
-description: "Parent Noticeboard"
+description: "Official website of the Hyndland Primary School Parent Council in Glasgow. News, events, fundraising and school community updates."
+url: "https://hyndlandprimary.parent-council.scot"
 
 permalink: pretty
 markdown: kramdown
