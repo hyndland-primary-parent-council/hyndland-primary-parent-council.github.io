@@ -5,7 +5,7 @@ source_path: contact-us/index.html
 extracted_mode: article
 categories: []
 ---
-You can contact the Parent Council by emailing&nbsp; [hello@hyndlandprimary.parent-council.scot](hello@hyndlandprimary.parent-council.scot),&nbsp; 
+You can contact the Parent Council by emailing&nbsp; [hello@hyndlandprimary.parent-council.scot](hello@hyndlandprimary.parent-council.scot).
 
 
 ### PARENT COUNCIL 2025-2026
@@ -20,16 +20,12 @@ _P4 reps –_ Michele Battisti & Rina Semba
 
 _P5 rep –_ Roz Laing
 
-_P6 rep –_ Susan Kesson
+_P6 rep & Treasurer  –_ Susan Kesson
+
+_P7 rep –_ Claire McDowall
 
 _Chair –_ Dorian Grieve
 
-_Secretary –_
-
-_Treasurer –_
-
-_Additional member –_
+_Secretary –_ Samantha Fredriksen-Freer
 
 _Senior Leadership Team –_ Helen Brown
-
-_Community member –_
