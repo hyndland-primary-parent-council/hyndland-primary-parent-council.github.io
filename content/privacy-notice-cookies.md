@@ -35,7 +35,7 @@ If you have a complaint about how we have kept your information secure, or how w
 
 * * *
 
-In order to receive newsletters and other email notifications, please email us at [enquiries@hyndlandprimaryparentcouncil.org](mailto:enquiries@hyndlandprimaryparentcouncil.org) and specifically state that you wish for the Parent Council to keep in touch with you, providing us with your first name, surname and email address.
+In order to receive newsletters and other email notifications, please email us at [hello@hyndlandprimary.parent-council.scot](mailto:hello@hyndlandprimary.parent-council.scot) and specifically state that you wish for the Parent Council to keep in touch with you, providing us with your first name, surname and email address.
 
 Please copy, paste and complete the following statement in your email to us:
 
@@ -146,7 +146,7 @@ In response to requests for the ability to make donations to the Parent Council 
 
 This website is for parents and carers of pupils at Hyndland Primary School and it is run by its Parent Council.
 
-If you'd like to receive e-mail updates, please [e-mail us](mailto:enquiries@hyndlandprimaryparentcouncil.org) and we can add you to the mailing list.
+If you'd like to receive e-mail updates, please [e-mail us](mailto:hello@hyndlandprimary.parent-council.scot) and we can add you to the mailing list.
 
 On the other hand, if you would like to contact the school directly, you can do so by calling them on 0141 339 7207
 
