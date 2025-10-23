@@ -5,8 +5,8 @@ event_date: '2026-01-21'
 layout: event
 extracted_mode: article
 categories: ['Events']
-start_time: '6:30 pm'
-end_time: '7:30 pm'
+start_time: '7:00 pm'
+end_time: '8:00 pm'
 venue_name: 'Hyndland Primary School'
 venue_address: '44 Fortrose Street, G11 5LP, United Kingdom'
 ---
