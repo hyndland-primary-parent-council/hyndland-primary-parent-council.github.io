@@ -5,6 +5,30 @@ extracted_mode: article
 categories: []
 ---
 
+Subscribe to our [calendar](/calendar) to have all dates and any updates appear automatically on your device's calendar.
+
+<div class="d-flex align-items-center gap-2 flex-wrap mb-3">
+<a href="https://calendar.google.com/calendar/embed?src=hppcshared%40gmail.com&ctz=Europe%2FLondon"
+   target="_blank"
+   aria-label="Google Calendar"
+   title="Google Calendar"
+   class="btn btn-outline-secondary text-danger">
+  <i class="bi bi-google"></i>
+</a>
+<a href="webcal://calendar.google.com/calendar/ical/hppcshared%40gmail.com/public/basic.ics"
+   aria-label="Apple Calendar"
+   title="Apple Calendar"
+   class="btn btn-outline-secondary text-info">
+  <i class="bi bi-apple"></i>
+</a>
+<a href="https://outlook.live.com/calendar/0/addfromweb?url=https://calendar.google.com/calendar/ical/hppcshared%40gmail.com/public/basic.ics"
+   target="_blank"
+   title="Outlook Calendar"
+   class="btn btn-outline-secondary text-warning">
+  <i class="bi bi-calendar-event"></i>
+</a>
+</div>
+
 
 **August**
 
