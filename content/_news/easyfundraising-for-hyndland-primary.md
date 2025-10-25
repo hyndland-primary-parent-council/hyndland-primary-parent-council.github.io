@@ -34,3 +34,19 @@ Places you probably shop already, like:
 #### How We're Doing
 
 So far our 110 supporters have raised £2,846.28. Every little helps – whether it's your weekly shop or a one-off purchase, it all adds up to make a real difference for our kids.
+
+---
+
+Already have an account? Make sure you download the easyfundraising app on your phone.
+<div class="d-flex gap-2">
+    <div>
+        <a href="https://apps.apple.com/gb/app/easyfundraising/id915474725">
+        <img src="/assets/images/resources/appstore-badge.svg" />
+        </a>
+    </div>
+    <div>
+        <a href="https://play.google.com/store/apps/details?id=com.ef.easyfundraising">
+            <img style="width: 140px;" src="/assets/images/resources/gplay-badge.svg" />
+        </a>
+    </div>
+</div>
