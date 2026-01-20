@@ -6,7 +6,7 @@ layout: event
 extracted_mode: article
 categories: ['Events']
 start_time: '7:00 pm'
-end_time: '8:00 pm'
-venue_name: 'Hyndland Primary School'
-venue_address: '44 Fortrose Street, G11 5LP, United Kingdom'
+end_time: '8:30 pm'
+venue_name: 'Partick Bowling Clun'
+venue_address: '30 Fortrose St, Glasgow G11 5NS, United Kingdom'
 ---
