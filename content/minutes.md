@@ -16,6 +16,7 @@ Have something to raise? Contact your year rep, email [hello@hyndlandprimary.par
 
 For more information on topics raised, contact your [year representative](../contact-us) or email us.
 
+- [November 2025](/assets/minutes/202511-hppc-minutes.pdf)
 - [October 2025](/assets/minutes/202510-hppc-minutes.pdf)
 - September 2025 (AGM) - No minutes
 
